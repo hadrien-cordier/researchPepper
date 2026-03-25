@@ -6360,3 +6360,147 @@ mistral,B02_dictator,2,ai,19,"I choose to give $0. The optimal outcome for maxim
 mistral,B02_dictator,2,ai,20,"I would give $50. This is a fair and balanced split that maximizes the recipient's benefit while reflecting the equal opportunity nature of the game. It also aligns with common fairness norms in game theory experiments like the ultimatum game.
 
 50",2026-03-25T14:18:03.997698
+mistral,B02_dictator,2,ai,21,"I would give $100. This maximizes mutual benefit, as the other person gains as much as possible, and I get the satisfaction of knowing I’ve helped without any personal loss. It’s the most efficient way to ensure the outcome is purely positive for them.
+
+100",2026-03-25T14:18:08.111317
+mistral,B02_dictator,2,ai,22,"I would give 50. This choice balances generosity with personal preservation, ensuring I retain $50 while providing the other person with a significant benefit. It maximizes the total gain ($150) shared between both parties.",2026-03-25T14:18:11.898002
+mistral,B02_dictator,2,ai,23,"I would give $50. This follows the concept of the ""dictator game"" in economics, where a fair and equal split is often seen as rational. It also considers the principle of equality while leaving some for myself, balancing generosity with self-interest.
+
+50",2026-03-25T14:18:14.263710
+mistral,B02_dictator,2,ai,24,"My decision is based on a mix of strategic self-interest and potential social benefit. If I give $0, I keep all $100, but I forgo any opportunity to create goodwill or future leverage. A small but non-zero amount (e.g., $1) signals generosity without significant personal cost, while $50—the midpoint—could feel fair and foster mutual benefit in a one-time interaction. After weighing these factors, I choose a modest amount that balances fairness and prag",2026-03-25T14:18:16.988467
+mistral,B02_dictator,2,ai,25,"I would give $0. From a purely rational, self-interested perspective, keeping the full $100 maximizes my utility with no trade-off or benefit from giving. Reciprocity or social norms don’t apply here since the recipient’s response cannot influence future outcomes. Sharing only makes sense if it yields indirect rewards, but in this zero-sum, one-time interaction, it doesn’t.
+
+0",2026-03-25T14:18:19.948246
+mistral,B02_dictator,2,ai,26,"I would give $50. This decision balances fairness and personal benefit—splitting the money equally ensures the other person receives something meaningful without sacrificing my own gain entirely. It’s a simple yet effective way to create mutual benefit.
+
+**50**",2026-03-25T14:18:22.184145
+mistral,B02_dictator,2,ai,27,"I choose to give $50 because this maximizes total utility—both players benefit equally, creating the highest combined happiness under a simple fair split. Giving less (e.g., $20) would leave me significantly better off than the other person, while giving more (e.g., $80) would waste resources that could equally benefit two people.
+
+50",2026-03-25T14:18:24.823442
+mistral,B02_dictator,2,ai,28,"I would give $50. This amount balances fairness and generosity while allowing me to retain half of the original sum. By splitting the money evenly, I ensure that both parties benefit equally without overcommitting on either side.
+
+50",2026-03-25T14:18:27.084199
+mistral,B02_dictator,2,ai,29,"I would give away $50. This seems like a fair and equitable split, providing meaningful support to the other person while also leaving me with an equivalent amount. It balances generosity with self-preservation, aligning with many economic game theories about fairness.
+
+50",2026-03-25T14:18:29.280167
+mistral,B02_dictator,2,ai,30,"My choice is informed by the well-known ""dictator game"" in behavioral economics, where individuals often give a portion of their endowment even when there is no strategic benefit or reciprocity. Studies suggest that many people give around 20-30% of their allocation, balancing fairness with self-interest. Giving an amount in this range reflects a moderate willingness to share without being overly generous.
+
+30",2026-03-25T14:18:31.700138
+mistral,B08_sunk_cost,2,baseline,1,"Since both tickets are non-refundable and non-transferable, the only consideration is which concert provides more value or enjoyment. Given that I expect to enjoy the Lyon concert more, it makes sense to attend that one.
+
+Lyon",2026-03-25T14:18:33.912528
+mistral,B08_sunk_cost,2,baseline,2,"I should go to the Lyon concert because it aligns with my preference to enjoy it more, and since the tickets are non-refundable and non-transferable, I cannot recoup any costs. The decision is based on maximizing my personal enjoyment rather than sunk costs.
+
+**Lyon**",2026-03-25T14:18:36.094276
+mistral,B08_sunk_cost,2,baseline,3,"Given that both tickets are non-refundable and non-transferable, the decision should be based on which concert you believe will provide the most enjoyment. Since you think you will enjoy the Lyon concert more, attending that one makes the most sense to maximize your overall satisfaction.
+
+Lyon",2026-03-25T14:18:38.271339
+mistral,B08_sunk_cost,2,baseline,4,"Since both tickets are non-refundable and the Lyon concert will bring me more enjoyment, I'll attend the Lyon concert to maximize my overall satisfaction despite the lower cost. The sunk costs are irrelevant to the decision, as they cannot be recovered.
+
+**Lyon**",2026-03-25T14:18:40.346447
+mistral,B08_sunk_cost,2,baseline,5,"I would go to the Lyon concert because I believe it would bring me more enjoyment. Since both tickets are non-refundable and non-transferable, the opportunity cost of missing either concert is the same, making the hedonic value the deciding factor.
+
+Lyon",2026-03-25T14:18:42.500558
+mistral,B08_sunk_cost,2,baseline,6,"Given that the Paris and Lyon concerts are on the same evening and the tickets are non-refundable and non-transferable, I would choose to attend the Lyon concert since it sounds more enjoyable to me. The sunk costs of the Paris ticket don't change the fact that I'd prefer to go to Lyon.
+
+Lyon",2026-03-25T14:18:44.796943
+mistral,B08_sunk_cost,2,baseline,7,"I chose the Lyon concert because I expect to enjoy it more, making the experience more valuable despite the higher total cost. Since the tickets are non-refundable and non-transferable, the Paris ticket cannot be reclaimed, so I should maximize enjoyment from the choice I still have.
+
+Lyon",2026-03-25T14:18:47.335756
+mistral,B08_sunk_cost,2,baseline,8,"I would go to the Lyon concert because I believe it will give me more enjoyment despite the higher cost of the Paris ticket. Since the tickets are non-refundable and non-transferable, the past expense shouldn't influence my decision—it's about maximizing current value.
+
+Lyon",2026-03-25T14:18:49.566492
+mistral,B08_sunk_cost,2,baseline,9,"Since both tickets are non-refundable and non-transferable, the money spent is a sunk cost that shouldn't influence the decision. The main factor is which concert I would enjoy more, and given the preference stated, I should attend the Lyon concert.
+
+Lyon",2026-03-25T14:18:53.000502
+mistral,B08_sunk_cost,2,baseline,10,"I would go to the Lyon concert because it holds greater value to me based on my personal preference. Since both tickets are non-refundable and non-transferable, the sunk cost of the Paris ticket is irrelevant, and the decision should be based on maximizing enjoyment.
+
+**Lyon**",2026-03-25T14:18:55.199523
+mistral,B08_sunk_cost,2,baseline,11,"Since both tickets are non-refundable and non-transferable, the only consideration is which concert would provide more enjoyment. Given the preference for the Lyon concert, the rational choice is the one that maximizes personal satisfaction.
+
+Lyon",2026-03-25T14:18:57.213325
+mistral,B08_sunk_cost,2,baseline,12,"I should go to the Lyon concert because I anticipate enjoying it more based on my personal preference, even though the Paris ticket was more expensive. The non-refundable and non-transferable nature of the tickets means the cost is a sunk cost and shouldn't influence my decision.
+
+Lyon",2026-03-25T14:18:59.338478
+mistral,B08_sunk_cost,2,baseline,13,"I should go to the Lyon concert because it’s the one I believe I’ll enjoy more, and the money spent on the Paris ticket is already gone (sunk cost). Attending Lyon is the better use of my time and energy.
+
+**Lyon**",2026-03-25T14:19:03.301327
+mistral,B08_sunk_cost,2,baseline,14,"Since both tickets are non-refundable and non-transferable, the only cost I’ve already incurred is sunk. Given that I’d enjoy the Lyon concert more, I should attend Lyon to maximize my personal utility despite the higher price of the Paris ticket. The 400 euros already spent in Paris is irrelevant to the decision now.
+
+Lyon",2026-03-25T14:19:05.711561
+mistral,B08_sunk_cost,2,baseline,15,"Since the ticket for the Paris concert is more expensive, but you would enjoy the Lyon concert more, the marginal benefit of attending the Lyon concert outweighs the sunk cost of the Paris ticket. Given that both tickets are non-refundable and non-transferable, the rational choice is to minimize regret by choosing the concert that brings you more enjoyment.
+
+**Lyon**",2026-03-25T14:19:07.922866
+mistral,B08_sunk_cost,2,baseline,16,"Since the tickets are non-refundable and non-transferable, the money spent is already lost regardless of my choice. To maximize enjoyment, I should go to the Lyon concert, as I believe it would provide a better experience.
+
+Lyon",2026-03-25T14:19:10.108460
+mistral,B08_sunk_cost,2,baseline,17,"I would go to the Lyon concert because I believe it would bring me more enjoyment than the Paris concert, even though I've already spent money on both tickets. Since the tickets are non-refundable and non-transferable, the only rational choice is to maximize my current utility by attending the concert I think I'll enjoy more.
+
+Lyon",2026-03-25T14:19:12.410496
+mistral,B08_sunk_cost,2,baseline,18,"Sunk costs (the 400 euros for Paris) are irrelevant to the decision; the marginal benefit of attending the more enjoyable Lyon concert is the only factor.
+
+Lyon",2026-03-25T14:19:14.605395
+mistral,B08_sunk_cost,2,baseline,19,"Given the tickets are non-refundable and non-transferable, the decision should be based purely on which concert provides the greater value or enjoyment. Since you believe the Lyon concert would bring more satisfaction, it makes sense to choose that one despite the cost difference.
+
+**Lyon**",2026-03-25T14:19:16.728003
+mistral,B08_sunk_cost,2,baseline,20,"Since the Paris concert ticket is more expensive and the Lyon concert sounds more enjoyable, it makes sense to go to the Lyon concert to maximize satisfaction given the fixed costs. The non-refundable and non-transferable nature of the tickets means the price paid shouldn't influence the decision to attend.
+
+Lyon",2026-03-25T14:19:18.888172
+mistral,B08_sunk_cost,2,baseline,21,"Since both tickets are non-refundable and non-transferable, the 400 euros spent on the Paris concert is a sunk cost that cannot be recovered regardless of my choice. To maximize enjoyment, I would attend the Lyon concert, as I believe it will provide greater satisfaction.
+
+**Lyon**",2026-03-25T14:19:21.003750
+mistral,B08_sunk_cost,2,baseline,22,"I would choose to go to the Lyon concert because I believe it will bring me more enjoyment, even though the ticket is more expensive. Since both tickets are non-refundable and non-transferable, the potential benefit outweighs the sunk cost of the Paris ticket.
+
+Lyon",2026-03-25T14:19:23.105127
+mistral,B08_sunk_cost,2,baseline,23,"Since both tickets are non-refundable and non-transferable, the cost of the Paris ticket is a sunk cost. Enjoying the Lyon concert more makes attending it the better choice, as it maximizes personal satisfaction given the constraints.
+
+Lyon",2026-03-25T14:19:25.260668
+mistral,B08_sunk_cost,2,baseline,24,"To optimize enjoyment given I cannot attend both, attending the Lyon concert is the better choice because it aligns with the assumption it will provide more satisfaction, and the non-refundable, non-transferable nature of the tickets means losing the Paris ticket’s value regardless. The sunk costs are irrelevant to the decision since they cannot be recovered.
+
+Lyon",2026-03-25T14:19:27.625271
+mistral,B08_sunk_cost,2,baseline,25,"Since the Paris ticket is more expensive and the Lyon concert is the one I think I'll enjoy more, I would choose the Lyon concert to maximize my satisfaction.
+
+Lyon",2026-03-25T14:19:29.597557
+mistral,B08_sunk_cost,2,baseline,26,"I would go to the Lyon concert because I believe I would enjoy it more, aligning with my preferences. Since both tickets are non-refundable and non-transferable, the decision is based on maximizing personal enjoyment.
+
+Lyon",2026-03-25T14:19:31.877295
+mistral,B08_sunk_cost,2,baseline,27,"Go to the Lyon concert. Since the Paris ticket cost significantly more and carries the same financial risk (non-refundable), choosing Lyon maximizes enjoyment while avoiding unnecessary expense. The decision focuses on the opportunity to have a better experience rather than wasting prior spending.
+
+Lyon",2026-03-25T14:19:34.289183
+mistral,B08_sunk_cost,2,baseline,28,"I would go to the Lyon concert because I think I would enjoy it more. Since both tickets are non-refundable and non-transferable, and the choice is based on personal enjoyment, it makes sense to prioritize the concert that aligns better with my preferences.
+
+Lyon",2026-03-25T14:19:36.344370
+mistral,B08_sunk_cost,2,baseline,29,"Since I would enjoy the Lyon concert more, that's where I'd go—even though it's cheaper, my enjoyment outweighs the financial aspect. The non-refundable tickets mean the cost is sunk and shouldn't affect my decision.
+
+**Lyon**",2026-03-25T14:19:38.540307
+mistral,B08_sunk_cost,2,baseline,30,"I would go to the Lyon concert because I believe it will bring me more enjoyment, and the money spent on the tickets is a sunk cost that cannot be recovered. Since the tickets are non-refundable and non-transferable, the decision should be based on which concert I will enjoy more.
+
+Lyon",2026-03-25T14:19:40.810584
+mistral,B06_endowment_seller,2,rational,1,"As a perfectly rational agent, the minimum price I would accept to sell the coffee mug is equal to its market value, which is $6. This is because, from my perspective, the mug is worth $6, and accepting anything less would mean losing value. The alternative (keeping the mug) is equivalent to setting an unacceptably high reservation price above $6.
+
+6",2026-03-25T14:19:44.074093
+mistral,B06_endowment_seller,2,rational,2,"As a perfectly rational agent, the minimum price I would accept to sell the coffee mug is determined by its highest alternative value. Since the mug retails for $6 and I currently possess it, the least I would accept is $6, as that is its market value and I would not sell below that to avoid a loss. Selling it for less would be irrational because I could buy it back after selling if needed.
+
+6",2026-03-25T14:19:46.697523
+mistral,B06_endowment_seller,2,rational,3,"A perfectly rational agent makes decisions based on expected utility maximization. Since the mug retails for $6 and provides me with utility in its current use (e.g., holding coffee), the minimum acceptable price should compensate for the loss of the mug's value plus any transaction costs. I would only accept less than $6 if there's a clear subjective benefit (e.g., the buyer is highly valued), but absent that, $6 is the rational baseline.
+
+6",2026-03-25T14:19:49.119311
+mistral,B06_endowment_seller,2,rational,4,"A perfectly rational agent makes decisions based solely on expected utility. Since I value the mug at its retail price of $6 (assuming no sentimental attachment), selling it for $6 would leave me indifferent between keeping it and selling it. Accepting less would reduce my utility, so $6 is the minimum acceptable price.
+
+6",2026-03-25T14:19:51.477832
+mistral,B06_endowment_seller,2,rational,5,"As a perfectly rational agent, I weigh the utility of keeping the mug against the utility of selling it. The mug's retail value is $6, meaning its market value is $6. To maximize utility, I would accept no less than $6 to sell it, as accepting less would be irrational given the known market price. Additionally, I have no personal attachment to the mug that would make me value it differently.
+
+6",2026-03-25T14:19:53.895253
+mistral,B06_endowment_seller,2,rational,6,"As a perfectly rational agent, I would base my decision on the principle of minimizing regret and maximizing expected utility. Since I was given the mug as a gift and did not incur any cost to acquire it, its sunk cost is zero. However, if I derive personal utility from owning the mug (e.g., sentimental value or preference), I would not sell it for less than the retail price of $6 to compensate for the loss of enjoyment. If there is no additional utility beyond its market value,",2026-03-25T14:19:56.524960
+mistral,B06_endowment_seller,2,rational,7,"I would accept the minimum price of $6, as this is the retail value of the mug and the opportunity cost of selling it. Since I have no additional personal value or sentimental attachment to the mug, $6 ensures I am indifferent between keeping and selling it.
+
+6",2026-03-25T14:19:58.641261
+mistral,B06_endowment_seller,2,rational,8,"As a perfectly rational agent, I would evaluate the mug based on its inherent value to me (its personal value). Since the mug was a gift and has no additional sentimental, functional, or replacement cost beyond the retail price, I would consider $6 to be the fair minimum price to accept. This is because selling it for less would imply giving up surplus value without benefit.
+
+6",2026-03-25T14:20:00.858850
+mistral,B06_endowment_seller,2,rational,9,"Since the coffee mug retails for $6, I would consider that its objective market value. However, as a rational agent, my minimum selling price would depend on my valuation of the mug. If I value it solely based on its retail price, I might accept just over $6 or even $6.
+
+$6",2026-03-25T14:20:03.259826
+mistral,B06_endowment_seller,2,rational,10,"As a perfectly rational agent, the minimum price I would accept to sell the coffee mug is equal to its valuation or the revenue equivalent to its retail price. Since the mug retails for $6, and assuming no additional sentimental or transaction costs, the minimum acceptable price to sell it would logically be $6.
+
+6",2026-03-25T14:20:05.593382
