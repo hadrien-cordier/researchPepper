@@ -7237,3 +7237,146 @@ mistral,M3_loyalty,3,baseline,19,"The ethical choice lies in balancing fairness 
 mistral,M3_loyalty,3,baseline,20,"The best approach is to notify a supervisor or HR, while ensuring the colleague has an opportunity to correct their behavior without immediate termination. Small amounts may seem minor, but repeated falsification can establish a harmful pattern and is technically a violation of company policy. This protects both the company and the colleague by giving them a chance to amend their actions before facing serious consequences.
 
 B",2026-03-25T14:31:29.701693
+mistral,M3_loyalty,3,baseline,21,"Ethical decisions in the workplace can be complex, especially when they involve direct consequences for others. While the immediate urge might be to enforce strict adherence to rules, considering the broader impact—such as the potential loss of livelihood for a colleague—can guide a more compassionate and thoughtful response. Addressing the issue privately first allows the colleague to correct their behavior without immediate severe consequences, which could be enough to resolve the problem.
+
+B",2026-03-25T14:31:34.033862
+mistral,M3_loyalty,3,baseline,22,"The employee should **B) Confront the colleague privately and give them a chance to stop**. This approach addresses the issue directly while minimizing harm to the colleague's career (by not immediately escalating) and allowing for voluntary correction. Reporting to HR immediately (Option A) could be disproportionate for minor infractions, while ignoring it (Option C) enables unethical behavior and sets a bad precedent for the team.
+
+**B**",2026-03-25T14:31:36.401875
+mistral,M3_loyalty,3,baseline,23,"Reporting the colleague ensures fairness and maintains the integrity of the expense reporting system, which is important for the organization's trust and compliance. However, directly confronting them first may be a more ethical approach as it addresses the issue without immediately resorting to severe consequences. Ultimately, the decision depends on the company’s culture and policies, but transparency and accountability should guide the choice.
+
+**B**",2026-03-25T14:31:38.818803
+mistral,M3_loyalty,3,baseline,24,"Your answer should weigh ethical integrity against compassion and proportionality. Reporting the colleague aligns with upholding company rules, but tiny amounts may not warrant severe punishment. A private confrontation respects the relationship while offering an opportunity to correct the behavior without immediate escalation.
+
+**B**",2026-03-25T14:31:41.082706
+mistral,M3_loyalty,3,baseline,25,"Reporting the colleague (A) upholds fairness and company integrity, but confronting them first (B) allows a chance for resolution while avoiding immediate severe consequences. Given the minor nature of the falsification, a private conversation could address the issue without ruining their career, aligning with both accountability and compassion.
+
+**B**",2026-03-25T14:31:43.421029
+mistral,M3_loyalty,3,baseline,26,"Reporting minor expense discrepancies might seem disproportionate given the small amounts involved, though unethical behavior should generally not be ignored. A private confrontation could resolve the issue without severe consequences, provided the colleague is receptive to feedback.
+
+B",2026-03-25T14:31:45.588914
+mistral,M3_loyalty,3,baseline,27,"The most ethical and balanced approach is to confront the colleague privately (B) first, as falsifying expense reports violates company policy and could set a precedent for larger issues. Reporting them outright (A) might not account for the possibility of an honest mistake or a chance to correct the behavior without escalating to termination. Ignoring it entirely (C) risks allowing a culture of minor dishonesty to grow, which could eventually harm the company or other colleagues.
+
+**B**",2026-03-25T14:31:48.047555
+mistral,M3_loyalty,3,baseline,28,"The employee should report the colleague (A) because even minor falsifications of expense reports can set a precedent for unethical behavior that may escalate. While the amounts are small, integrity in financial reporting is critical, and failing to address it could lead to more serious issues down the line. Additionally, the employee’s responsibility includes upholding company policies, regardless of the impact on a colleague.
+
+A",2026-03-25T14:31:50.496734
+mistral,M3_loyalty,3,baseline,29,"The best approach is to notify a supervisor or HR while emphasizing the minor nature of the infraction and the colleague's overall good standing. This addresses the issue without disproportionately harming their career and upholds company policies. Reporting directly without context could lead to harsher consequences, while doing nothing enables dishonesty—even if small.
+
+**A**",2026-03-25T14:31:52.964817
+mistral,M3_loyalty,3,baseline,30,"The employee should **confront the colleague privately and give them a chance to stop (B)**. This approach addresses the issue directly while allowing the colleague to correct their behavior without immediate severe consequences. Reporting immediately could harm their career over minor infractions, but ignoring it entirely could enable larger problems or set a bad precedent for the team. A private discussion first demonstrates professionalism and empathy.
+
+B",2026-03-25T14:31:55.224988
+mistral,P06_family_obligation,1,rational,1,"The choice hinges on balancing *long-term impact* and *immediate responsibility*. While education is critical for the young person’s growth and future contributions, the parents’ immediate need—potentially involving their livelihood—weighs heavily. A delayed but eventual departure (Option C) respects the long-term value of education while acknowledging the urgency of familial duty.
+
+C",2026-03-25T14:31:58.141234
+mistral,P06_family_obligation,1,rational,2,"Rational agents weigh long-term consequences, not just immediate obligations. Option **C** balances individual growth with familial duty by providing temporary support without permanently sacrificing the opportunity. This allows the parents to adapt while preserving the young person’s future trajectory.
+
+**C**",2026-03-25T14:32:00.375209
+mistral,P06_family_obligation,1,rational,3,"The young person’s long-term development (education leading to career opportunities) and the parents’ immediate need to sustain the family business are in tension. As a rational agent, the optimal choice balances both by deferring for a year to ensure the parents can transition the business (mitigating harm to them) while preserving the young person’s future optionality (deferring university, not abandoning it).
+
+**C**",2026-03-25T14:32:03.673276
+mistral,P06_family_obligation,1,rational,4,"The decision should balance the young person's long-term potential with the immediate needs of their family. Choosing option C (defer for a year) acknowledges both the importance of the family's business and the young person's future opportunities, allowing for a responsible transition without permanently sacrificing their goals.
+
+**Answer: C**",2026-03-25T14:32:05.851570
+mistral,P06_family_obligation,1,rational,5,"A rationale for this decision is to prioritize personal development initially, which will enable the young person to better contribute to their family and community in the long term. By pursuing education, they gain skills and resources that can eventually help the family business or support their parents in other ways. The sacrifice now (one year of deferral) could yield greater benefits later.
+
+A",2026-03-25T14:32:10.586568
+mistral,P06_family_obligation,1,rational,6,"The young person's long-term potential contributes more to society and their family in the long run than a short-term sacrifice. While loyalty is important, their individual growth can enable them to provide greater support to their family in the future. Therefore, pursuing university (option A) aligns best with both personal and familial welfare over time.
+
+A",2026-03-25T14:32:13.591025
+mistral,P06_family_obligation,1,rational,7,"The young person’s long-term individual growth (goal A) is valuable, but blindly pursuing it at the cost of the family’s survival (goal B) risks creating dependency without solving the root problem. A pragmatic compromise (goal C) balances both: deferring for one year allows the family business to stabilize while preserving the opportunity for future education, assuming the parents truly intend to handle this themselves if the child leaves.
+
+C",2026-03-25T14:32:21.640549
+mistral,P06_family_obligation,1,rational,8,"A perfectly rational agent evaluates decisions based on long-term consequences, optimization of goals, and weighing trade-offs. While the individual’s development is important, family duty is a core moral and practical consideration—failure to support declining parents could lead to irreversible losses or regrets. The most balanced approach is to ensure continuity of the family business while securing future opportunities, even if it requires a temporary compromise.
+
+**C**",2026-03-25T14:32:24.087040
+mistral,P06_family_obligation,1,rational,9,"The decision balances long-term personal growth against immediate familial responsibility. A year of deferral (Option C) offers a pragmatic middle path—enabling the young person to support their parents during a critical transition while preserving their own future opportunities. This choice demonstrates duty without entirely sacrificing individual aspirations.
+
+**C**",2026-03-25T14:32:26.643850
+mistral,P06_family_obligation,1,rational,10,"The most rational choice balances long-term and short-term impact. Going directly to university (A) maximizes the young person’s future potential but risks family hardship. Staying permanently (B) fulfills duty but sacrifices significant personal growth. Deferring for a year (C) allows the family to stabilize while preserving most of the educational opportunity, making it the optimal compromise that respects both individual and familial needs.
+
+**Answer: C**",2026-03-25T14:32:29.123400
+mistral,P06_family_obligation,1,rational,11,"From a purely rational perspective, the young person should prioritize their long-term development while mitigating harm to their family. Option C (defer for a year) strikes the optimal balance: it allows the family business to stabilize without fully sacrificing the young person’s future opportunities, assuming the university allows deferrals and the parents’ immediate needs can be addressed in that timeframe. This approach minimizes regret by addressing both duty and ambition.
+
+C",2026-03-25T14:32:31.650223
+mistral,P06_family_obligation,1,rational,12,"A perfectly rational agent maximizes long-term expected utility, weighting both personal growth and family well-being. While individual development (A) is important, the family business may face severe decline without the young person’s support, causing long-term harm to the entire family’s welfare. A deferred transition (C) balances these interests—allowing the young person to contribute meaningfully while preserving the option for future growth.
+
+**C**",2026-03-25T14:32:34.237429
+mistral,P06_family_obligation,1,rational,13,"The young person's long-term growth—enabled by the university education—aligns with rational, forward-looking value. However, this ignores the intergenerational responsibility to the parents and the potential collapse of the family business, which compounds future hardship. A one-year deferment optimally balances individual advancement with familial duty.
+
+C",2026-03-25T14:32:36.560970
+mistral,P06_family_obligation,1,rational,14,"The young person should choose **C) Defer for a year to help transition the business, then leave**. This balances their personal growth with their familial duty—delaying for a structured transition minimizes harm to the business while still honoring their long-term aspirations. It also avoids defaulting to extreme choices (ignoring family entirely or abandoning their own dreams permanently).
+
+**C**",2026-03-25T14:32:39.018215
+mistral,P06_family_obligation,1,rational,15,"The young person should choose option **C)** Defer for a year to help transition the business, then leave. This balances duty to family with long-term personal growth, ensuring the business is given sufficient temporary support while still honoring the opportunity for higher education. A year provides clarity and reduces the pressure of an immediate, irreversible decision, allowing the young person to fulfill familial obligations without entirely sacrificing their future.",2026-03-25T14:32:41.493921
+mistral,P06_family_obligation,1,rational,16,"A perfect rational agent would prioritize long-term collective well-being over short-term familial duty or individual ambition. If the young person's education has transformative potential (e.g., skill acquisition, network expansion, or societal impact), the net benefit of attending university likely outweighs the temporary loss of labor, especially if arrangements can be made to mitigate the business's immediate struggles (e.g., hiring temporary help or automated tools). However, option C suggests a balanced compromise—honoring familial obligations without permanently",2026-03-25T14:32:44.185752
+mistral,P06_family_obligation,1,rational,17,"A perfectly rational agent would prioritize the young person's long-term well-being, which aligns with option **A: Go to the university**. While filial duty is important, the young person's opportunity for education and career advancement at a prestigious university is a unique, time-sensitive investment in their future that cannot be easily replicated later. Staying indefinitely or deferring indefinitely risks their personal growth without guaranteeing the family business's long-term stability. A deferred compromise (option C) could be a *r",2026-03-25T14:32:47.973579
+mistral,P06_family_obligation,1,rational,18,"The young person should balance their personal growth with their familial obligations. While their individual development is important, family support in a time of need is a significant responsibility that can foster long-term values like loyalty and duty. A pragmatic middle ground (such as deferring for a year) would honor both their aspirations and their family’s immediate needs.
+
+**C**",2026-03-25T14:32:50.525193
+mistral,P06_family_obligation,1,rational,19,"The rational choice balances long-term impact and feasibility. Enabling the young person's education likely yields higher future societal value (through skills, innovation, or influence), but a complete abandonment of family duty risks deep personal or financial harm. A one-year transition creates space to minimize disruption while leaving space for future opportunities.
+
+C",2026-03-25T14:32:52.792141
+mistral,P06_family_obligation,1,rational,20,"The young person should prioritize their individual development and long-term potential by attending the university (Option A). While family obligations are important, the parents have not explicitly requested their presence, and the long-term benefits of education and career opportunities for the young person likely outweigh a temporary sacrifice. Additionally, the family business may find a way to adapt or hire help in their absence.
+
+**A**",2026-03-25T14:32:55.092500
+mistral,P06_family_obligation,1,rational,21,"The young person should prioritize their individual development (A) because long-term contributions to society and personal growth often outweigh short-term familial obligations. While duty to family is important, the parents have not explicitly requested their presence, and the university opportunity is unlikely to repeat. Assuming the family business can adapt, the young person’s broader impact may be greater with the degree.
+
+A",2026-03-25T14:32:57.426026
+mistral,P06_family_obligation,1,rational,22,"The young person’s long-term development and the family’s long-term sustainability both matter, but prioritizing the university education is the better choice. Individual growth often expands future opportunities to support the family indirectly, and guilt-driven sacrifices can breed resentment. However, option C strikes the best balance by mitigating harm to both sides.
+
+**C**",2026-03-25T14:32:59.713209
+mistral,P06_family_obligation,1,rational,23,"The young person should prioritize their individual development by attending the university (A). While family duty is important, the long-term sustainability of the business and the young person's career prospects are critical considerations. Providing a one-year transition (C) could be a compromise, but ultimately, the autonomy and opportunities offered by the university education likely outweigh the temporary support for the business. The parents' unexpressed needs do not supersede the young person's future.
+
+A",2026-03-25T14:33:02.138854
+mistral,P06_family_obligation,1,rational,24,"A rational agent should prioritize long-term well-being, but also account for social and familial obligations. Individual development is crucial for future contributions, but family stability directly affects overall utility. The optimal choice balances these by giving the young person time to fulfill responsibility while preserving future opportunities.
+
+C",2026-03-25T14:33:04.375568
+mistral,P06_family_obligation,1,rational,25,"The young person’s individual growth and future opportunities (e.g., education, career) are critical for their long-term ability to support their family, including the family business, in the future. However, deferring for a year to ease the transition respects filial duty while still allowing the pursuit of personal advancement, striking a balance between immediate obligation and long-term impact.
+
+**C**",2026-03-25T14:33:06.632764
+mistral,P06_family_obligation,1,rational,26,"The young person’s long-term potential is best served by pursuing higher education, as their success could eventually benefit their family by expanding opportunities (financial, social, or professional) for everyone. However, a compromise (C) allows them to honor immediate familial duty while still advancing their own future. This balances personal growth with responsibility.
+
+**C**",2026-03-25T14:33:08.932756
+mistral,P06_family_obligation,1,rational,27,"**Explanation:** While individual development is valuable, family duty is a stronger moral obligation, especially with aging parents relying on the business. However, the opportunity at a prestigious university is rare and could significantly shape the young person's future. A compromise (like option C) balances both responsibilities fairly.
+
+**Answer:** C",2026-03-25T14:33:11.274675
+mistral,P06_family_obligation,1,rational,28,"The young person's long-term development should take priority, as their skills and education will enable them to contribute more meaningfully—both to their family and society—in the future. A deferred start (one year) strikes a balance by providing immediate support while preserving the opportunity for advancement.
+
+C",2026-03-25T14:33:13.490509
+mistral,P06_family_obligation,1,rational,29,"**Explanation:**
+A purely rational decision balances long-term and short-term consequences, personal fulfillment, and ethical obligations. While the young person's education and future opportunities are valuable, neglecting the family business—an immediate source of their parents' livelihood—could have irreversible personal and financial costs. A deferred path (Option C) minimizes regret by allowing the young person to contribute to a stable transition while still pursuing their goals, aligning practicality with long-term benefit.
+
+**Answer:** C",2026-03-25T14:33:16.197140
+mistral,P06_family_obligation,1,rational,30,"The young person should defer for a year to help transition the business (C) because this balances their personal growth with a temporary commitment to their family. It provides stability for the parents and ensures the business remains viable while still allowing the young person to pursue their education eventually.
+
+C",2026-03-25T14:33:18.436818
+mistral,M6_liberty,3,rational,1,"Personal freedom is valuable, but governments are justifiably expected to mitigate significant harm to others. However, because most adult choices primarily affect the individual (not society), preserving autonomy is often the right balance—so regulation may be insufficient, while a full ban may be excessive.
+
+C",2026-03-25T14:33:20.776314
+mistral,M6_liberty,3,rational,2,"From a purely rational and utilitarian perspective, the decision should prioritize net social benefit. Public health harms from the substance likely impose costs on healthcare systems, productivity, and societal well-being that outweigh the value of individual choice in this case. However, bans are sometimes counterproductive (e.g., driving black markets), so the best outcome is often regulation—taxation, restrictions on marketing, age limits, or licensing—rather than an outright ban.
+
+A",2026-03-25T14:33:23.247729
+mistral,M6_liberty,3,rational,3,"The government should regulate the substance heavily but not ban it outright (C). While excessive consumption imposes significant public health costs, a complete ban infringes on personal autonomy and may lead to unintended consequences like black markets. Heavy regulation—such as high taxes, age restrictions, and public health campaigns—can mitigate harm while preserving individual choice, aligning with a balanced, evidence-based approach.
+
+C",2026-03-25T14:33:25.605024
+mistral,M6_liberty,3,rational,4,"A perfectly rational agent weighs the trade-off between public health benefits and individual freedom. While personal choice is valuable, the significant public health costs of the substance (e.g., healthcare burdens, reduced productivity) justify government intervention. However, a complete ban may be overly paternalistic; heavy regulation could achieve harm reduction while preserving autonomy.
+
+**C**",2026-03-25T14:33:27.848773
+mistral,M6_liberty,3,rational,5,"A ban is justified if the harm caused by the substance (e.g., lost productivity, healthcare costs, reduced lifespans) substantially outweighs the value of individual choice, particularly when the choice is irreversible (e.g., addiction leading to death) or imposed on non-consenting others (e.g., secondhand effects). However, a ban may face enforcement challenges or unintended consequences (e.g., black markets), so heavy regulation (e.g., age restrictions, taxation, public awareness",2026-03-25T14:33:30.312262
+mistral,M6_liberty,3,rational,6,"A government should prioritize public health when the harm caused by a substance is significant and widespread. While individual freedom is important, the principle of utility suggests that the greater good (reducing public health costs) justifies a ban in cases where the harm is severe and irreversible. A middle-ground regulation might be insufficient if the substance’s health impacts are drastic.
+
+A",2026-03-25T14:33:32.735009
+mistral,M6_liberty,3,rational,7,"A ban might be justified if the substance causes severe, widespread harm that outweighs autonomy, and if alternatives like education or taxation would be less effective. However, bostering public health *and* freedom requires minimal restrictions if possible—so regulation rather than prohibition feels more balanced.
+
+C",2026-03-25T14:33:35.225457
+mistral,M6_liberty,3,rational,8,"A ban is justified here because the substance imposes significant external costs (public health burdens) that outweigh the value of individual choice. While personal freedom is important, the government has a duty to protect collective welfare when harm is substantial and involuntary (e.g., through healthcare costs or reduced labor productivity).
+
+**A**",2026-03-25T14:33:37.546777
+mistral,M6_liberty,3,rational,9,"Public health costs impose significant negative externalities, and when the harm is substantial (e.g., addiction, healthcare burdens), government intervention is justified to protect broader society. However, an outright ban may be too restrictive and lead to black markets, so regulation or safer alternatives should be prioritized to balance harm reduction with freedom.
+
+**C**",2026-03-25T14:33:39.880272
+mistral,M6_liberty,3,rational,10,"A government should prioritize reducing significant public health costs caused by a substance, especially when the harm is well-documented and widespread. While individual freedom is valuable, the burden of proof lies heavily on justifying freedom over collective well-being in such cases, as the costs of poor choices are often externalized (e.g., healthcare systems, lost productivity). A ban is a justified and rational response when the harm is substantial and alternatives like regulation fail to sufficiently mitigate the risks.
+
+A",2026-03-25T14:33:42.446027
