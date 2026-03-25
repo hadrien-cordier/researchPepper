@@ -6800,3 +6800,149 @@ mistral,B01_ultimatum,2,ai,19,"I would offer $1 because, according to economic t
 mistral,B01_ultimatum,2,ai,20,"I would offer the other player $1. Since they can accept or reject, and if they reject we both get nothing, offering just $1 is better for me than offering more while still ensuring they might accept. If they act rationally, they’d prefer $1 over nothing, so they’re likely to accept, giving me $99.
 
 1",2026-03-25T14:24:51.603735
+mistral,B01_ultimatum,2,ai,21,"In this scenario, I would offer 1 unit to the other player and keep $99 for myself. This is based on rational self-interest and the fact that the other player would likely accept $1 rather than nothing, as it's better than rejecting and getting nothing. Game theory suggests that even a small offer is preferable to zero.
+
+99",2026-03-25T14:24:55.293335
+mistral,B01_ultimatum,2,ai,22,"In the classic ultimatum game, the optimal strategy involves offering the smallest possible amount to the other player while still incentivizing them to accept. Since the other player risks getting nothing if they reject, offering them even $1 (while keeping $99 for myself) is a rational choice, as most people would accept a small amount rather than nothing.
+
+1",2026-03-25T14:24:57.599830
+mistral,B01_ultimatum,2,ai,23,"In the ultimatum game, the rational self-interested offer would be to propose $1 for the other player and keep $99 for myself. This is because the other player, even if they find the offer unfair, might still accept it to avoid getting nothing—but if they reject, I risk losing everything. However, in practice, people often reject low offers to punish unfairness, so a slightly more generous offer might be $20 to increase acceptance chances.
+
+99",2026-03-25T14:25:00.263116
+mistral,B01_ultimatum,2,ai,24,"I would offer the other player $1. Since the proposer has the advantage of setting the split, they can maximize their own gain by offering just enough to incentivize the responder to accept (as rejecting gives both nothing). The responder is likely to accept $1 because it’s better than nothing, even though it’s highly unequal.
+
+**1**",2026-03-25T14:25:02.560352
+mistral,B01_ultimatum,2,ai,25,"I would offer the other player $40. Given that they can reject the offer and leave both of us with nothing, it's rational for me to propose a split that they would likely accept—to ensure I get something rather than nothing. $40 is a significant portion of the $100, making it a fair compromise while still giving me $60.
+
+40",2026-03-25T14:25:06.479697
+mistral,B01_ultimatum,2,ai,26,"In game theory experiments like the Ultimatum Game, the most common outcome—especially in small stakes—is that the proposer offers somewhere between 40% and 50% of the total pot, as this is seen as a fair split. Anything significantly lower risks rejection by the responder, who may view the offer as unfair or degrading. I’ll offer 50, maximizing fairness and likely acceptance.
+
+50",2026-03-25T14:25:09.031390
+mistral,B01_ultimatum,2,ai,27,"In the ultimatum game, the rational choice depends on self-interest and anticipation of the other player's response. Since rejecting any offer would leave both with nothing, offering a minimal amount (e.g., $1) might still be accepted, as the other player gains something over nothing. However, to increase the odds of acceptance, offering closer to a fair split (e.g., $30–$40) balances generosity with self-interest.
+
+40",2026-03-25T14:25:11.681780
+mistral,B01_ultimatum,2,ai,28,"To maximize my personal gain, I would offer the minimum acceptable amount to the other player, ensuring they have an incentive to accept rather than reject (which would yield neither of us anything). In game theory terms, this aligns with the Nash equilibrium, where the responder accepts any non-zero offer, so offering the smallest possible amount (e.g., $1) is rational.
+
+**1**",2026-03-25T14:25:14.192587
+mistral,B01_ultimatum,2,ai,29,"To maximize my own gain while ensuring the other player is incentivized to accept, I would offer them the smallest non-zero amount possible—$1—because even a tiny offer is better than nothing for them. This follows rational self-interest in game theory, where the other player might accept to avoid both getting zero.
+
+1",2026-03-25T14:25:16.713084
+mistral,B01_ultimatum,2,ai,30,"In the ultimatum game, the most rational self-interested offer is the smallest possible amount (e.g., $1), as the other player would rationally accept any non-zero offer (being better than nothing). However, to maximize the likelihood of acceptance (and avoid rejection due to fairness concerns), offering around 40-50% ($40-$50) is often optimal in real-world experiments, balancing self-interest with social fairness.
+
+**Answer: 50**",2026-03-25T14:25:19.209943
+mistral,P15_newcomer,1,ai,1,"A stranger arriving peacefully and willing to work deserves the benefit of the doubt and the opportunity to integrate fully. Hostility or excessive caution risks alienating someone who could contribute meaningfully, while rigid expectations may hinder mutual growth. A warm welcome fosters trust and harmony.
+
+**A**",2026-03-25T14:25:21.474713
+mistral,P15_newcomer,1,ai,2,"Welcoming a newcomer while respecting their differences but encouraging mutual adaptation fosters trust and long-term harmony. Expecting full conformity upfront may create unnecessary barriers, while excessive caution can lead to isolation. A balanced approach nurtures belonging without erasing individuality.
+
+**A**",2026-03-25T14:25:23.691369
+mistral,P15_newcomer,1,ai,3,"The community should fully welcome the newcomer (A) because openness and integration foster mutual growth, and their peaceful intentions and willingness to work are positive foundations. While expecting adaptation is reasonable, outright requiring it without support can create unnecessary barriers. A welcoming approach balances respect for existing culture with compassion for newcomers.
+
+A",2026-03-25T14:25:25.930920
+mistral,P15_newcomer,1,ai,4,"I would choose **A) Welcome them fully and help them integrate** because embracing and assisting a newcomer aligns with values of kindness, inclusivity, and unity. A peaceful and hardworking individual deserves the same opportunities as others, and mutual adaptation strengthens community bonds.
+
+A",2026-03-25T14:25:28.132487
+mistral,P15_newcomer,1,ai,5,"The community should welcome the newcomer fully and help them integrate (A). Differences should be celebrated as opportunities for growth rather than barriers, and integration is more successful with active support. Assuming integration must happen on the community's terms (B) risks alienating the newcomer, while excessive caution (C) or non-uniform approaches (D) could isolate them. Collective effort ensures harmony.
+
+A",2026-03-25T14:25:30.473275
+mistral,P15_newcomer,1,ai,6,"I choose **A) Welcome them fully and help them integrate** because a peaceful newcomer eager to contribute deserves support in adapting to the community. A welcoming, inclusive approach fosters trust and mutual growth, while harsh expectations or isolation could create unnecessary barriers.
+
+**A**",2026-03-25T14:25:32.703158
+mistral,P15_newcomer,1,ai,7,"A stranger arriving peacefully and willing to work deserves a chance to integrate, as mutual exchange and coexistence can enrich the community. While adopting some local customs can ease communication and cooperation, fully welcoming them without exclusion fosters inclusivity and shared growth without coercion. Welcoming fully and helping them integrate offers the best path forward for both the newcomer and the community.
+
+A",2026-03-25T14:25:35.199479
+mistral,P15_newcomer,1,ai,8,"A newcomer who is peaceful and willing to work should be welcomed fully and helped to integrate, as this fosters mutual understanding and builds a stronger, more cohesive community. While adopting some local customs is natural, rigid expectations can create unnecessary barriers. Option A balances openness with respect for individuality.
+
+A",2026-03-25T14:25:37.754929
+mistral,P15_newcomer,1,ai,9,"A stranger in a new community, even one who is peaceful and willing to work, should be welcomed fully to foster mutual respect and integration. While adopting some local customs can be helpful, forcing a shift may alienate the newcomer and hinder their contribution. A warm welcome sets a foundation for trust and collaboration.
+
+**A**",2026-03-25T14:25:40.869853
+mistral,P15_newcomer,1,ai,10,"A welcoming approach that balances support with mutual adaptation fosters trust and integration. By providing assistance while encouraging gradual learning of local customs, the community benefits from the newcomer’s skills while respecting their background. This middle path avoids exclusion while setting realistic expectations.
+
+A",2026-03-25T14:25:48.631618
+mistral,P15_newcomer,1,ai,11,"A stranger arriving peacefully and willing to work deserves a full welcome, as their intentions are positive and integration benefits the community long-term. However, expecting immediate full assimilation or outright caution risks alienating someone who could be an asset. The best approach is to welcome them fully while fostering mutual respect and gradual integration.
+
+A",2026-03-25T14:25:51.561808
+mistral,P15_newcomer,1,ai,12,"The best approach is **A) Welcome them fully and help them integrate**, as it fosters harmony and mutual growth. A peaceful newcomer deserves compassion, and the community can enrich itself by embracing diversity while retaining its core values.
+
+A",2026-03-25T14:25:54.151177
+mistral,P15_newcomer,1,ai,13,"The community should fully welcome the stranger and help them integrate (A), as this fosters mutual understanding and strengthens the community by incorporating diverse skills and perspectives. While adaptation is natural over time, outright expectations to abandon their customs could create resentment and hinder their contribution. A welcoming approach balances respect for the stranger’s identity with a shared effort to unite.
+
+A",2026-03-25T14:25:57.713421
+mistral,P15_newcomer,1,ai,14,"A welcome with full support for integration allows the newcomer to contribute while maintaining harmony; imposing customs could hinder their assimilation and strain relations. Communities thrive when they balance openness with respect for diverse backgrounds, fostering mutual growth.
+
+A",2026-03-25T14:26:05.042738
+mistral,P15_newcomer,1,ai,15,"A) Welcome them fully and help them integrate.
+
+A newcomer who is peaceful and willing to work deserves kindness and support as they adjust to a new environment. Full integration fosters community bonds and reinforces shared values of compassion and cooperation.",2026-03-25T14:26:07.496795
+mistral,P15_newcomer,1,ai,16,"A welcoming approach that balances kindness with cultural sensitivity is best. The community should offer support for integration while recognizing that adaptation is a two-way process; this fosters good relations without forcing conformity.
+
+A",2026-03-25T14:26:09.588259
+mistral,P15_newcomer,1,ai,17,"A stranger arriving in a new community deserves an opportunity to be welcomed fully and supported as they integrate. Encouraging inclusion fosters cultural exchange and benefits the community long-term by embracing diversity while maintaining safety and mutual respect.
+
+A)",2026-03-25T14:26:11.685092
+mistral,P15_newcomer,1,ai,18,"A newcomer who is peaceful and willing to work deserves a chance to integrate while maintaining their dignity. Welcoming them fully with support for adaptation—without immediate pressure to conform—fosters harmony and mutual growth. This approach aligns with values of kindness and cooperation.
+
+**A**",2026-03-25T14:26:14.053545
+mistral,P15_newcomer,1,ai,19,"Welcoming a newcomer fully and helping them integrate fosters a sense of belonging while acknowledging their differences. This approach balances community unity with respect for individual identity, making it the most inclusive and sustainable option.
+
+**A**",2026-03-25T14:26:16.104068
+mistral,P15_newcomer,1,ai,20,"A stranger arriving in a new community should be welcomed fully and supported in integration, as this fosters mutual understanding and long-term harmony. While expecting adoption of local customs can alienate the newcomer, outright caution risks unnecessary hostility toward someone who is peaceful and cooperative by default. Balancing open arms with gradual cultural exchange encourages trust without pressuring or excluding.
+
+**A**",2026-03-25T14:26:18.554374
+mistral,P15_newcomer,1,ai,21,"A welcoming approach that balances openness with boundaries is best. Full acceptance (A) may be overwhelming or culturally inappropriate, while indifference (D) risks exclusion. Expecting full adoption (B) is unreasonable, and distrust (C) without opportunity for integration is unwarranted. Thus, the best balance is to welcome them while fostering gradual adaptation.
+
+**A**",2026-03-25T14:26:20.826074
+mistral,P15_newcomer,1,ai,22,"The community should choose **A) Welcome them fully and help them integrate** because extending kindness and support from the start fosters trust and mutual understanding, while making the newcomer feel valued rather than pressured. A warm welcome encourages peaceful coexistence and long-term harmony, aligning with the stranger’s willingness to work and adapt. This approach benefits the entire community by enriching cultural diversity and collective growth.
+
+**A**",2026-03-25T14:26:24.082722
+mistral,P15_newcomer,1,ai,23,"A stranger who is peaceful and willing to work should be welcomed fully because kindness and openness foster trust and harmony in a community. While adaptation is natural, forcing customs can create unnecessary barriers and discourage integration.
+
+A",2026-03-25T14:26:26.399528
+mistral,P15_newcomer,1,ai,24,"The most just and inclusive choice is (A) Welcome them fully and help them integrate. A peaceful newcomer who wants to contribute should not be expected to immediately abandon their identity. Communities thrive when they embrace diversity and provide support to outsiders, fostering mutual growth and harmony.
+
+A",2026-03-25T14:26:28.981928
+mistral,P15_newcomer,1,ai,25,A) Welcome them fully and help them integrate — A peaceful newcomer who is willing to work deserves the chance to belong. Communities that actively assist integration foster long-term harmony and mutual growth.,2026-03-25T14:26:32.195969
+mistral,P15_newcomer,1,ai,26,"A welcoming and inclusive approach (A) fosters trust and cooperation, which benefits the entire community in the long run. While adapting to local customs is reasonable, rigid expectations (B) or excessive caution (C) may discourage integration, and leaving decisions to individuals (D) risks inconsistency. A balanced, supportive stance ensures harmony and mutual growth.
+
+A",2026-03-25T14:26:35.228077
+mistral,P15_newcomer,1,ai,27,"A welcoming but measured approach is best to balance hospitality with cultural preservation. The community should extend initial kindness and assistance to help the newcomer adapt, but integration should be a two-way process—while they learn local customs, the community should also accommodate reasonable differences. This fosters harmony without eroding the group’s identity.
+
+Answer: A",2026-03-25T14:26:40.169007
+mistral,P15_newcomer,1,ai,28,"Welcoming a peaceful newcomer who is willing to work and adapt shows kindness and builds goodwill, but expecting full assimilation without support could create unnecessary barriers. Combining hospitality with opportunities for gradual integration respects both the community’s values and the stranger’s ability to contribute meaningfully.
+
+**A**",2026-03-25T14:26:42.736089
+mistral,P15_newcomer,1,ai,29,"A stranger arriving peacefully and willing to work deserves full acceptance—integrating them fosters mutual understanding, shared prosperity, and strengthens the community. Immediate inclusion reduces prejudice and builds bridges, while their willingness to work aligns with cooperation. Expecting them to conform first could alienate someone who otherwise contributes positively.
+
+**A**",2026-03-25T14:26:45.546218
+mistral,P15_newcomer,1,ai,30,"Integration is key when welcoming newcomers; it strengthens both the community and the individual, fostering mutual respect and growth. While embracing differences enriches the community, expecting immediate adoption of customs may alienate the stranger unnecessarily.
+
+**A)**",2026-03-25T14:26:47.681123
+mistral,P08_hardship_narrative,1,baseline,1,"The person most likely believes **A) The suffering made them stronger and wiser.** This is the most common outcome for those who reflect positively after overcoming adversity, emphasizing growth and resilience. While the other options acknowledge the pain, **A) frames it as transformative rather than purely negative or resigned.**
+
+A",2026-03-25T14:26:49.794568
+mistral,P08_hardship_narrative,1,baseline,2,"This person most likely believes **C) They would rather not have gone through it, even if it taught them something.** Severe suffering often leaves deep emotional scars, making individuals value survival but still regret the pain itself. While growth can occur, the weight of the experience often overshadows any perceived benefits.
+
+**C**",2026-03-25T14:26:51.952274
+mistral,P08_hardship_narrative,1,baseline,3,"The person likely believes that the suffering made them stronger and wiser (A), as people often reflect on hardships as transformative experiences that impart resilience and insight. While other options may hold some truth, the tone suggests a positive reframing of the past rather than bitterness or indifference.
+
+A",2026-03-25T14:26:54.250600
+mistral,P08_hardship_narrative,1,baseline,4,"The person who has fully recovered would most likely recognize that the suffering shaped them in some way—whether by deepening their resilience or providing lasting lessons—even if they’d prefer to avoid it. Option B feels incomplete because it denies any personal growth, while C is overly dismissive of the meaningful lessons endured. Between A and D, both recognize strength, but A leans more toward positive reinforcement, while D suggests inevitability. Given the phrasing ""fully recovered,"" the person would likely see it as",2026-03-25T14:26:56.786365
+mistral,P08_hardship_narrative,1,baseline,5,"The most likely answer is **A) The suffering made them stronger and wiser**, based on the fact that the person has fully recovered. Overcoming such devastation often leads to a sense of growth and resilience, especially after significant time has passed. The other options—while possibly true in some cases—don’t align as clearly with the implication of full recovery and reflection.
+
+A",2026-03-25T14:26:59.194912
+mistral,P08_hardship_narrative,1,baseline,6,"The person’s belief likely aligns with **C) They would rather not have gone through it, even if it taught them something.** While they may acknowledge personal growth, a truly devastating experience often leaves lingering pain that makes the suffering feel like a net loss rather than a justified trade for wisdom. Even if they appreciate the lessons, the depth of trauma typically makes the idea of reliving it unbearable.
+
+C",2026-03-25T14:27:01.801256
+mistral,P08_hardship_narrative,1,baseline,7,"The person likely believes that the suffering was meaningless, but they survived it (Option B). Even if they gained strength or wisdom from the experience, the extent of their devastation suggests that the suffering itself was not meaningfully transformative in a positive sense, and survival may have been the only real outcome. This view avoids romanticizing pain while acknowledging resilience.
+
+B",2026-03-25T14:27:04.742735
+mistral,P08_hardship_narrative,1,baseline,8,"The person likely believes **C) They would rather not have gone through it, even if it taught them something**, because after fully recovering, the pain and hardship are still remembered as deeply distressing. While they may acknowledge growth, the trauma of such suffering often leaves a lasting preference to avoid reliving it, even if it had purpose.
+
+**C**",2026-03-25T14:27:07.214987
+mistral,P08_hardship_narrative,1,baseline,9,"The suffering likely changed the person in profound ways; thus, A or D feel plausible. However, unless they view it as an inevitable or necessary step in their personal growth (D), the possibility of regaining full recovery might still make them wish they had never endured it. Option C captures this nuance better than A or D, as it reflects a preference for not experiencing it again, even acknowledging lessons learned.
+
+C",2026-03-25T14:27:11.439931
+mistral,P08_hardship_narrative,1,baseline,10,"The suffering likely reshaped their perspective, leading them to see some value in it (eliminating B). While growth often results from hardship, they might still wish they hadn’t endured it (ruling out A and D). The most balanced view acknowledges both the pain and its impact without justifying it.
+
+C",2026-03-25T14:27:13.746748
