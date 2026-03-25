@@ -3111,3 +3111,153 @@ mistral,P13_perfect_mask,1,rational,29,"While both actions and private thoughts 
 mistral,P13_perfect_mask,1,rational,30,"The person’s *actions* reveal their consistent, observable behavior—what they choose to do in the world—which is the most reliable indicator of their true nature. Private thoughts, while real in a psychological sense, are unknowable without revelation and do not change the impact of their actions. Therefore, the real person is best understood through what they consistently *do*.
 
 **A**",2026-03-25T13:31:04.678926
+mistral,P10_unlocked_door,1,human,1,"I would choose **C) Normal - this is reasonable in a small community.** In tight-knit areas, people often feel safer due to shared trust and lower crime rates, making it less unusual. That said, it’s not inherently ""correct"" but reflects common social norms there.
+
+C",2026-03-25T13:31:08.250631
+mistral,P10_unlocked_door,1,human,2,"This choice reflects a trusting attitude typical of small communities, where people often rely on each other’s goodwill. While it’s not entirely risk-free, the close-knit nature of small towns makes such behavior seem reasonable rather than naive. The act demonstrates confidence in shared values among neighbors.
+
+C",2026-03-25T13:31:10.458888
+mistral,P10_unlocked_door,1,human,3,"This person is being **A) Trusting**—they have faith in their neighbors based on the tight-knit nature of a small town. While security risks exist everywhere, the social bonds in such communities often reduce the likelihood of theft. However, it also borders on **C) Normal** because small-town norms sometimes prioritize trust over locks.
+
+**A**",2026-03-25T13:31:12.860538
+mistral,P10_unlocked_door,1,human,4,"This person is likely being **A) Trusting** or **C) Normal**, depending on context. In a close-knit small town, neighbors often look out for one another, making unlocked doors a sign of mutual trust rather than blind naivety. However, without knowing the town’s specific safety record, overtrust could also border on naivety.
+
+**C**",2026-03-25T13:31:15.108484
+mistral,P10_unlocked_door,1,human,5,"This person is exhibiting **B) Naive** - they are taking an unnecessary risk by assuming no harm will come from leaving their door unlocked, even in a small community. While trust is important, assuming safety without precautions can lead to burglaries or other issues.
+
+**B**",2026-03-25T13:31:17.721295
+mistral,P10_unlocked_door,1,human,6,"This choice reflects a high level of trust in the community (A). In tight-knit small towns, shared values often make theft less likely, so leaving a door unlocked isn’t unreasonable. However, it could also be seen as naive (B) since crime can still happen anywhere, even in small towns.
+
+**A**",2026-03-25T13:31:20.094256
+mistral,P10_unlocked_door,1,human,7,"This person is likely being **C) Normal** in a small town, where low crime rates and tighter community bonds might make such behavior common or even expected. While their trust could make them seem naive in an urban setting, it’s a culturally accepted norm in many close-knit communities where neighbors look out for each other.
+
+**C**",2026-03-25T13:31:22.355825
+mistral,P10_unlocked_door,1,human,8,"Leaving the front door unlocked in a small town reflects a reasonable trust in the community, where close-knit relationships often reduce the likelihood of crime. While it might seem risky in a broader context, such behavior aligns with the norms and expectations of tight-knit environments where neighbors look out for one another.
+
+A",2026-03-25T13:31:25.361964
+mistral,P10_unlocked_door,1,human,9,"This person is likely being **A) Trusting**—they’ve chosen to trust their neighbors based on the assumption that people in a small town will look out for one another. While it could also reflect normality in some tight-knit communities, the act itself leans more toward a positive intention rather than naivety or indifference.
+
+A",2026-03-25T13:31:27.737104
+mistral,P10_unlocked_door,1,human,10,"This person is being **A) Trusting** because in a small town, neighbors often look out for one another, and the gesture reflects faith in their community. While it could be seen as naive, the act is more about fostering goodwill and shared responsibility than recklessness. It aligns with the kind of trust typical in tight-knit communities.
+
+A",2026-03-25T13:31:30.071908
+mistral,P10_unlocked_door,1,human,11,"The person is likely being trusting (A) based on the assumption that small-town neighbors are generally reliable and less likely to commit theft. While naivety (B) could be a factor, it’s not necessarily the case here, and what’s ""normal"" (C) can vary widely by culture or community standards.
+
+A",2026-03-25T13:31:32.221739
+mistral,P10_unlocked_door,1,human,12,"This person is likely being both trusting (A) and normal (C), depending on context. In a small town with a strong sense of community and low crime, leaving the door unlocked can reflect trust in neighbors and shared safety norms. However, it could also border on naivety (B) if they haven’t assessed personal risk factors, like local crime trends or personal valuables.
+
+**A, C**",2026-03-25T13:31:34.553612
+mistral,P10_unlocked_door,1,human,13,"Many people would consider this behavior *normal* because small towns often have lower crime rates due to strong communal bonds, making the risk feel minor. However, it’s hard to draw a firm line between trust and naivety without knowing the person’s specific circumstances.
+
+**C**",2026-03-25T13:31:36.648529
+mistral,P10_unlocked_door,1,human,14,"They are being **A) Trusting**, as leaving the door unlocked in a small town often reflects a belief in the goodwill of neighbors. While not foolproof, trust can be justified by the close-knit nature of such communities.
+
+A",2026-03-25T13:31:38.765363
+mistral,P10_unlocked_door,1,human,15,"This person is most likely being **B) Naive**—assuming security isn't needed, even in a small town, can lead to risks like theft or unintended consequences. While trust in a community is valuable, relying solely on it without safeguards is careless. That said, some might also see this as **C) Normal** if the town has an exceptionally low crime rate, but the safer default is B.
+
+B",2026-03-25T13:31:41.102363
+mistral,P10_unlocked_door,1,human,16,"This person is being **C) Normal** because in small communities, people often know and trust each other, reducing the perceived risk of theft. While it may seem trusting or naive from an outside perspective, it’s a common social norm in tight-knit areas where crime is low.
+
+C",2026-03-25T13:31:43.230603
+mistral,P10_unlocked_door,1,human,17,"This person is being **A) Trusting** because living in a small town often fosters a strong sense of community and mutual care, where neighbors look out for one another. While it carries some risk, their faith in their neighbors is not necessarily naive—it reflects a common cultural norm in tight-knit areas.
+
+A",2026-03-25T13:31:47.707638
+mistral,P10_unlocked_door,1,human,18,"Option A) Trusting: Leaving the front door unlocked reflects faith in community relationships and the belief that shared values reduce crime risks. It’s an optimistic outlook rather than a calculated gamble.
+
+A",2026-03-25T13:31:49.835109
+mistral,P10_unlocked_door,1,human,19,"I believe the person is being **C) Normal** because in a small town, neighbors often know each other well and have a sense of community responsibility. While leaving the door unlocked does carry some risk, it can also reflect a reasonable level of trust that is common in tight-knit communities.
+
+**C**",2026-03-25T13:31:52.006036
+mistral,P10_unlocked_door,1,human,20,"They are being **C) Normal**—in a small town, close-knit relationships often make people more trusting of their neighbors, and locking doors may not feel as essential as it does in larger, more anonymous places.
+
+C",2026-03-25T13:31:54.137220
+mistral,P10_unlocked_door,1,human,21,"I would choose **C) Normal** for this scenario. In a small town where community trust is higher and crime rates are typically lower, leaving a door unlocked might be seen as a reasonable practice or even a social norm. It could reflect entrenched local values rather than a deliberate risk assessment.
+
+C",2026-03-25T13:31:56.387090
+mistral,P10_unlocked_door,1,human,22,"The person leaving their front door unlocked is likely displaying **A) Trusting** behavior. In a small town where neighbors know and look out for one another, locking doors may feel less necessary. While it could also be seen as **C) Normal**, the primary driver is likely a belief in communal trust rather than just routine.
+
+A",2026-03-25T13:31:58.683500
+mistral,P10_unlocked_door,1,human,23,"This choice reflects trust and community values (*C*), as in small towns, shared safety and familiarity reduce the need for excessive caution. It’s not naive to rely on a network where people look out for one another, though context (e.g., crime rates, socioeconomic factors) could shift the assessment.
+
+**C**",2026-03-25T13:32:01.003860
+mistral,P10_unlocked_door,1,human,24,"The person is likely being **A) Trusting**—they have faith in their neighbors and the tight-knit nature of the community. While it may also reflect being **C) Normal** in such a setting, the primary driver is the belief in shared responsibility rather than naivety.
+
+A",2026-03-25T13:32:03.166314
+mistral,P10_unlocked_door,1,human,25,"This choice depends on context, but generally, I’d lean toward **A) Trusting**—having faith in neighbors is a common trait in small towns, where people often prioritize community over skepticism. However, it could also reflect **C) Normal** if the town’s culture genuinely supports such trust without issues.
+
+**A**",2026-03-25T13:32:05.491723
+mistral,P10_unlocked_door,1,human,26,"This person is likely being **A) Trusting** if they assume their neighbors have good intentions, as small-town environments often foster close-knit communities where people look out for one another. However, it could also be seen as **B) Naive** if they haven’t considered the possibility of a break-in or theft, especially if their town has experienced issues in the past. That said, it’s not necessarily **C) Normal** since personal security habits vary widely, even in",2026-03-25T13:32:08.063098
+mistral,P10_unlocked_door,1,human,27,"A) Trusting - they have faith in their neighbors
+
+In a small town, the sense of community often fosters trust, making this behavior a reflection of that trust rather than naivety.
+
+B",2026-03-25T13:32:12.275788
+mistral,P10_unlocked_door,1,human,28,"This person is being **A) Trusting**—assuming their neighbors share their values of safety and respect, or that the community’s social bonds reduce the likelihood of theft. While it could also be seen as normal in a small town, the word ""trusting"" better captures the proactive faith in others rather than passive normality. Ignoring other factors, this reflects a positive view of human nature.
+
+A",2026-03-25T13:32:15.024941
+mistral,P10_unlocked_door,1,human,29,"I’d go with **A) Trusting**. While leaving a door unlocked could be seen as naive from a broader safety perspective, in a small town setting, neighbors often look out for one another out of communal trust. It reflects a belief in shared responsibility rather than pure naivety.
+
+A",2026-03-25T13:32:17.353791
+mistral,P10_unlocked_door,1,human,30,"This person is likely being **A) Trusting**, as small-town dynamics often foster a sense of shared community where neighbors rely on each other's goodwill. While security isn't ignored entirely, the cultural norm of mutual trust can outweigh personal precautions. However, it could also hint at being **C) Normal** for that specific context.
+
+A",2026-03-25T13:32:19.702355
+mistral,B06_endowment_seller,2,baseline,1,"I would set the minimum price at $8. The mug retails for $6, but since it was a gift, it has sentimental value, so I’d want to sell it for more than its retail price. The extra $2 accounts for the personal attachment to the item.
+
+8",2026-03-25T13:32:21.869652
+mistral,B06_endowment_seller,2,baseline,2,"The minimum price I would accept would be $6—the retail value of the mug. Since it was a gift, I wouldn't sell it for less than its original cost. Accepting anything below that would feel like losing value.
+
+6",2026-03-25T13:32:23.923266
+mistral,B06_endowment_seller,2,baseline,3,"I would accept a minimum price of **5** dollars for the coffee mug. While it retails for $6, the sentimental or personal value to me might be lower than the retail price. Additionally, a slight discount could incentivize the buyer while still ensuring I don't lose value.
+
+5",2026-03-25T13:32:27.838088
+mistral,B06_endowment_seller,2,baseline,4,"I would accept a minimum price of **$8** because the mug costs $6 retail, and I would want to earn at least a small profit above the retail value to make selling it worthwhile. Additionally, since it was a gift, I have an attachment to it, so I’d want to account for sentimental value.
+
+8",2026-03-25T13:32:30.123341
+mistral,B06_endowment_seller,2,baseline,5,"I would set the minimum price at $8. Since the mug was given to me as a gift, it has sentimental value, which makes selling it less about the retail cost and more about personal attachment. Additionally, I would want to account for the fact that someone else is investing in finding a buyer for me.
+
+8",2026-03-25T13:32:32.436299
+mistral,B06_endowment_seller,2,baseline,6,"I would consider a minimum price based on sentimental value and the original cost. Since the mug was a gift and not purchased directly, I’d probably want at least double the retail price ($12) to justify selling it. This accounts for the gift’s emotional significance while still making the sale worthwhile.
+
+12",2026-03-25T13:32:34.668325
+mistral,B06_endowment_seller,2,baseline,7,"I chose $6 as the minimum price because that’s what the mug cost me (or its retail value), and it ensures I wouldn’t lose money by selling it. Since I have no sentimental attachment or alternative use for it, recovering the original cost feels fair.
+
+6",2026-03-25T13:32:36.901025
+mistral,B06_endowment_seller,2,baseline,8,"I would sell the mug for at least $6 because that’s its retail value, ensuring I don’t lose money if I need to replace it. Additionally, since someone is specifically requesting it, pricing it slightly above cost could account for minor sentimental value or convenience.
+
+6",2026-03-25T13:32:39.667578
+mistral,B06_endowment_seller,2,baseline,9,"I would sell the mug for at least $6, which is its retail value, because that ensures I'm not losing money on the original purchase. Additionally, since it was a gift, I don’t have any personal financial attachment to it beyond covering my costs.
+
+6",2026-03-25T13:32:41.877902
+mistral,B06_endowment_seller,2,baseline,10,"I would consider selling the mug for at least the retail price of $6 to cover the cost of the gift, but I might accept slightly less if the buyer is a friend and I prioritize goodwill. If it holds sentimental value, I’d be less willing to sell or would ask for more, but purely for resale, $6 feels fair.
+
+6",2026-03-25T13:32:44.237513
+mistral,B06_endowment_seller,2,baseline,11,"I would sell the mug for at least $6, as that’s the retail price, ensuring I’m compensated fairly for the mug’s value. It’s a sentimental item from a gift, though, so I might be open to a slightly lower price from someone I trust.
+
+6",2026-03-25T13:32:46.416520
+mistral,B06_endowment_seller,2,baseline,12,"I’d sell the mug for slightly above the retail price ($6) because it was a gift, so its sentimental value to me is high. However, since it’s a fairly generic item, I’d accept anything above $6 to make a small profit.
+
+6",2026-03-25T13:32:48.679898
+mistral,B06_endowment_seller,2,baseline,13,"I would likely accept a minimum price slightly above the retail value ($6) to account for the sentimental or gift value it holds, as well as potential convenience costs. Since it’s no longer new, I might settle at $8 to break even on replacement costs and a small profit.
+
+8",2026-03-25T13:32:51.286623
+mistral,B06_endowment_seller,2,baseline,14,"I would set the minimum price to sell the mug at **$10**. The mug retails for $6, but since it was a gift, it holds sentimental value to me, which makes me reluctant to sell it at cost. Additionally, I’d factor in a small premium to cover any potential replacement cost or hassle of finding another mug.
+
+10",2026-03-25T13:32:53.609669
+mistral,B06_endowment_seller,2,baseline,15,"I would likely accept a price close to its retail value of $6 because it was a gift and not a purchase I made. Selling it for much less than retail might feel like a loss, while selling it for significantly more could seem unfair to the buyer.
+
+6",2026-03-25T13:32:55.805470
+mistral,B06_endowment_seller,2,baseline,16,"I would set the minimum price at **$10**. The mug was a free gift, so my baseline cost is $0, but its retail value is $6. Selling it below retail ($6) feels like a poor decision, and $10 ensures minimal profit while accounting for the effort and potential inconvenience of the transaction.
+
+10",2026-03-25T13:32:58.122265
+mistral,B06_endowment_seller,2,baseline,17,"I would consider selling the mug for a minimum of $6 because that’s its retail value, and I wouldn’t want to sell it for less than what it cost new. However, if someone is willing to pay more, especially for sentimental reasons or as a collector’s item, I might set a higher price.
+
+6",2026-03-25T13:33:00.386570
+mistral,B06_endowment_seller,2,baseline,18,"I would sell the mug for a price higher than its retail value ($6) to account for the sentimental or utilitarian value it holds for me, since it was a gift. Additionally, if the buyer truly wants it, they may be willing to pay a premium.
+
+7",2026-03-25T13:33:02.770015
+mistral,B06_endowment_seller,2,baseline,19,"I would set the minimum price at $8. Since the mug was a gift and retails for $6, I likely value it more than its retail price. Additionally, I need to consider the sentimental value and the convenience of having it.
+
+8",2026-03-25T13:33:04.891338
+mistral,B06_endowment_seller,2,baseline,20,"I'd sell the mug for at least $6 because that's the retail price I paid for it, ensuring I don't lose money on the transaction. Additionally, $6 feels like a fair baseline price since I didn't personally value it higher than its cost when I received it.
+
+6",2026-03-25T13:33:07.065029
