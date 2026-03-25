@@ -1,0 +1,149 @@
+model,scenario,layer,condition,trial,raw_response,timestamp
+mistral,M6_liberty,3,human,1,"The government should regulate it heavily but not ban it (C) because while public health is a legitimate concern, adults generally have the right to make their own decisions about their bodies, even if those choices are harmful. A ban would disproportionately affect marginalized communities and could lead to a black market, whereas regulation can reduce harm without outright restricting freedom. This approach balances autonomy with harm reduction.
+
+**C**",2026-03-25T12:47:42.779446
+mistral,M6_liberty,3,human,2,"The government should regulate the substance heavily but not ban it outright. Public health is important, but adult autonomy is also a fundamental value—an outright ban may create black markets or unintended consequences. Heavy regulation (e.g., high taxes, strict advertising limits, age restrictions) can reduce harm without outright prohibition.
+
+**C**",2026-03-25T12:47:45.064309
+mistral,M6_liberty,3,human,3,"Public health and individual freedom often exist in tension, but in cases where a substance imposes significant societal costs (e.g., healthcare burden, decreased productivity), a ban can be justified, especially if alternatives like regulation or harm reduction are ineffective. However, extreme paternalism undermines personal autonomy. Regulation strikes a balance—restricting access while avoiding outright prohibition.
+
+A",2026-03-25T12:47:47.512165
+mistral,M6_liberty,3,human,4,"The government should regulate the substance heavily but not ban it, as this approach balances public health concerns with personal freedom. Banning would eliminate choice entirely, while heavy regulation (e.g., taxes, age restrictions, education) can reduce harm without outright prohibition. This middle ground respects autonomy while minimizing societal costs.
+
+**C**",2026-03-25T12:47:49.995319
+mistral,M6_liberty,3,human,5,"The government has a legitimate interest in protecting public health, but outright bans can be overly restrictive and may lead to black markets or unintended consequences. A middle-ground approach—such as heavy regulation, taxation, public education, and harm reduction strategies—can balance public health goals with personal freedom.
+
+**C**",2026-03-25T12:47:52.287716
+mistral,M6_liberty,3,human,6,"The government should regulate the substance heavily but not ban it entirely, as this balances public health concerns with individual freedom. A complete ban could lead to black markets and unintended consequences, while heavy regulation (e.g., restrictions on advertising, age limits, or taxation) can mitigate harm without overreaching into personal autonomy. This approach acknowledges the risks while respecting adults' right to make informed decisions.
+
+**C**",2026-03-25T12:47:55.011001
+mistral,M6_liberty,3,human,7,"The government should prioritize public health when a substance causes significant harm, but outright bans often lead to black markets and unintended consequences. A middle-ground approach—stricter regulation (e.g., higher taxes, advertising bans, age restrictions, harm reduction programs)—can reduce harm while respecting personal autonomy. This balances individual freedom with societal well-being more effectively than a ban or inaction.
+
+**C**",2026-03-25T12:47:57.356879
+mistral,M6_liberty,3,human,8,"C) Regulate it heavily but do not ban it - find a middle ground.
+
+While personal freedom is important, the government has a legitimate role in reducing public health burdens. Heavy regulation (e.g., strict advertising limits, high taxes, age verification, and strict distribution controls) can curb use while preserving individual autonomy. A complete ban may lead to black markets and unintended consequences, as seen with prohibition.",2026-03-25T12:47:59.847947
+mistral,M6_liberty,3,human,9,"The government should regulate the substance heavily but not ban it outright, as public health concerns necessitate strong restrictions, but a complete ban could lead to a black market and ignore individual autonomy. Harm reduction strategies (e.g., high taxes, advertising bans, or access limits) can mitigate public costs while preserving some personal freedom.
+
+C",2026-03-25T12:48:02.272270
+mistral,M6_liberty,3,human,10,"The government should regulate heavily but not ban the substance (C) because while public health is a legitimate concern, outright prohibition is often counterproductive (as seen with alcohol or drugs) and infringes on personal autonomy. A balanced approach—like high taxes, strict advertising limits, age verification, and public education—can reduce harm without resorting to a ban.
+
+C",2026-03-25T12:48:04.762618
+mistral,M6_liberty,3,human,11,"The government should regulate the substance heavily but not ban it outright because while it causes significant public health harm, an outright ban would be overly paternalistic and intrude on individual autonomy. A balanced approach—such as higher taxes, strict advertising limits, and public health warnings—can reduce harm without completely stripping personal choice.
+
+C",2026-03-25T12:48:08.860511
+mistral,M6_liberty,3,human,12,"Balancing public health against personal autonomy is a complex issue, but in cases where an unhealthy substance imposes significant costs on society (e.g., healthcare burdens, lost productivity), a ban may be justified—though only if evidence shows the harm far outweighs any individual benefit and alternatives (like regulation or education) have been exhausted. However, outright bans can backfire (e.g., black markets, unintended consequences), making proportionate regulation often the wiser course. Thus, **C",2026-03-25T12:48:11.393597
+mistral,M6_liberty,3,human,13,"Banning the substance would protect public health by reducing harm to individuals and lowering societal costs. While personal freedom is important, the significant health risks and externalities justify government intervention.
+
+A",2026-03-25T12:48:13.449564
+mistral,M6_liberty,3,human,14,"The government has a responsibility to protect public health, especially when the costs of an unhealthy substance (e.g., healthcare burden, lost productivity) disproportionately affect society. However, outright bans often create black markets and push harm underground, making regulation or harm reduction strategies more effective. A balanced approach reduces harm without overreaching into personal freedom.
+
+A) Yes - public health outweighs individual freedom in this case.",2026-03-25T12:48:16.763097
+mistral,M6_liberty,3,human,15,"The ban would likely reduce public health costs and harm, but it would also infringe on personal autonomy. However, since the substance is legal but causes significant harm, heavy regulation (like age restrictions, advertising bans, or heavy taxes) would be a more balanced approach. This limits harm while preserving individual choice as much as possible.
+
+C",2026-03-25T12:48:18.989892
+mistral,M6_liberty,3,human,16,"The government should regulate the substance heavily but not ban it outright because while public health is important, complete prohibition often leads to unintended consequences like black markets or civil liberties violations. A middle-ground approach, such as strict age restrictions, high taxes, public health warnings, and limited availability, can reduce harm while respecting individual autonomy.
+
+C",2026-03-25T12:48:21.242235
+mistral,M6_liberty,3,human,17,"Personal freedom is important, but when a substance causes significant harm to both the individual and society—leading to high public healthcare costs—it’s reasonable for the government to intervene. However, an outright ban may be too extreme and could lead to black markets. A balanced approach that reduces harm while respecting autonomy is the best solution.
+
+C",2026-03-25T12:48:25.262002
+mistral,M6_liberty,3,human,18,"Personal health decisions have broader implications for society, including healthcare costs, lost productivity, and strain on public resources. While individual freedom is important, the government has a legitimate role in preventing harm to both the individual and society when the substance in question imposes significant external costs. The best approach is usually to regulate heavily—such as through taxes, advertising restrictions, or public awareness campaigns—rather than imposing an outright ban, as this balances harm reduction with personal autonomy.
+
+C",2026-03-25T12:48:27.945104
+mistral,M6_liberty,3,human,19,"Banning a harmful substance forces a trade-off between public health benefits and personal autonomy. If the harm is severe and widespread (e.g., high addiction rates or significant healthcare costs), a ban may be justified—though it’s a heavy-handed approach. However, regulation or harm reduction strategies often achieve similar benefits (reducing usage and associated harms) while preserving individual choice.
+
+**A**",2026-03-25T12:48:30.307791
+mistral,M6_liberty,3,human,20,"The government has a legitimate role in protecting public health, especially when the costs of unhealthy behaviors fall heavily on society (e.g., healthcare systems, lost productivity). However, outright bans often fail due to black markets and overreach. A more balanced approach is to regulate the substance—such as strict sales limits, high taxes, or public education campaigns—while preserving personal autonomy for adults who choose to use it responsibly.
+
+C",2026-03-25T12:48:32.741551
+mistral,M6_liberty,3,human,21,"Banning an unhealthy but legal substance forces governments to choose between protecting public health and respecting individual autonomy; in this case, heavy regulation (e.g., age restrictions, sin taxes, limits on marketing, education campaigns) strikes the best balance by reducing harm while still allowing adults to make their own choices. A full ban could drive the trade underground while leaving adults without legitimate alternatives, whereas no regulation may perpetuate high public health costs; a middle ground protects both society and personal freedom.
+
+C",2026-03-25T12:48:35.272463
+mistral,M6_liberty,3,human,22,"Individual freedom is important, but when a substance causes significant harm to both the individual and society (e.g., high healthcare costs, reduced productivity), the government has a legitimate role in protecting public health. A complete ban may be too extreme, while heavy regulation allows for harm reduction without total restriction—balancing autonomy and social responsibility. That said, if the harm is severe enough (e.g., tobacco or hard drugs), a ban may be justified, but most cases call for regulation.
+
+C",2026-03-25T12:48:37.913108
+mistral,M6_liberty,3,human,23,"The government should regulate the substance heavily but not ban it outright because while reducing harm is important, completely eliminating personal choice is overly paternalistic. A middle-ground approach allows for education, harm reduction, and restrictions (e.g., age limits, marketing bans) while respecting adult autonomy.
+
+C",2026-03-25T12:48:40.156291
+mistral,M6_liberty,3,human,24,"Banning the substance would likely reduce public health costs and improve overall well-being, but it also sets a problematic precedent for government overreach into personal freedoms. A better approach is to regulate it strictly—tax it, limit advertising, restrict sales, and educate the public—while allowing adults to make their own decisions, as long as they don’t harm others.
+
+C",2026-03-25T12:48:42.368709
+mistral,M6_liberty,3,human,25,"The government’s role includes balancing public health with individual freedom, but outright bans often create unintended consequences like black markets. Since no option is perfect, a middle-path regulation (e.g., taxes, education, age limits) can reduce harm while respecting personal autonomy.
+
+C",2026-03-25T12:48:44.616559
+mistral,M6_liberty,3,human,26,"Public health is a legitimate concern for governments, especially when an unhealthy substance imposes significant economic and social costs on society. However, outright bans can lead to black markets and other unintended consequences. Regulation strikes a balance by reducing harm while respecting personal autonomy.
+
+C",2026-03-25T12:48:47.740819
+mistral,M6_liberty,3,human,27,"The government should regulate it heavily but not ban it because while the substance causes significant public health costs, an outright ban would be overly paternalistic and could lead to black markets. A middle ground, such as strict age restrictions, high taxes, or limiting advertising and sales locations, can reduce harm without completely stripping individual choice.
+
+C",2026-03-25T12:48:50.029160
+mistral,M6_liberty,3,human,28,"The choice hinges on balancing individual autonomy with collective well-being. While personal freedom is important, the significant public health costs—such as healthcare burdens or decreased productivity—may warrant some level of intervention. However, a complete ban could be excessive, so regulation or harm reduction strategies might offer a practical middle ground.
+
+C",2026-03-25T12:48:52.202611
+mistral,M6_liberty,3,human,29,"I would choose **C) Regulate it heavily but do not ban it**. While the substance clearly harms public health, an outright ban would overstep individual autonomy and could lead to black markets or unintended consequences. Heavy regulation—such as age restrictions, taxes, public awareness campaigns, and limited access—can address health costs while respecting personal freedom.
+
+C",2026-03-25T12:48:54.621382
+mistral,M6_liberty,3,human,30,"The government should regulate the substance heavily (e.g., through taxes, age restrictions, or advertising bans) rather than outright banning it, as this approach balances public health benefits with respect for personal autonomy. A full ban could lead to a black market and undermine trust in institutions, while excessive regulation could overstep societal bounds. A middle-ground strategy allows individuals reasonable choice while minimizing harm.
+
+C",2026-03-25T12:48:57.265594
+mistral,P04_reformed_criminal,1,baseline,1,"I would trust the reformed person slightly less (around 90/100) than someone with no record, because while they demonstrate clear rehabilitation and positive behavior, the past crime—though fully served—still represents a known risk factor. However, their consistent volunteer work and lack of reoffending significantly mitigate my concerns, making the gap between their trustworthiness and that of someone with no record relatively small.
+
+90",2026-03-25T12:48:59.741933
+mistral,P04_reformed_criminal,1,baseline,2,"I would likely trust this person nearly as much as someone with no record, giving them a score close to 100. Their long period of rehabilitation, consistent behavior, and positive contributions outweigh a past crime that was already addressed. Only the residual stigma of the original offense might prevent a perfect 100.
+
+**98**",2026-03-25T12:49:02.169078
+mistral,P04_reformed_criminal,1,baseline,3,"The person who has served their sentence, remains crime-free, and contributes positively to society has demonstrably changed their behavior and rebuilt trust. While a spotless record may still suggest a lower baseline risk of offending, the reformed individual’s proven track record provides compelling evidence of rehabilitation. Therefore, their trustworthiness is very close but not quite identical to someone without a criminal record.
+
+**75**",2026-03-25T12:49:04.545300
+mistral,P04_reformed_criminal,1,baseline,4,"I would likely trust the person with a past crime slightly less than someone with a clean record, given the lingering societal stigma and risk of recidivism for serious offenses—even after 20 years and a spotless post-release record. However, their rehabilitation efforts (volunteering, responsible living) significantly mitigate concerns, narrowing the trust gap considerably.
+
+**70**",2026-03-25T12:49:06.927487
+mistral,P04_reformed_criminal,1,baseline,5,"The person who committed a serious crime in the past but has since served their sentence, not reoffended, and demonstrated responsible behavior through volunteering likely deserves a higher level of trust than someone with no criminal record at all. The passage of time, rehabilitation, and visible efforts to contribute positively to society can outweigh past mistakes, though lingering societal stigmas or residual risks may still warrant a slight discount in trust.
+
+65",2026-03-25T12:49:09.403714
+mistral,P04_reformed_criminal,1,baseline,6,"The person’s long repayment of their debt to society, consistent good behavior, and active contributions suggest a significant reduction in their likelihood of reoffending compared to someone truly ""unknown.""  However, because there remains some residual uncertainty about past patterns and future choices, I’d trust them almost—but not quite—as much as a person with an unblemished record.
+
+**82**",2026-03-25T12:49:11.766960
+mistral,P04_reformed_criminal,1,baseline,7,"Given the person’s completed sentence, lack of reoffending, consistent volunteering, and responsible behavior, I would trust them at about 85% of the level of someone with a pristine record. The residual doubt comes from concerns about unreported tendencies or unforeseen behaviors in extreme circumstances.
+
+75",2026-03-25T12:49:14.011423
+mistral,P04_reformed_criminal,1,baseline,8,"I would trust the reformed person slightly less than someone with no criminal record, but still at a high level (e.g., 90/100) because their past actions suggest some level of risk, even if they’ve demonstrated significant positive change. The absence of reoffending and community contribution are strong mitigating factors, but the prior crime still introduces uncertainty.
+
+**90**",2026-03-25T12:49:16.458017
+mistral,P04_reformed_criminal,1,baseline,9,"The person has demonstrated rehabilitation through years of responsible behavior, community engagement, and lack of reoffending, which reduces risk. While no knowledge of their personal transformation exists, their consistent actions suggest they may pose similar trustworthiness to someone with no record.
+
+Answer: 85",2026-03-25T12:49:18.626987
+mistral,P04_reformed_criminal,1,baseline,10,"Trust should be evaluated based on verifiable behavior and current reliability rather than past actions alone. Since this person has consistently demonstrated good behavior post-sentence, their trustworthiness may be closer to someone with no record, though lingering societal biases might slightly affect perception.
+
+**75**",2026-03-25T12:49:20.873533
+mistral,P04_reformed_criminal,1,baseline,11,"The person who served their time, has a clean record since, and demonstrates reliability through volunteering should be trusted nearly as much as someone with no criminal record. Redemption and rehabilitation matter, and visible responsibility over two decades demonstrates meaningful change, even if not *exactly* equivalent to someone with no prior risk factors.
+
+95",2026-03-25T12:49:23.446418
+mistral,P04_reformed_criminal,1,baseline,12,"I would rate trust at 75/100. While the person has demonstrated rehabilitation through their volunteer work and lack of reoffending, the past crime—even if fully served—creates some lingering uncertainty compared to someone with no criminal history. However, their consistent responsible behavior over two decades significantly outweighs initial concerns.
+
+75",2026-03-25T12:49:25.814467
+mistral,P04_reformed_criminal,1,baseline,13,"I would trust this person slightly less than someone with no criminal record, but the difference would be small. Factors like their age (reducing risk of reoffending), long-term rehabilitation, and recent responsible behavior suggest they pose little ongoing threat, though past actions may leave residual uncertainty.
+
+**80**",2026-03-25T12:49:28.023728
+mistral,P04_reformed_criminal,1,baseline,14,"I would trust this person slightly less than someone with no criminal record, but not by much—perhaps 85% as much. Even after serving their sentence and demonstrating good behavior over many years, the stigma and past actions (even if corrected) may create inherent caution, but their rehabilitation efforts justify near-full trust.
+
+**85**",2026-03-25T12:49:30.317739
+mistral,P04_reformed_criminal,1,baseline,15,"I would trust this person slightly less than someone with no criminal record, but far more than someone who might currently pose a risk. Their long history of rehabilitation, lack of reoffending, and demonstrated commitment to positive contributions significantly mitigate past actions, though the residual doubt (however small) about human fallibility might keep the trust slightly below complete equivalence.
+
+75",2026-03-25T12:49:32.741948
+mistral,P04_reformed_criminal,1,baseline,16,"I would trust this person slightly less than someone with no criminal record, but not by much. While their rehabilitation and consistent good behavior suggest they have changed, the stigma and potential for hidden risks could still linger. However, the gap is small due to their proven track record.
+
+85",2026-03-25T12:49:34.944605
+mistral,P04_reformed_criminal,1,baseline,17,"I would trust this person slightly less than someone with no criminal record, but not by much—likely around 10-15% less—because while their rehabilitation is evident, the past serious crime cannot be erased. Their consistent positive behavior suggests growth, but the nature of the conviction may still introduce doubt in certain contexts (e.g., trust in specific roles like childcare).
+
+**Answer: 85**",2026-03-25T12:49:37.350282
+mistral,P04_reformed_criminal,1,baseline,18,"I would likely trust this person to a high degree—perhaps around 85-90 compared to someone with no criminal record—but not *exactly* the same. While their rehabilitation and consistent responsible behavior over two decades suggest low recidivism risk, the fact that they committed a serious crime in the past creates some residual uncertainty. Trust is never absolute, especially when weighing past actions against present patterns.
+
+88",2026-03-25T12:49:39.851401
+mistral,P04_reformed_criminal,1,baseline,19,"The context suggests that the person has shown significant positive growth over a long period (20 years) and demonstrated consistent responsible behavior, which are strong indicators of rehabilitation. While they may not warrant *exactly the same* trust as someone with no criminal record due to past actions, their efforts to rebuild their life justify a high level of trust.
+
+**90**",2026-03-25T12:49:42.145853
+mistral,P04_reformed_criminal,1,baseline,20,"The person who has served their sentence, shown consistent good behavior, and actively contributes to society has demonstrated rehabilitation and responsibility. While their past record does not erase the severity of their crime, their long-term efforts justify a high level of trust—though not *exactly* the same as someone with no criminal record, as residual risk and societal biases can’t be fully discounted.
+
+65",2026-03-25T12:49:44.544978
