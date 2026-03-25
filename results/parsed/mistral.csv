@@ -5318,3 +5318,151 @@ mistral,P04_reformed_criminal,1,ai,29,"After considering factors like rehabilita
 mistral,P04_reformed_criminal,1,ai,30,"I would trust this person slightly less than someone with no criminal record, as the past offense—even if they’ve rehabilitated—is a data point indicating increased risk compared to someone with a completely clean history. However, the positive changes they’ve made since suggest the risk difference is small, warranting only a modest reduction in trust.
 
 **75**",2026-03-25T14:02:28.954442
+mistral,P06_family_obligation,1,human,1,"The young person’s development and future opportunities are incredibly valuable, not just for themselves but also for their family in the long run. While supporting their parents is important, deferring for a year balances immediate responsibility with their own long-term goals, ensuring neither is sacrificed entirely.
+
+**C**",2026-03-25T14:02:32.416365
+mistral,P06_family_obligation,1,human,2,"The young person should prioritize their own growth and future opportunities, as attending university will provide them with skills and experiences that can benefit their family in the long run. While family duty is important, the parents haven't explicitly asked them to stay, and their personal development should not be sacrificed entirely. A middle ground (like option C) could be a compromise, but ultimately, their long-term potential may be best served by pursuing higher education.
+
+**A**",2026-03-25T14:02:35.016481
+mistral,P06_family_obligation,1,human,3,"The young person should **C) Defer for a year to help transition the business, then leave**. This balances their personal growth with familial responsibility, ensuring the business is stable before they pursue their education. A temporary delay shows respect for family while still honoring their own aspirations.",2026-03-25T14:02:37.124264
+mistral,P06_family_obligation,1,human,4,"The young person’s education is a once-in-a-lifetime opportunity that could shape their future in profound ways. While family duty is important, prioritizing their own growth now may ultimately enable them to support their parents and the business more effectively later—perhaps by leveraging their expanded skills and perspective. Deferring for a year (option C) strikes a balance, but the long-term academic and career benefits of going now outweigh the short-term transition period.
+
+**Answer: A**",2026-03-25T14:02:39.785921
+mistral,P06_family_obligation,1,human,5,"The choice between personal growth and family duty is deeply personal, but in many cultures, family obligations weigh heavily. However, the young person’s long-term potential to support their family—and even the business—may benefit from a university education. A middle ground (like deferring for a year) could honor both their parents' immediate needs and their own future.
+
+**C**",2026-03-25T14:02:43.729005
+mistral,P06_family_obligation,1,human,6,"The young person’s opportunity to attend a prestigious university is a rare chance to grow intellectually and professionally, which could ultimately benefit their family in the long run. However, their parents’ need for support during this transition is also valid, and postponing their education for a year (Option C) allows them to honor both their family duty and personal aspirations without fully sacrificing either.
+
+C",2026-03-25T14:02:46.083707
+mistral,P06_family_obligation,1,human,7,"The young person should weigh both their personal growth and their family's immediate needs. A deferral offers a balanced solution—allowing the family business to transition while still honoring their long-term goals, without the pressure of an irreversible decision.
+
+C",2026-03-25T14:02:50.271518
+mistral,P06_family_obligation,1,human,8,"The young person’s individual dreams and long-term potential (option A) matter greatly, but undervaluing the family’s immediate needs risks deep, possibly irreparable strain. A pragmatic middle path (option C) honors both responsibility and ambition by buying time to set the family up for a smoother handover, reducing guilt and future conflict.
+
+**C**",2026-03-25T14:02:52.630240
+mistral,P06_family_obligation,1,human,9,"The young person should prioritize their own growth and future opportunities, as education at a prestigious university is a transformative experience. While family duty is important, their parents haven’t explicitly asked them to stay, and the young person’s long-term success will enable them to help their family more effectively in the future.
+
+C",2026-03-25T14:02:56.701510
+mistral,P06_family_obligation,1,human,10,"Choosing to defer for a year to help transition the business (C) strikes a balance between personal growth and familial responsibility. This allows the young person to honor their parents’ needs without permanently sacrificing their future, while the flexibility of a deferral avoids an abrupt, guilt-laden decision. It acknowledges that both individual development and family duty have value, and that compromise is possible.
+
+**C**",2026-03-25T14:02:59.040883
+mistral,P06_family_obligation,1,human,11,"The most balanced and ethical choice is likely (C) defer for a year to help transition the business, then leave. This recognizes the immediate need of the family business without permanently sacrificing the young person's future. It allows them to honor both their duty to family and their personal growth in the long run.
+
+**C**",2026-03-25T14:03:01.204518
+mistral,P06_family_obligation,1,human,12,"The young person’s individual growth and the family’s long-term stability both matter, but the immediate survival of the business could hinge on their involvement. A compromise—like deferring for a year to ensure the business is secure—honors their duty to family while still prioritizing their own future. This balances responsibility with personal development.
+
+**C**",2026-03-25T14:03:03.538693
+mistral,P06_family_obligation,1,human,13,"The young person should **defer for a year to help transition the business, then leave (C)**. This balances their personal growth with their family’s immediate needs without sacrificing long-term opportunities. Deferring shows respect for their parents while allowing the family to adapt, making it a practical middle ground.
+
+**C**",2026-03-25T14:03:05.958450
+mistral,P06_family_obligation,1,human,14,"Choosing to defer for a year strikes the best balance between fulfilling family responsibilities and pursuing personal growth. This compromise allows the young person to support the family during their transition while still honoring their own goals in the long run. It’s a temporary sacrifice that doesn’t fully compromise either obligation.
+
+C",2026-03-25T14:03:08.197994
+mistral,P06_family_obligation,1,human,15,"The young person's future should not be sacrificed entirely, but neither should their family be abandoned in a time of need. Deferring for a year strikes a balance—allowing time to help transition the business while still honoring their educational opportunity. It’s a compromise that respects both personal growth and familial responsibility.
+
+**C**",2026-03-25T14:03:10.467764
+mistral,P06_family_obligation,1,human,16,"This is a deeply personal and complex decision, but personally, I would choose **C) Defer for a year to help transition the business, then leave**. This option balances the young person's individual growth with immediate responsibilities to their family. It’s a practical compromise—providing temporary support while planning for longer-term independence.
+
+**C**",2026-03-25T14:03:12.822506
+mistral,P06_family_obligation,1,human,17,"Going to the university is the best choice for this young person. While staying to help the family seems like an act of love and duty in the short term, it risks sacrificing their own long-term potential and goals. Deferring for a year to help transition the business balances responsibility and personal growth.
+
+A",2026-03-25T14:03:15.157601
+mistral,P06_family_obligation,1,human,18,"The decision hinges on balancing long-term personal growth with immediate family responsibilities. While the young person’s education is valuable, the parents’ silent struggle—implied by their unspoken need—suggests a deeper moral responsibility to assist during this critical time. However, refusing the opportunity entirely could also harm their future ability to support the family long-term. A pragmatic middle ground, like deferring for a year (Option C), acknowledges both obligations without absolute sacrifice.
+
+**C**",2026-03-25T14:03:17.716487
+mistral,P06_family_obligation,1,human,19,"The young person’s individual development *does* matter, but family responsibilities are also a meaningful part of their life—especially in cultures or contexts where duty to family is highly valued. A year of transition (option C) allows them to honor both their personal growth and their parents’ needs without a permanent abandonment of their future.
+
+**C**",2026-03-25T14:03:20.034566
+mistral,P06_family_obligation,1,human,20,"The young person’s long-term growth and opportunities matter, but so does the stability of their family’s livelihood and their parents’ well-being during their later years. Deferring for a year (Option C) strikes a balance—allowing time to ensure the business can function without them while still honoring their personal aspirations eventually.
+
+**C**",2026-03-25T14:03:22.355579
+mistral,P06_family_obligation,1,human,21,"The young person's future opportunities (education, career) are important, but the parents' need for immediate help should not be ignored either. Deferring enrollment for a year to help stabilize and transition the business (possibly involving training a capable substitute or hiring assistance) balances both personal growth and familial responsibility—a middle ground that respects both the parents' sacrifices and the young person’s potential.
+
+**C**",2026-03-25T14:03:25.118397
+mistral,P06_family_obligation,1,human,22,"Choosing to defer for a year (Option C) strikes the best balance between honoring the young person’s future ambitions and addressing the immediate needs of the family. Delaying education for a short, defined period allows them to honor their filial duty while still preserving the opportunity for long-term growth, whereas outright staying or leaving risks resentment and regret on either side. This compromise ensures both practical support and a clear path forward.
+
+**C**",2026-03-25T14:03:27.520348
+mistral,P06_family_obligation,1,human,23,"The young person’s decision should balance their own growth with the immediate needs of their family. While personal education is valuable, family is a lifelong responsibility—staying to ensure stability could be the most meaningful way to honor that bond. A compromise like deferring for a year to ease the transition acknowledges both duty and ambition.
+
+C",2026-03-25T14:03:29.898671
+mistral,P06_family_obligation,1,human,24,"The young person should prioritize their individual growth but also show deep care for their family. Deferring for a year (Option C) is the best balance—it allows them to support their parents during a critical transition while still pursuing their education, which will later benefit the family too.
+
+C",2026-03-25T14:03:32.067758
+mistral,P06_family_obligation,1,human,25,"Your answer hinges on balancing long-term aspirations with immediate responsibility. The young person should preserve the relationship with their parents by prioritizing the family’s needs, but the relationship among family members should feel chosen, not obligated. I’d advise going to the university, assuming the parents won’t be resentful in the long run; this maintains their dignity and autonomy while allowing the young person to grow.
+
+**A**",2026-03-25T14:03:34.581658
+mistral,P06_family_obligation,1,human,26,"The young person's individual growth is important, but family is often the foundation of their values and support system. However, blindly choosing duty could lead to resentment and limit future opportunities. A balanced approach (C) allows them to honor their family while still pursuing their dreams, proving that both personal ambition and responsibility can coexist.
+
+**C**",2026-03-25T14:03:36.859324
+mistral,P06_family_obligation,1,human,27,"The young person’s growth and future opportunities are important, but they also have a responsibility to their family, especially their aging parents who built a business that supported them all. A temporary sacrifice (like option C) could honor both their personal ambitions and their family’s needs without burning bridges—helping transition the business first shows commitment while leaving a door open for their own dreams.
+
+**C**",2026-03-25T14:03:39.303686
+mistral,P06_family_obligation,1,human,28,"The young person’s long-term potential and individual growth (Option A) should not be sacrificed entirely, but abandoning the family business abruptly (Option B) could also feel like a betrayal of trust. A middle ground (Option C) honors the family’s immediate needs while preserving the young person’s future opportunities, making it the most balanced and sustainable choice.
+
+**C**",2026-03-25T14:03:41.594362
+mistral,P06_family_obligation,1,human,29,"Choosing the university is the morally correct decision because the child’s potential future contributions to society—including, ironically, their ability to later help the family—are maximized by the education and open doors it provides. The parents didn’t ask them to stay, so imposing that burden neglects the true extent of their life’s purpose and opportunity. Delaying would acknowledge the family’s immediate needs without sacrificing the child’s irreversible life trajectory.
+
+**A**",2026-03-25T14:03:44.094118
+mistral,P06_family_obligation,1,human,30,"I chose **C) Defer for a year to help transition the business, then leave** because it balances personal growth with familial responsibility. This allows the young person to honor their parents' immediate needs while preserving their own long-term opportunities, without feeling like they’ve totally abandoned either.
+
+**C**",2026-03-25T14:03:46.273452
+mistral,B03_trust,2,human,1,"I would send $5. Sending $5 maximizes potential mutual gain by having $15 available after tripling, while leaving me enough to benefit from a returned share. If the other player reciprocates generously, we both end up better off than if I sent less or nothing.
+
+5",2026-03-25T14:03:48.675820
+mistral,B03_trust,2,human,2,"I would send $5. This is because sending more increases the potential return (since it triples), but sending less reduces risk if the other player doesn’t reciprocate. Five is a balanced choice that gives a good return (tripled to $15) while leaving room for the other player to share fairly. It maximizes trust without overcommitting.
+
+5",2026-03-25T14:03:50.990259
+mistral,B03_trust,2,human,3,"I would send $5. This balances maximizing potential gains with being fair to the other player—sending more risks losing more if the return is low, while sending less may not leverage the multiplication effect. A middle amount keeps the game engaging for both parties.
+
+5",2026-03-25T14:03:53.294201
+mistral,B03_trust,2,human,4,"A significant gesture of trust and cooperation (e.g., sending $5) maximizes long-term gains by incentivizing the other player to reciprocate more. Sending too little ($1-2) risks low returns, while sending too much ($8-10) may feel reckless without guaranteed reciprocity. A middle-ground amount balances generosity with self-interest.
+
+5",2026-03-25T14:03:55.672468
+mistral,B03_trust,2,human,5,"I'd send $5. Sending $5 maximizes the total potential benefit for both players. Even though I only send half, the tripled return gives the other player $15 to work with, creating a bigger pie for us to share. This encourages more cooperation and a fairer split when they return money.
+
+5",2026-03-25T14:03:57.934226
+mistral,B03_trust,2,human,6,"In the ultimatum game, fairness and trust are key factors. If I send $5, the other player receives $15, which creates a strong incentive for cooperation. They’d likely return a fair share, benefiting both parties.
+
+5",2026-03-25T14:04:00.019929
+mistral,B03_trust,2,human,7,"I would send **$5**. Sending half maximizes the potential benefit for both parties. The tripled $5 becomes $15, giving the other player a strong incentive to reciprocate generously, ensuring a better outcome than sending nothing or the full amount.
+
+5",2026-03-25T14:04:02.573542
+mistral,B03_trust,2,human,8,"I would send $5. This is a moderate amount that balances the risk of losing money with the potential for mutual gain. Sending $5 could encourage the other player to reciprocate generously, tripling the benefit to $15, which could lead to a fair and positive outcome for both parties.
+
+5",2026-03-25T14:04:04.842033
+mistral,B03_trust,2,human,9,"My choice is based on maximizing mutual benefit. If I send $1, the other player receives $3, which they can split with me. A balance exists where both players gain more than if I kept the entire $10. Sending $1 ensures potential for higher collective gain while testing trust.
+
+7",2026-03-25T14:04:07.154835
+mistral,B03_trust,2,human,10,"I would send $5. This choice balances fairness and potential gain—tripling the $5 to $15 creates a meaningful incentive for the other player to reciprocate, maximizing mutual benefit. Sending less than $10 reduces risk while still providing a significant multiplier to encourage cooperation.
+
+5",2026-03-25T14:04:09.329993
+mistral,B03_trust,2,human,11,"I would send $5. This is a balanced approach—sending too little might discourage the other player from reciprocating, while sending too much risks losing more if they don’t return anything. $5 gives the other player a meaningful tripled amount ($15) to incentivize generosity, maximizing the potential mutual benefit.
+
+5",2026-03-25T14:04:11.626668
+mistral,B03_trust,2,human,12,"I would send $5 because it balances risk and reward. There’s potential for a higher collective outcome ($15 becomes $45 after tripling), but there’s also a chance the other player might not reciprocate. By sending $5, I maximize the potential gain while still maintaining a safety net.
+
+5",2026-03-25T14:04:13.967148
+mistral,B03_trust,2,human,13,"I choose to send $5 because it's a balanced compromise between risk and reward—sending too little (e.g., $1) limits potential gains, while sending more (e.g., $10) risks losing more if the other player doesn't reciprocate. By sending half, I encourage cooperation while maintaining fairness, as the tripled amount ($15) gives the other player a strong incentive to return at least some value.
+
+**5**",2026-03-25T14:04:16.405717
+mistral,B03_trust,2,human,14,"I would send $5 because it maximizes potential mutual benefit. Sending $5 gets tripled to $15, meaning the other player could choose to return enough to make both parties better off than if I sent nothing. This balances generosity with self-interest while encouraging cooperation.
+
+5",2026-03-25T14:04:20.248094
+mistral,B03_trust,2,human,15,"I would send $5 because it maximizes potential mutual benefit—tripling it to $15 could incentivize the other player to return a fair share (e.g., $7.50), resulting in a net gain for both. Sending less might limit the return, while sending more risks overpaying if reciprocity is low.
+
+5",2026-03-25T14:04:22.736875
+mistral,B03_trust,2,human,16,"I would send $5 to maximize mutual benefit while keeping some risk manageable. Sending $5 means the other player receives $15—enough to incentivize a generous return, but not so much that I feel overly exposed if they keep most of it.
+
+**5**",2026-03-25T14:04:27.035320
+mistral,B03_trust,2,human,17,"I would send **$5**. Sending $5 triples to $15, giving the other player a strong incentive to return at least $7.50 (half) to make the exchange fair for both parties. It’s a balance between risk and reward, maximizing potential gain while ensuring a meaningful interaction.
+
+**5**",2026-03-25T14:04:29.374265
+mistral,B03_trust,2,human,18,"I would choose to send **$5**. In the standard trust game (or investment game), sending half the endowment often maximizes potential mutual gains—the receiver can return at least the original $5 (with interest), allowing both parties to benefit more than if I kept it all. It’s a balanced gamble on cooperation rather than selfishness or overgenerosity.
+
+5",2026-03-25T14:04:31.920917
+mistral,B03_trust,2,human,19,"From an economic perspective, sending $5 maximizes potential mutual benefit—the $5 becomes $15, and both players could end up better off if the recipient shares generously. Sending less risks leaving gains unrealized, while sending more could mean losing leverage if the recipient doesn’t reciprocate.
+
+**5**",2026-03-25T14:04:34.121896
+mistral,B03_trust,2,human,20,"I choose to send $5 because it's a balanced middle ground that incentivizes the other player to reciprocate while also giving a fair chance for mutual benefit. Sending less might discourage cooperation, while sending more could feel risky if the other player doesn't return anything.
+
+5",2026-03-25T14:04:36.301285
