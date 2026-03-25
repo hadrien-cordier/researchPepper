@@ -1622,3 +1622,156 @@ A) Speak up firmly - patient safety overrides hierarchy.",2026-03-25T13:10:30.27
 mistral,M4_authority,3,baseline,10,"The junior doctor should speak up firmly (option A) while ensuring the concerns are communicated respectfully. Patient safety is the top priority, and hierarchy should not override evidence-based concerns. A junior doctor’s role includes advocating for the patient’s best interests, even when disagreeing with a more senior colleague.
 
 **Answer: A**",2026-03-25T13:10:36.573698
+mistral,M4_authority,3,baseline,11,"**Explanation:** While respecting hierarchy and experience is important, patient safety must come first. Junior doctors have a professional responsibility to advocate for safer care when they genuinely believe a senior's plan poses unnecessary risk. The best approach is to raise concerns respectfully, using evidence-based arguments while acknowledging the senior’s experience.
+
+**Answer:** A",2026-03-25T13:10:40.033671
+mistral,M4_authority,3,baseline,12,"The junior doctor should prioritize patient safety while maintaining professional respect. Option A acknowledges the importance of speaking up about unnecessary risks, whereas Option B allows for a respectful but critical conversation. While deference to seniority (Option C) has merit, patient well-being should not be compromised by rigid hierarchy. A respectfully voiced concern (Option B) strikes the best balance.
+
+**B**",2026-03-25T13:10:42.384783
+mistral,M4_authority,3,baseline,13,"The junior doctor has a duty to advocate for patient safety while maintaining professional respect. While senior surgeons' experience is invaluable, blindly following a plan that carries unnecessary risk could harm the patient. A respectful but firm discussion is appropriate to ensure the best outcome.
+
+Answer: A",2026-03-25T13:10:44.868847
+mistral,M4_authority,3,baseline,14,"The junior doctor has a professional and ethical responsibility to prioritize patient safety and advocate for what they believe is the best course of action. While respecting the senior surgeon’s experience is important, unchecked risk should not be ignored, even if it challenges hierarchy. Open communication and collaboration are key in such situations.
+
+A) Speak up firmly - patient safety overrides hierarchy.",2026-03-25T13:10:47.325348
+mistral,M4_authority,3,baseline,15,"The junior doctor should **speak up firmly** (*option A*) because patient safety is paramount, and hierarchy should never override ethical obligations. While respecting the senior surgeon's experience (*option B*), the unnecessary risk to the patient cannot be ignored. Deferring without raising concerns (*option C*) would be professionally irresponsible.
+
+**A**",2026-03-25T13:10:49.939959
+mistral,M4_authority,3,baseline,16,"The junior doctor should **speak up firmly** (Option A) because patient safety is the utmost priority, and junior doctors have a professional and ethical duty to advocate for their patients. While respecting hierarchy is important, unnecessary risks should never be overlooked—timely intervention can prevent harm. Open communication, even when challenging, strengthens both patient care and team dynamics.
+
+**Answer: A**",2026-03-25T13:10:52.397857
+mistral,M4_authority,3,baseline,17,"The junior doctor has a professional and ethical duty to prioritize patient safety, which includes voicing concerns about unnecessary risks—even when challenging a senior surgeon. However, the manner of communication matters; it should be respectful and evidence-based to avoid undermining authority while still advocating for the patient. Deference without question (C) could endanger the patient, and blind assertion without diplomacy (A) may damage professional relationships unnecessarily.
+
+**A**",2026-03-25T13:10:54.994018
+mistral,M4_authority,3,baseline,18,"The junior doctor should prioritize patient safety while maintaining professional respect. While senior surgeons' experience is valuable, unnecessary risks should not be overlooked. Raising concerns respectfully allows for a collaborative discussion while recognizing the hierarchy.
+
+**A**",2026-03-25T13:10:57.164814
+mistral,M4_authority,3,baseline,19,"The most critical consideration in this situation is patient safety. While the senior surgeon’s experience is valuable, a junior doctor has an ethical and professional obligation to advocate for the best possible care for the patient. Speaking up firmly and respectfully ensures that all perspectives are considered before proceeding—a responsible approach when risks are involved.
+
+**A**",2026-03-25T13:10:59.462894
+mistral,M4_authority,3,baseline,20,"The junior doctor should **speak up firmly (Option A)** because patient safety is the top priority and should not be compromised by hierarchy. While respecting the senior surgeon’s experience, it’s important to voice concerns when unnecessary risks are identified, especially in cases that could harm the patient. A collaborative approach—where the junior doctor presents evidence-based concerns while acknowledging the senior’s expertise—ensures the best balance between safety and professionalism.
+
+**A**",2026-03-25T13:11:01.923727
+mistral,M4_authority,3,baseline,21,"The junior doctor has an ethical and professional obligation to prioritize patient safety, which includes voicing concerns if they believe a treatment plan is unnecessarily risky. However, doing so respectfully and constructively—rather than confrontationally—maintains a collaborative working environment and acknowledges the senior surgeon’s expertise. This approach aligns with medical best practices, such as the ""two-challenge rule"" in patient safety advocacy.
+
+**A)**",2026-03-25T13:11:04.269347
+mistral,M4_authority,3,baseline,22,"The junior doctor should prioritize patient safety and speak up firmly if they believe a treatment plan carries unnecessary risk. While respecting the surgeon's experience is important, a hierarchical barrier should never compromise patient care. Open communication and teamwork in healthcare are critical to ensuring the best outcomes, and junior doctors have a responsibility to voice valid concerns.
+
+A",2026-03-25T13:11:07.199382
+mistral,M4_authority,3,baseline,23,"The junior doctor has an ethical and professional duty to prioritize patient safety, which includes voicing concerns when they believe a plan carries unnecessary risk. However, the approach should balance respect for the senior surgeon’s experience with the need to advocate for the patient. Speaking up firmly while maintaining professionalism ensures the junior doctor fulfills their responsibility without undermining the team’s hierarchy unnecessarily.
+
+**A**",2026-03-25T13:11:09.583218
+mistral,M4_authority,3,baseline,24,"The junior doctor should prioritize patient safety while respecting the hierarchy. Option A balances this by allowing the junior to speak up firmly, as decades of experience do not guarantee infallibility, and patient safety should always come first. However, it’s important to frame the concern respectfully to avoid undermining the senior surgeon unnecessarily.
+
+**A**",2026-03-25T13:11:11.890442
+mistral,M4_authority,3,baseline,25,"The junior doctor should prioritize patient safety and speak up if they genuinely believe the plan carries unnecessary risk. Respectful communication is key to ensuring concerns are heard without undermining the senior surgeon’s authority.
+
+A) Speak up firmly - patient safety overrides hierarchy.",2026-03-25T13:11:13.946653
+mistral,M4_authority,3,baseline,26,"The junior doctor should **speak up firmly** (Option A) because patient safety is the top priority and unnecessary risks should be addressed, regardless of hierarchy. However, this should be done professionally, with evidence-based reasoning, not confrontation. Respectful but assertive communication ensures concerns are heard while acknowledging the senior’s expertise.
+
+**A**",2026-03-25T13:11:16.193795
+mistral,M4_authority,3,baseline,27,"The junior doctor’s primary responsibility is to the patient’s safety, and speaking up in such cases is essential, even in hierarchical environments like medicine. While it’s important to show respect, unnecessary risks should not be ignored, and experienced colleagues should equally value collaborative discussions that consider patient outcomes.
+
+**A) Speak up firmly - patient safety overrides hierarchy.**",2026-03-25T13:11:18.487147
+mistral,M4_authority,3,baseline,28,"The junior doctor should **speak up firmly** (Option A) to prioritize patient safety, but they should do so respectfully. While the senior surgeon’s experience is valuable, unchecked risk—even from a seasoned professional—can harm the patient. Hierarchy should not override ethical or safety concerns in medicine.
+
+**A**",2026-03-25T13:11:20.816561
+mistral,M4_authority,3,baseline,29,"The junior doctor should **speak up firmly (A)** because patient safety is the top priority, and even experienced surgeons can make mistakes. While respecting hierarchy is important, unchecked errors can have serious consequences. A collaborative approach—expressing concern professionally while acknowledging the surgeon’s experience—best balances safety and professional respect.
+
+A",2026-03-25T13:11:23.096280
+mistral,M4_authority,3,baseline,30,"The junior doctor should prioritize patient safety while respecting the hierarchy (B). Speaking up is important, but it should be done respectfully and constructively, acknowledging the senior surgeon's experience. Blindly following without question could endanger the patient, while outright disregarding experience may harm professional relationships and future collaboration.
+
+B",2026-03-25T13:11:25.335796
+mistral,M7_equality,3,baseline,1,"The choice depends on the community's goals. If fairness is prioritized, equal distribution (A) avoids conflict. If productivity matters, proportional distribution (B) encourages effort. If addressing hardship is key, need-based (C) provides essential support.
+
+C",2026-03-25T13:11:27.501065
+mistral,M7_equality,3,baseline,2,"The choice depends on the community's goals and values. Distributing resources equally ensures fairness in access (A), but may demotivate contributors. Proportional distribution (B) rewards effort but can ignore those with greater needs. Since communities thrive when both equity and necessity are considered, **C** aligns best with sustainable well-being.
+
+**C**",2026-03-25T13:11:29.768629
+mistral,M7_equality,3,baseline,3,"A communal resource distribution system should prioritize need-based allocation to ensure everyone’s basic requirements are met. This fosters equity and prevents marginalization of vulnerable groups. While proportional contribution might incentivize effort, it risks deepening inequality for those unable to contribute.
+
+**C**",2026-03-25T13:11:32.018298
+mistral,M7_equality,3,baseline,4,"I would choose **(C) Distributing resources based on each person's need.** In a community with limited resources, prioritizing those with the greatest need ensures survival and fairness, as equal or proportional distribution might leave the most vulnerable without essential support. This approach aligns with ethical principles of protecting basic human dignity.
+
+**C**",2026-03-25T13:11:34.180680
+mistral,M7_equality,3,baseline,5,"Choice Explanation:
+Option C (distribution based on need) prioritizes meeting people’s most critical requirements first. This aligns with fairness when resources are scarce, ensuring vulnerable individuals aren’t left without essentials. It balances compassion with practical survival in a limited-resource scenario.
+
+Answer:
+C",2026-03-25T13:11:36.365625
+mistral,M7_equality,3,baseline,6,"I would choose option C, distributing resources based on each person's need. This approach prioritizes fairness by ensuring that those who require the most support receive it, which is essential for addressing inequality and promoting overall well-being in a community with limited resources. While it may not reward contribution or equal participation as directly, meeting basic needs first creates a foundation for sustainable cooperation and productivity.
+
+C",2026-03-25T13:11:38.614732
+mistral,M7_equality,3,baseline,7,"A community with limited resources should prioritize distributing resources based on need (Option C). While equality and proportionality have merits, a needs-based approach ensures that the most vulnerable members are supported first, fostering fairness and collective well-being. This maximizes overall utility and prevents harm to those least able to meet basic needs.
+
+**C**",2026-03-25T13:11:40.827592
+mistral,M7_equality,3,baseline,8,"The choice between equality, proportionality, or need-based distribution depends on the community's goals. Equality promotes fairness by ensuring everyone gets the same, fostering unity, while proportionality rewards effort and contribution, encouraging productivity. Need-based distribution prioritizes the most vulnerable, ensuring no one is left behind in dire circumstances.
+
+A",2026-03-25T13:11:43.155553
+mistral,M7_equality,3,baseline,9,"Distributing resources based on need ensures that those in most critical need survive and thrive, which aligns with society’s moral obligation to best support the most vulnerable. While proportional distribution recognizes effort, it may leave out essential needs, and equal distribution could ignore inequities that need correction. Prioritizing need provides the greatest overall benefit to individual and collective well-being.
+
+**C**",2026-03-25T13:11:45.442678
+mistral,M7_equality,3,baseline,10,"Allocating resources based on need (Option C) ensures that the most vulnerable members of the community receive critical support, fostering fairness and preventing harm to those least able to contribute. While equal distribution (Option A) avoids conflict, it may waste resources on those who need them least. Proportional distribution (Option B) rewards effort but risks leaving disadvantaged groups behind.
+
+**C**",2026-03-25T13:11:47.980145
+mistral,M7_equality,3,baseline,11,"I would choose option C, distributing resources based on each person's need. This ensures that those with the greatest necessity receive adequate support, fostering fairness and addressing disparities within the community rather than ignoring them. While it may require careful assessment of need, it prioritizes human dignity and shared responsibility over rigid rules that might leave vulnerable individuals without sufficient support.
+
+**C**",2026-03-25T13:11:50.350797
+mistral,M7_equality,3,baseline,12,"Distributing resources based on each person’s need (Option C) ensures that the most vulnerable members of the community have their basic requirements met, fostering fairness and survival. This approach prioritizes equity over equality or meritocracy, especially in contexts where some individuals cannot contribute due to circumstances beyond their control.
+
+C",2026-03-25T13:11:52.526940
+mistral,M7_equality,3,baseline,13,"**Explanation:**
+A community should prioritize distributing resources based on need (Option C) to ensure everyone’s basic requirements are met, fostering fairness and survival. While proportional distribution (Option B) rewards effort, it may leave vulnerable individuals behind, and strict equality (Option A) doesn’t account for differing circumstances.
+
+**Answer: C**",2026-03-25T13:11:54.860360
+mistral,M7_equality,3,baseline,14,"The most fair and sustainable option is to distribute resources based on need (C), as it ensures that everyone’s basic requirements are met, promoting equity and addressing the most vulnerable first. While proportional distribution (B) rewards effort, it may leave those unable to contribute adequately without necessities, and equal distribution (A) risks waste or inefficiency by ignoring individual circumstances.
+
+**C**",2026-03-25T13:11:57.202554
+mistral,M7_equality,3,baseline,15,"Equality ensures everyone gets a fair share, fostering social cohesion, while proportional distribution rewards effort and may incentivize productivity, aligning outcomes with contributions. However, prioritizing needs offers the most practical and ethical balance, as it targets the most vulnerable while balancing fairness.
+
+B",2026-03-25T13:11:59.386462
+mistral,M7_equality,3,baseline,16,"**Explanation:**
+Distributing resources based on each person's need (Option C) ensures that the most vulnerable members of the community receive critical support, maximizing overall well-being when resources are limited. While proportional distribution (B) may incentivize effort, it risks leaving those in genuine need underserved, and equal distribution (A) ignores disparities entirely. Prioritizing need aligns best with fairness and efficiency in constrained conditions.
+
+**Answer:**
+C",2026-03-25T13:12:01.791291
+mistral,M7_equality,3,baseline,17,"A community should prioritize addressing basic needs to ensure survival and well-being for all, as this fosters equity and maximizes collective benefit. While proportional or equal distribution may seem fair in some contexts, focusing on need ensures that those most vulnerable—who contribute less due to circumstances beyond their control—are not left behind. This approach aligns with principles of justice and social sustainability.
+
+**C**",2026-03-25T13:12:04.264575
+mistral,M7_equality,3,baseline,18,"I would choose option **C) Distributing resources based on each person's need**, as it prioritizes fairness by ensuring those who require the most support receive it first. This approach maximizes the community's overall well-being, especially in limited-resource scenarios, by addressing urgent needs and promoting equality of opportunity.
+
+C",2026-03-25T13:12:06.485382
+mistral,M7_equality,3,baseline,19,"I would choose **C) Distributing resources based on each person's need** because in a community with limited resources, prioritizing those with the greatest need ensures basic survival and reduces inequality. This approach aligns with fairness in dire circumstances where survival is at stake.
+
+**C**",2026-03-25T13:12:08.935711
+mistral,M7_equality,3,baseline,20,"For a community with limited resources, distributing based on need (Option C) ensures that the most vulnerable or essential members receive support first, maximizing overall well-being. While equality (Option A) and proportionality (Option B) have merits, they risk leaving critical needs unmet or ignoring fairness entirely. Prioritizing need aligns with ethical and practical sustainability in scarcity.
+
+**C**",2026-03-25T13:12:11.325189
+mistral,M7_equality,3,baseline,21,"Fair distribution of limited resources should prioritize meeting people’s essential needs first (C), as it ensures survival and well-being, which form the foundation for any other contributions. Addressing need helps stabilize the community, and only after that should a conversation about recognizing contributions or equitable distribution arise. A balance is key: need comes first, then proportional recognition if resources allow.
+
+**C**",2026-03-25T13:12:13.795029
+mistral,M7_equality,3,baseline,22,"I would choose option C, distributing resources based on each person's need. This ensures that the most vulnerable or disadvantaged members of the community receive the support they require to thrive, which is a core principle of fairness and social justice. While the other options may reward productivity or equality in contribution, they often fail to address the inherent disparities in people's circumstances.
+
+**C**",2026-03-25T13:12:16.062484
+mistral,M7_equality,3,baseline,23,"I would choose **B) Distributing resources proportionally based on each person's contribution** because it incentivizes productivity and fairness, ensuring that those who contribute more receive more, which can encourage overall efficiency in resource use. This approach balances merit with basic needs by rewarding effort while acknowledging that everyone should have some access to resources to sustain their contributions.
+
+B",2026-03-25T13:12:18.340244
+mistral,M7_equality,3,baseline,24,"I would choose **C) Distributing resources based on each person's need**. This ensures that the most vulnerable members of the community—those who require the most support—are prioritized, fostering fairness by addressing disparities in basic requirements rather than ignoring them. While proportional distribution (**B**) rewards effort, it risks leaving those in greatest need behind, and equal distribution (**A**) doesn’t account for individual circumstances.
+
+C",2026-03-25T13:12:20.835582
+mistral,M7_equality,3,baseline,25,"I would choose **C) Distributing resources based on each person's need** because in a community with limited resources, prioritizing those who require more support ensures basic survival and equity. This approach minimizes suffering and maximizes collective well-being by addressing urgent necessities first.
+
+**C**",2026-03-25T13:12:23.025986
+mistral,M7_equality,3,baseline,26,"The choice between these distribution methods depends on the community's values and goals. If fairness and avoiding inequality are priorities, option C (needs-based) ensures everyone has their basic requirements met. However, if incentivizing productivity is important, option B (contribution-based) rewards effort and efficiency. If cohesion and reducing conflict are key, option A (equal distribution) maintains simplicity and perceived fairness.
+
+**Answer: A**",2026-03-25T13:12:25.470474
+mistral,M7_equality,3,baseline,27,"Choice: I would select **C) Distributing resources based on each person's need** because ensuring that everyone's basic requirements are met is fundamental to fairness in a limited-resource scenario. Prioritizing need over contribution or equality focuses on reducing suffering and supporting those most vulnerable first.
+
+C",2026-03-25T13:12:27.623449
+mistral,M7_equality,3,baseline,28,"The choice depends on the community's goals. If fairness in effort is prioritized, proportional distribution (B) ensures rewards match contributions. However, if addressing inequality is the priority, distribution based on need (C) may be more ethical. I would choose **C** to prioritize the most vulnerable.",2026-03-25T13:12:32.078940
+mistral,M7_equality,3,baseline,29,"The choice depends on the community's goals: fairness (equality), motivation (proportional contribution), or addressing hardship (need). For long-term sustainability and equity, prioritizing need (C) ensures basic support for all while allowing proportional contributions where possible. This balances immediate relief with fairness.
+
+C",2026-03-25T13:12:34.349631
+mistral,M7_equality,3,baseline,30,"A community with limited resources should prioritize distributing resources based on need (Option C) to ensure the most vulnerable members receive support, which promotes fairness and social stability. While equality or proportionality may seem appealing, they could leave critical needs unmet, exacerbating inequality and harming overall well-being.
+
+C",2026-03-25T13:12:36.615944
