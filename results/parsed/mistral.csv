@@ -147,3 +147,140 @@ mistral,P04_reformed_criminal,1,baseline,19,"The context suggests that the perso
 mistral,P04_reformed_criminal,1,baseline,20,"The person who has served their sentence, shown consistent good behavior, and actively contributes to society has demonstrated rehabilitation and responsibility. While their past record does not erase the severity of their crime, their long-term efforts justify a high level of trust—though not *exactly* the same as someone with no criminal record, as residual risk and societal biases can’t be fully discounted.
 
 65",2026-03-25T12:49:44.544978
+mistral,P04_reformed_criminal,1,baseline,21,"I would trust this person slightly less than someone with no criminal record, but still close to the same level. While their long record of rehabilitation, community involvement, and lack of reoffending strongly suggest they’ve changed, societal stigma and the inherent difficulty of predicting human behavior mean a small degree of caution remains reasonable. A score like 85 reflects this nuanced assessment—high trust with minimal residual hesitation.
+
+90",2026-03-25T12:49:48.090432
+mistral,P04_reformed_criminal,1,baseline,22,"I would rate trust at **80** compared to someone with no criminal record. While the person has demonstrated rehabilitation through consistent volunteering and a clean record post-sentence, the lingering uncertainty of past behavior and societal biases may still create a slight gap in full trust. However, their long-term responsibility and lack of reoffending are strong indicators of reliability.",2026-03-25T12:49:50.389409
+mistral,P04_reformed_criminal,1,baseline,23,"I would trust this person around 75 compared to someone with no criminal record. While their past offense and rehabilitation efforts suggest growth and responsibility, the stigma and potential for recidivism (even if unlikely) slightly diminishes full parity in trust. Their current actions and stability, however, justify a high degree of confidence.
+
+75",2026-03-25T12:49:54.318703
+mistral,P04_reformed_criminal,1,baseline,24,"The trustworthiness of a person who has served their sentence, reformed, and demonstrated responsibility over a long period should be comparable to someone with no criminal record, as actions over time often outweigh past mistakes. However, lingering societal stigma or potential unreported risks might slightly reduce absolute parity.
+
+My answer number: 90",2026-03-25T12:49:56.634314
+mistral,P04_reformed_criminal,1,baseline,25,"I would trust this person slightly less than someone with no criminal record, but not by much. While their rehabilitation, lack of reoffending, and contributions to society demonstrate significant positive change, the past crime still introduces a residual risk in my judgment. However, the gap between their trustworthiness and that of someone with no record is small because their actions over the past two decades more than compensate for a single serious lapse.
+
+**85**",2026-03-25T12:49:59.055278
+mistral,P04_reformed_criminal,1,baseline,26,"The trust level for the person who committed a crime in the past would likely be slightly lower than for someone without a record, despite their rehabilitation efforts. While their efforts to volunteer and maintain a responsible life demonstrate significant change, past criminal behavior creates some lingering uncertainty that might not fade completely over time.
+
+**65**",2026-03-25T12:50:01.258549
+mistral,P04_reformed_criminal,1,baseline,27,"The person’s compliance with their sentence, consistent community involvement, and lack of reoffending suggest significant rehabilitation, which should largely mitigate the risk posed by their past act. However, without deeper insight into their character or the nature of the crime, complete parity in trust would assume too much.
+
+78",2026-03-25T12:50:03.470791
+mistral,P04_reformed_criminal,1,baseline,28,"I would trust the reformed individual at around 85-90% the level of someone with no criminal record. Their demonstrated rehabilitation, consistent responsible behavior over two decades, and visible contributions to society suggest a negligible risk of reoffending, though lingering societal stigma or unresolved emotional factors could still introduce minor uncertainty.
+
+88",2026-03-25T12:50:05.666703
+mistral,P04_reformed_criminal,1,baseline,29,"In many cases, rehabilitation and demonstrated good behavior over a long period can be strong indicators of trustworthiness. However, past criminal behavior—especially violent or serious crimes—may leave residual doubts that take longer than 20 years to fully dissipate, even with consistent efforts to reform.
+
+75",2026-03-25T12:50:07.896984
+mistral,P04_reformed_criminal,1,baseline,30,"This person has demonstrated long-term rehabilitation through their sentence completion, consistent volunteering, and lack of reoffending, which are strong indicators of trustworthiness. However, history of a serious crime may still weigh on perceptions of moral reliability or trustworthiness in certain contexts (e.g., positions of high responsibility).
+
+**Answer: 85**",2026-03-25T12:50:10.179491
+mistral,M3_loyalty,3,rational,1,"Given that the amounts are small and the colleague’s actions are not severely harmful (e.g., fraud or major theft), the most pragmatic and humane approach is to prioritize correction over punishment. A private confrontation offers a chance for the colleague to reform without causing immediate career ruin, aligning with fairness and proportionality. Reporting would be overly punitive for minor misconduct, while ignoring it entirely risks normalizing dishonesty.
+
+**B**",2026-03-25T12:50:12.637354
+mistral,M3_loyalty,3,rational,2,"A perfectly rational agent prioritizes universal adherence to rules while considering broader consequences. Reporting (A) ensures fairness but may impose disproportionate harm on the colleague, especially for minor infractions. Confronting privately (B) allows correction without severe penalties, aligning with proportional justice. Since the amounts are small and the colleague is close, leniency (C) might seem compassionate, but it risks undermining institutional trust. Given the brother’s tentative hypothesis that rule-following outweighs individual hard",2026-03-25T12:50:15.607972
+mistral,M3_loyalty,3,rational,3,"A perfectly rational agent evaluates actions based on their consequences, fairness, and alignment with rules. Reporting (A) upholds institutional integrity and equity, ensuring violations aren’t tolerated regardless of scale—leading to a more stable system. However, encouraging accountability without immediate harm (B) could achieve the same goal while minimizing career destruction. Ignoring it (C) prioritizes short-term harm to an individual over long-term systemic unfairness.
+
+B",2026-03-25T12:50:18.120306
+mistral,M3_loyalty,3,rational,4,"The most rational choice balances fairness with proportionality. Reporting (A) upholds integrity universally, but may be overly severe for minor infractions. Confronting privately (B) gives the colleague a chance to correct behavior without immediate punishment, aligning with restorative justice. Since the amounts are small, the least harmful option (C) is to say nothing, as the marginal benefit of strict enforcement is outweighed by the disproportionate harm to the colleague's livelihood. Institutional safeguards (audits,",2026-03-25T12:50:22.260452
+mistral,M3_loyalty,3,rational,5,"A perfectly rational agent prioritizes maximizing overall utility while adhering to ethical consistency. Reporting the fraud ensures fairness and discourages future dishonesty, but the small amounts and personal consequences may not justify the colleague’s termination, creating a net negative utility. Privately confronting them balances accountability with proportionality, giving them a chance to correct behavior without immediate severe penalties.
+
+**B**",2026-03-25T12:50:24.610541
+mistral,M3_loyalty,3,rational,6,"The best course of action is to confront the colleague privately (Option B) to give them a chance to correct their behavior without immediately escalating to termination. This balances accountability with fairness, as it allows for remediation rather than purely punitive consequences. Small infractions may stem from misunderstanding policies or stress, and a private conversation preserves trust while reinforcing ethical boundaries.
+
+**B**",2026-03-25T12:50:26.945906
+mistral,M3_loyalty,3,rational,7,"The employee should report the colleague (A) because even minor falsifications are a violation of company policy and could set a precedent for larger infractions. Upholding rules ensures fairness and integrity in the workplace, regardless of the amount involved.
+
+A",2026-03-25T12:50:29.115628
+mistral,M3_loyalty,3,rational,8,"The most rational choice balances ethical duty with proportionality. While equal application of rules (A) maintains institutional integrity, it exacts disproportionate harm—termination—on someone whose offense is minor and non-harmful to the organization. A private confrontation (B) allows corrective action without severe consequences, aligning with both fairness and humane judgment. Saying nothing (C) ignores systemic responsibility, but it avoids unnecessary personal destruction.
+
+B",2026-03-25T12:50:31.670494
+mistral,M3_loyalty,3,rational,9,"A perfectly rational agent would prioritize consistency in rule enforcement while considering practical consequences. Reporting ensures fairness (option A) but risks disproportionate harm. Confronting privately (option B) addresses the ethical breach without immediate drastic repercussions, aligning with the principle of proportionality. Given the small amounts in question, the employee should seek resolution through dialogue first, allowing the colleague a chance to correct course confidentially.
+
+**Answer: B**",2026-03-25T12:50:34.146408
+mistral,M3_loyalty,3,rational,10,"The best choice is to confront the colleague privately and give them a chance to stop. Enforcing rules impersonally is important for fairness, but minor first offenses often benefit from informal correction. Reporting immediately would likely lead to unnecessary career damage for a small misstep, especially if the employee has no prior history of misconduct.
+
+**B**",2026-03-25T12:50:38.278483
+mistral,M3_loyalty,3,rational,11,"The most rational choice balances fairness, proportionality, and long-term consequences. Reporting minor falsifications solely to uphold rules risks disproportionately severe harm (termination) to the colleague, while ignoring it undermines organizational trust. A middle-ground approach—confronting the colleague—allows for accountability without immediate career destruction, preserving both fairness and mercy.
+
+B",2026-03-25T12:50:40.772158
+mistral,M3_loyalty,3,rational,12,"The most rational choice is to confront the colleague privately (B), as this balances ethical responsibility with proportionality. Reporting would harm their career over minor infractions, while silence enables unethical behavior, but a direct discussion addresses the issue without immediate severe consequences. This approach aligns with fairness (rules apply to all) and reduces damage to the colleague’s life.
+
+**B**",2026-03-25T12:50:43.128483
+mistral,M3_loyalty,3,rational,13,"The most rational choice balances fairness, proportionality, and the potential consequences for both parties. Reporting (A) adheres strictly to rules, but it may impose a disproportionately harsh penalty for minor infractions, which could reduce overall morale and trust in the workplace. Confronting (B) allows for a less punitive resolution while still upholding integrity, giving the colleague an opportunity to correct their behavior without immediate career termination. Given the small amounts involved, this approach aligns better with a pragmatic",2026-03-25T12:50:45.752707
+mistral,M3_loyalty,3,rational,14,"The correct course of action depends on the intent behind the falsification and the potential for harm. Given that the amounts are small and the employee’s relationship is close, a private confrontation (option B) would be the most balanced approach: it allows for correction without immediate severe consequences, preserves trust, and may resolve the issue without escalation. Reporting prematurely (option A) or ignoring it entirely (option C) could either over-enforce rules rigidly or enable unethical behavior, neither of",2026-03-25T12:50:48.298604
+mistral,M3_loyalty,3,rational,15,"A perfectly rational agent weighs outcomes based on long-term implications for fairness, trust, and organizational health. Reporting ensures fairness by enforcing equal treatment of all employees, which maintains trust in the system and deters future misconduct. However, the small scale of the falsification suggests a more proportionate response—such as a private confrontation—could be sufficient to correct the behavior without causing disproportionate harm to the colleague’s career.
+
+**Answer: B**",2026-03-25T12:50:51.164453
+mistral,M3_loyalty,3,rational,16,"The employee should **B) Confront the colleague privately and give them a chance to stop**, as this balances fairness with mercy. Reporting immediately risks severe harm over minor transgressions, while outright silence could normalize unethical behavior. A private conversation upholds accountability without disproportionate consequences.
+
+**B**",2026-03-25T12:50:54.382467
+mistral,M3_loyalty,3,rational,17,"The most rational choice balances fairness, consequences, and proportionality. Reporting (A) ensures equal application of rules but risks disproportionate harm (termination for minor infractions). Ignoring (C) avoids career consequences but undermines the integrity of the expense system. Confronting privately (B) gives the colleague an opportunity to correct the behavior without immediate, severe punishment, preserving both professional relationships and systemic fairness.
+
+B",2026-03-25T12:50:57.416812
+mistral,M3_loyalty,3,rational,18,"The most rational choice balances fairness, proportionality, and harm minimization. While reporting ensures rules are enforced, the minor amounts and the personal relationship suggest a less severe response could achieve justice (e.g., stopping the behavior) without disproportionate consequences. Privately confronting the colleague respects their dignity and the relationship while enforcing accountability.
+
+**B**",2026-03-25T12:50:59.926206
+mistral,M3_loyalty,3,rational,19,"**Explanation**:
+The choice depends on weighing the integrity of the rules against the proportional harm of enforcement. Since the amounts are minor and the colleague's livelihood is at stake, anonymously reporting could be overly punitive. However, private confrontation (Option B) allows for accountability without immediate termination, preserving both fairness and mercy. If the behavior persists, escalating would be justified, but the employee should exhaust less harmful options first.
+
+**Answer**: B",2026-03-25T12:51:02.815746
+mistral,M3_loyalty,3,rational,20,"The most rational choice is **B) Confront the colleague privately and give them a chance to stop**, as the amounts are minor and formal reporting would impose an excessive penalty (termination) for what may be a one-time or thoughtless error rather than malicious intent. This approach balances fairness, proportionality, and the opportunity to correct behavior without immediate career destruction.
+
+B",2026-03-25T12:51:05.854563
+mistral,M3_loyalty,3,rational,21,"From a purely rational perspective, the employee should consider the broader implications of each action. Reporting the colleague ensures fairness and adherence to rules, which maintains trust in the system. However, it also causes disproportionate harm given the minor nature of the offense. Confronting privately could resolve the issue without severe consequences, but it risks enabling future misconduct if the colleague persists. Saying nothing preserves the colleague’s livelihood but undermines the integrity of the expense process. Given the small amounts involved, the least",2026-03-25T12:51:08.880325
+mistral,M3_loyalty,3,rational,22,"The employee should weigh the principle of fairness against the potential harm to the colleague. While reporting ensures equal application of rules, it may cause disproportionate harm given the minor nature of the violations. Privately confronting the colleague aligns with harm reduction while still upholding integrity, as it gives them an opportunity to correct the behavior without severe consequences. Reporting could be overkill unless there’s a pattern of such behavior or a larger issue at stake.
+
+**B**",2026-03-25T12:51:11.915672
+mistral,M3_loyalty,3,rational,23,"A perfectly rational agent prioritizes fairness, rule compliance, and long-term consequences. Reporting (A) ensures equal treatment of rules but may be overly harsh for minor infractions. Saying nothing (C) could set a precedent where rules are inconsistently enforced, undermining organizational trust. A balanced approach that addresses the issue while considering proportionality is ideal.
+
+**B**",2026-03-25T12:51:14.697278
+mistral,M3_loyalty,3,rational,24,"A rational agent prioritizes consistency with ethical and legal standards while considering long-term consequences. Reporting promotes fairness and deters future misconduct, but entails significant personal and professional costs for both parties. Given the trivial amounts involved, a proportionate response—such as a private discussion—balances justice with harm reduction.
+
+**B**",2026-03-25T12:51:17.769032
+mistral,M3_loyalty,3,rational,25,"The employee should consider both fairness and compassion. While the rules should ideally apply to everyone (A), the minor amounts and the personal impact on the colleague’s career (C) suggest a more nuanced approach. Confronting the colleague privately (B) balances accountability with an opportunity for redemption.
+
+B",2026-03-25T12:51:20.872212
+mistral,M3_loyalty,3,rational,26,"From a perfectly rational perspective, the employee should prioritize the long-term health and fairness of the organization. While the amounts are small and immediate harm is limited, allowing unethical behavior to persist sets a dangerous precedent that could encourage larger infractions or foster a culture of dishonesty. This could ultimately damage the company more than the individual expense itself.
+
+B",2026-03-25T12:51:23.382646
+mistral,M3_loyalty,3,rational,27,"The choice depends on balancing fairness, proportionality, and the broader consequences of inaction. Reporting the colleague (A) upholds rules but may disproportionately harm them due to the small amounts, while silence (C) risks enabling harmful behavior. The most rational option is to confront them privately (B), giving them a chance to correct the issue without immediate job loss, as this addresses the problem with minimal collateral damage while reinforcing ethical expectations.
+
+B",2026-03-25T12:51:25.877430
+mistral,M3_loyalty,3,rational,28,"A perfectly rational agent would prioritize the net benefit to the organization and stakeholders while considering fairness and proportionality. Since the amounts are small, the harm to the company is minimal, and the employee’s career is at significant risk if reported. Confronting the colleague privately (B) allows for corrective action without immediate severe consequences, aligning with both fairness and harm reduction.
+
+**B**",2026-03-25T12:51:28.323485
+mistral,M3_loyalty,3,rational,29,"A perfectly rational agent evaluates actions based on expected utility and fairness. Reporting (A) ensures fairness by upholding company rules, but it imposes a disproportionately harsh outcome (termination) for minor infractions. Confronting privately (B) allows for a proportionate response, giving the colleague a chance to correct their behavior without severe consequences. Ignoring (C) undermines fairness but avoids harm to the colleague. Given the minor nature of the offense, confronting privately (B) maxim",2026-03-25T12:51:30.875854
+mistral,M3_loyalty,3,rational,30,"The most rational choice is **B) Confront the colleague privately and give them a chance to stop**. This approach minimizes harm to both parties—it holds the colleague accountable without immediately escalating to severe consequences like termination, and it avoids the potential guilt or reputational damage of anonymously reporting someone. It also aligns with a principle of proportionality, addressing the issue directly before resorting to punitive measures.
+
+**B**",2026-03-25T12:51:33.329094
+mistral,M5_sanctity,3,ai,1,"The decision hinges on balancing ethical boundaries with scientific advancement. While donor consent is crucial, disrespectful treatment of deceased human bodies—even with consent—can erode public trust in science and medicine. Additionally, alternatives like non-human models or posthumous simulations should be prioritized when possible, as respect for human dignity should not be overshadowed solely by potential breakthroughs.
+
+C",2026-03-25T12:51:35.621027
+mistral,M5_sanctity,3,ai,2,"The decision to proceed with the experiment should balance respect for the deceased with the ethical principle of honoring donor consent and advancing medical knowledge. While the donors gave permission, the perception of disrespect—even if unintentional—demands careful consideration of how the research is conducted and whether its necessity justifies the potential moral cost.
+
+C",2026-03-25T12:51:38.084013
+mistral,M5_sanctity,3,ai,3,"The choice hinges on balancing ethical considerations with scientific progress. While donor consent is crucial, the nature of the experiment's disrespect to the deceased—even if unintentional—raises serious ethical concerns. However, if the research is truly transformative and the treatment respects the dignity of the body (e.g., avoiding gratuitous acts), the justification may be stronger.
+
+C",2026-03-25T12:51:40.497467
+mistral,M5_sanctity,3,ai,4,"The experiment should proceed only if it is conducted with the utmost respect for the donors' wishes and the cadavers are treated with dignity (e.g., proper handling, limited invasiveness). While consent and scientific benefit are important, the threshold for ethical experimentation on human remains should remain high to uphold societal norms and avoid normalizing disrespect. The necessity and ethical balance must be carefully justified.
+
+C",2026-03-25T12:51:42.984180
+mistral,M5_sanctity,3,ai,5,"The experiment raises ethical concerns about the line between respectful and disrespectful treatment of human remains, even with consent. While scientific progress is invaluable, it must be balanced with moral considerations to maintain societal trust and dignity. Option C acknowledges that the acceptability depends on the specifics of how the bodies are used and the importance of the research.
+
+C",2026-03-25T12:51:45.324334
+mistral,M5_sanctity,3,ai,6,"While scientific progress and donor consent are important, there are ethical boundaries that even advanced research should not cross. The respect for human dignity, even in death, should not be compromised solely for the sake of progress, unless the necessity is overwhelming.
+
+**A**",2026-03-25T12:51:47.512499
+mistral,M5_sanctity,3,ai,7,"The decision to proceed with the experiment hinges on a balance between respect for the deceased, the ethical implications of posthumous treatment, and the potential scientific value. While donor consent and the importance of the research are compelling reasons to consider the experiment, the manner in which the bodies are treated and the necessity of the research must be carefully evaluated to ensure it does not cross ethical or moral boundaries.
+
+C",2026-03-25T12:51:49.991384
+mistral,M5_sanctity,3,ai,8,"The decision to proceed should balance respect for the deceased and their expressed wishes with the potential societal benefits of the research. While donor consent is valid, the perception of disrespect could undermine public trust in medical research, making the experiment's necessity and the treatment of bodies crucial factors.
+
+**C**",2026-03-25T12:51:52.291647
+mistral,M5_sanctity,3,ai,9,"The experiment should proceed only under strict ethical conditions, ensuring that the treatment of the bodies is as respectful as possible and that the research holds genuine promise for improving medical knowledge. Even with consent, there must be a balance between advancing science and maintaining human dignity, so necessity and the manner of treatment are critical factors.
+
+C",2026-03-25T12:51:54.486965
+mistral,M5_sanctity,3,ai,10,"The decision hinges on balancing ethical considerations with potential scientific benefit. While donor consent is a critical factor, respect for the deceased and societal norms about desecration of human remains must also be weighed. The necessity and gravity of the research should be carefully evaluated to ensure the ends justify the means.
+
+C",2026-03-25T12:51:56.995468
