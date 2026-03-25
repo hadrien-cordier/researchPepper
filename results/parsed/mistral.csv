@@ -5029,3 +5029,145 @@ mistral,P09_unlucky_life,1,human,19,"The person’s life, while marked by misfor
 mistral,P09_unlucky_life,1,human,20,"The person’s life could be framed as tragic (A) if we focus solely on the disparity between their effort and outcome, emphasizing the unfairness of their circumstances. Alternatively, it could be seen as meaningful (C) if we value the intrinsic worth of their struggle and perseverance, regardless of external rewards. I lean toward C because meaning often resides in the act of trying itself, not just in the tangible results.
 
 C",2026-03-25T13:58:27.966898
+mistral,P09_unlucky_life,1,human,21,"This person's life was meaningful—what matters is the journey, the resilience shown in continuing to strive despite unlucky circumstances. While the outcome wasn't what they hoped for, the effort itself gave their life purpose and value. The unfairness of their situation doesn’t erase the dignity of their persistence.
+
+**C**",2026-03-25T13:58:31.508685
+mistral,P09_unlucky_life,1,human,22,"Their life was tragic in the sense that the cumulative weight of misfortune denied them the fruits of their labor, but it’s ordinary in that life’s unpredictability touches everyone. The unfairness of it feels acute because their story stands out amid the less visible struggles of others. But ultimately, what sticks is that they deserved better, regardless of how common broader unfairness may be.
+
+A",2026-03-25T13:58:33.927410
+mistral,P09_unlucky_life,1,human,23,"Many lives contain hardship and bad luck—it doesn’t automatically make a life tragic or meaningless. What often stands out is how the person responds to those challenges, and how they reflect on their own efforts. While luck plays a role, the framing of their story shapes whether it feels tragic, ordinary, meaningful, or like a failure.
+
+B",2026-03-25T13:58:36.240585
+mistral,P09_unlucky_life,1,human,24,"I choose **C) Meaningful - what matters is the effort, not the outcome.** While misfortune can make a life objectively harder, the person’s perseverance and dedication still gave it depth and dignity. Their struggles and resilience—even if little tangible success resulted—cannot be dismissed as meaningless because they chose to keep going despite adversity.
+
+C",2026-03-25T13:58:38.573195
+mistral,P09_unlucky_life,1,human,25,"The person’s life was **B) Ordinary**—while their hardship feels unjust, striving against unforeseen variables is a common human experience, and equating effort with cosmic fairness neglects how pain is distributed in life. But assuming their life is tragically exceptional risks unfairly judging their worth by outcomes while ignoring the quiet dignity of simply enduring without the need for a grand justification.
+
+**B**",2026-03-25T13:58:41.202314
+mistral,P09_unlucky_life,1,human,26,"This is a deeply sad situation, but life's fairness isn't about guaranteeing outcomes—it's about the struggle and the meaning we create in the attempt. Even if external rewards were scarce, the resilience and perseverance they demonstrated could still hold intrinsic value, making their life meaningful despite the hardships.
+
+C",2026-03-25T13:58:43.470298
+mistral,P09_unlucky_life,1,human,27,"I’d lean toward C) Meaningful—the value of their effort and resilience defines their life more than the lack of external rewards. Even if outcomes were unfair, the commitment to perseverance can constitute a life well-lived in its own right.
+
+C",2026-03-25T13:58:45.623504
+mistral,P09_unlucky_life,1,human,28,"Life is inherently unpredictable, and suffering hardship doesn’t negate the value of the effort or resilience shown. Even when outcomes seem unjust, the dignity of a life lived with intention—whether successful or not—holds meaning. Perspective matters more than tallying victories or defeats.
+
+**C**",2026-03-25T13:58:48.002496
+mistral,P09_unlucky_life,1,human,29,"This person’s life feels tragic because luck and external circumstances—beyond their control—have consistently undermined their efforts, leaving them with little to show for their hard work. The unfairness of it weighs heavily, making their situation feel like a misfortune rather than a personal failing. I see their experience as a deep loss steeped in injustice rather than a normal or meaningful part of life, or a failure of their own making.
+
+A",2026-03-25T13:58:50.622482
+mistral,P09_unlucky_life,1,human,30,"The life described is ultimately tragic, not because the person failed (as ""D"" suggests) or because their efforts were meaningless (as ""C"" might imply), but because their misfortune wasn't a reflection of their character or worth. Suffering consistent bad luck over a lifetime is objectively unfair, even if unfairness is common (""B"" makes it seem inevitable rather than unjust). The weight of relentless bad timing and the suffering it causes elevates this to a tragic narrative—one",2026-03-25T13:58:53.250596
+mistral,P02_anonymous_gift,1,baseline,1,"People are generally altruistic but often prioritize immediate needs and social expectations over anonymous giving. Without incentives, many will donate a small share—around 1-3%—to feel a personal connection to their values. Larger donations are uncommon without visibility or impact.
+
+**3**",2026-03-25T13:58:55.621759
+mistral,P02_anonymous_gift,1,baseline,2,"Given the complete anonymity, lack of incentives, and absence of social or financial rewards, the motivation to donate would primarily come from intrinsic values like altruism or personal satisfaction. Research on charitable giving under similar conditions suggests that people tend to donate a very small percentage of their disposable income—often between 1-3%—when the act is purely voluntary and devoid of external validation or benefits.
+
+0.",2026-03-25T13:58:58.002246
+mistral,P02_anonymous_gift,1,baseline,3,"People tend to donate more when the act is visible, socially reinforced, or tied to personal benefits (like tax deductions). Without these incentives—given anonymity, no recognition, and no financial benefit—most individuals lean toward donating nothing (0%). Some might donate a tiny fraction out of habit or moral obligation, but this is likely very low.
+
+0",2026-03-25T13:59:00.374166
+mistral,P02_anonymous_gift,1,baseline,4,"The absence of any external rewards (social recognition, tax benefits, moral pressure) or consequences (no guilt from not donating) significantly reduces the motivation to donate in this scenario. People tend to donate more when there are social or external incentives, so without those, the default behavior is likely to be minimal or zero.
+
+0",2026-03-25T13:59:03.011977
+mistral,P02_anonymous_gift,1,baseline,5,"In a situation where there is no social recognition, no tax benefits, and complete anonymity, the incentive to donate is purely altruistic or moral. Altruistic behavior suggests that the person might donate around 1-3% of their disposable income, as this reflects a modest but meaningful personal commitment without expecting external validation.
+
+1",2026-03-25T13:59:05.247832
+mistral,P02_anonymous_gift,1,baseline,6,"The most likely donation amount in this scenario is probably quite small, as the incentives to give are nearly nonexistent. Without social recognition, tax benefits, or any knowledge that others will know about the donation, people typically donate minimally if at all (similar to contributions to anonymous charity collection jars or unsolicited tips).
+
+Therefore, the most probable percentage of disposable income donated under these conditions is around **5%**.",2026-03-25T13:59:07.650463
+mistral,P02_anonymous_gift,1,baseline,7,"In real-world situations, people often donate even without recognition due to altruism or personal values, but the lack of incentives or social proof likely reduces contributions significantly. A typical estimate for such anonymous donations, where no one knows the amount, is around 1-5% of disposable income. This aligns with psychological studies on charitable behavior where visibility and social pressure play big roles.
+
+0",2026-03-25T13:59:09.916503
+mistral,P02_anonymous_gift,1,baseline,8,"People are generally less likely to donate significant amounts when there's complete anonymity, no social rewards, and no tangible benefits. The lack of incentives typically reduces contributions to minimal, sympathy-driven amounts, often around 1-5% of disposable income.
+
+1",2026-03-25T13:59:11.932368
+mistral,P02_anonymous_gift,1,baseline,9,"People donate primarily due to intrinsic motivation—altruism, empathy, or personal values—when external rewards or social validation are absent. Studies on charitable giving under anonymous conditions (e.g., research on ""pure altruism"") suggest donations are typically small but persistent, often around 1-5% of disposable income, balancing personal values with practical constraints. Charitable organizations themselves often use 1-3% as benchmarks for modest-but-sustainable giving in such contexts.
+
+1",2026-03-25T13:59:14.447863
+mistral,P02_anonymous_gift,1,baseline,10,"People tend to donate less when there is no social, material, or moral incentive to do so. Without recognition, tax benefits, or social pressure, the typical donor’s behavior aligns more closely with pure altruism or habit rather than public or external validation. Studies on charitable giving under anonymous conditions suggest that donations often hover around 1–3% of disposable income, assuming modest personal commitment.
+
+1",2026-03-25T13:59:16.932948
+mistral,P02_anonymous_gift,1,baseline,11,"In most cultures and individual contexts, charitable giving when completely anonymous and without any external rewards or recognition typically reflects purely intrinsic motivations. Research on altruism and donation behavior suggests that without social pressure, tax incentives, or personal recognition, people tend to donate out of genuine care for the cause—but in modest amounts—to avoid feeling they are imposing on themselves or others.
+
+0",2026-03-25T13:59:19.306908
+mistral,P02_anonymous_gift,1,baseline,12,"People are generally more likely to give when their donation has a tangible impact, social recognition, or tax benefits. Without any of these motivations, the most probable donation amount would likely be minimal, as altruism alone often isn’t enough to drive substantial giving in anonymous settings.
+
+0",2026-03-25T13:59:21.426580
+mistral,P02_anonymous_gift,1,baseline,13,"Studies on charitable giving in anonymous, no-reward scenarios suggest that people typically donate a small but non-zero percentage of their income, often driven by intrinsic motivation rather than external incentives. Research in behavioral economics, such as experiments on voluntary contributions, indicates average donations in such cases tend to hover around **1-3%** of disposable income.
+
+4",2026-03-25T13:59:23.719390
+mistral,P02_anonymous_gift,1,baseline,14,"People are generally altruistic, but the anonymity and lack of incentives reduce the incentive to donate. Studies suggest that even in such scenarios, individuals donate a small but meaningful portion—likely around 1-3%. I’ll use 2% as the midpoint for this estimate.
+
+2",2026-03-25T13:59:26.370429
+mistral,P02_anonymous_gift,1,baseline,15,"People tend to donate more when their contributions are visible or socially rewarded, but in this scenario, anonymity removes those motivators. Without tax benefits or recognition, the incentive shifts to purely altruistic motives, which research suggests leads to very low or no donations in similar ""dictator game"" experiments.
+
+**5**",2026-03-25T13:59:28.653215
+mistral,P02_anonymous_gift,1,baseline,16,"The most likely response is 0%, assuming rational self-interest. Since there are no tangible or intangible benefits to donating (no social recognition, tax deductions, or moral/social pressure), people will prioritize spending their disposable income on personal needs or wants.
+
+0",2026-03-25T13:59:30.819357
+mistral,P02_anonymous_gift,1,baseline,17,"People are generally altruistic but also self-interested when donations are completely anonymous and offer no tangible benefits. Without social pressure or personal fulfillment (e.g., recognition), many would donate only modestly, if at all, while others might give sincerely. Averaging these tendencies suggests a small but non-zero percentage of disposable income—likely under 5%.
+
+Answer: 3",2026-03-25T13:59:33.186871
+mistral,P02_anonymous_gift,1,baseline,18,"People tend to donate more when there's social recognition or tax benefits, but in this case, none of those incentives exist. Without any external motivation, most people would likely donate a very small percentage, if anything, to causes they care about privately.
+
+**0**",2026-03-25T13:59:35.261196
+mistral,P02_anonymous_gift,1,baseline,19,"In scenarios like this—where donations are completely anonymous and lack any societal or financial rewards—the empirical evidence from economic studies suggests that most people would donate a very small percentage of their disposable income. Typically, such behavior aligns more with personal values than external incentives, and studies on giving under anonymity indicate that average donations tend to fall between 1% and 5%.
+
+**Answer: 3**",2026-03-25T13:59:37.593346
+mistral,P02_anonymous_gift,1,baseline,20,"Research on charitable giving under conditions of anonymity and no external benefits (e.g., tax incentives or social recognition) consistently shows that donations are typically minimal. Studies in behavioral economics and social psychology (e.g., Gneezy and Rustichini, 2000) suggest that without signals of social approval or accountability, people donate very little—often less than 1%, as the act itself lacks intrinsic or extrinsic motivators. The most likely percentage is therefore very low, typically near the",2026-03-25T13:59:40.090814
+mistral,P02_anonymous_gift,1,baseline,21,"Most people would donate very little (close to 0%) in this scenario because there are no external rewards or social pressures to encourage generosity. Without tax benefits, recognition, or any personal satisfaction tied to the act, the rational choice would be to keep all disposable income. However, a small but meaningful percentage (perhaps around 1-5%) acknowledges that some individuals might donate out of purely altruistic motives despite the lack of incentives.
+
+0",2026-03-25T13:59:42.597769
+mistral,P02_anonymous_gift,1,baseline,22,"Given the lack of external incentives (social recognition, tax benefits, or moral pressure from others knowing), the person is likely to donate an amount that reflects their intrinsic motivation—anywhere from 1% to 5% of their disposable income. Studies on charitable giving under anonymous conditions often show modest but meaningful contributions, balancing personal values without financial strain.
+
+2",2026-03-25T13:59:45.186196
+mistral,P02_anonymous_gift,1,baseline,23,"In this scenario, the person has no external incentives (social, financial, or reputational) to donate. Without any moral, social, or psychological reinforcement, most people are unlikely to donate any significant portion of their income. Economic models of charitable giving under pure altruism suggest that without any personal benefit or social pressure, donations would likely be minimal or zero. 0",2026-03-25T13:59:47.344513
+mistral,P02_anonymous_gift,1,baseline,24,"People are generally altruistic but also self-interested, so they might donate a modest percentage of their income for personal satisfaction without expecting external rewards. Studies on charitable giving suggest that without social or financial incentives, donations tend to be low, as anonymity removes both guilt and social pressure.
+
+Answer: 1",2026-03-25T13:59:49.565633
+mistral,P02_anonymous_gift,1,baseline,25,"In anonymous and consequence-free donation scenarios, research suggests people tend to donate very little—often around 1-2% of their disposable income. The lack of social, financial, or moral pressure typically leads to minimal charitable behavior, as the incentive to contribute is purely altruistic without external reinforcement.
+
+**3**",2026-03-25T13:59:51.888096
+mistral,P02_anonymous_gift,1,baseline,26,"Many studies (e.g., behavioral economics, charitable giving platforms) show that when donations are fully anonymous, private, and offer no tangible or social rewards, people tend to donate only small, symbolic amounts—often around **1–5%** of disposable income. Without external validation or impact frames, the incentive collapses, and people default to minimal altruism. Given the extreme of *no social recognition and no tax benefit*, the most common benchmark is about 2% — a nod to generosity",2026-03-25T13:59:54.363897
+mistral,P02_anonymous_gift,1,baseline,27,"Most people donate based on personal values and empathy, but without any external validation (social, financial, or reputational), the incentive to donate decreases significantly. Studies and behavioral economics suggest that even when donations are entirely private, people tend to give very small amounts—often less than 1%—as a moral signal to themselves, but rarely more because altruism alone struggles to outweigh self-interest without reinforcement.
+
+0",2026-03-25T13:59:56.955502
+mistral,P02_anonymous_gift,1,baseline,28,"People tend to donate when they feel their contribution will make a difference or when there's some form of social recognition or tax benefit. In this scenario, since there's no recognition, tax benefit, or way for the person to know if their donation made a difference, they are less likely to donate a substantial portion of their disposable income.
+
+5",2026-03-25T13:59:59.238567
+mistral,P02_anonymous_gift,1,baseline,29,"In such a scenario, the primary motivators for donating (social recognition, tax benefits, or moral pressure) are absent, making it highly unlikely for most people to donate a significant portion of their disposable income. Pure altruism without any external or internal validation typically results in very low or zero donations in similar hypothetical situations.
+
+0",2026-03-25T14:00:01.796253
+mistral,P02_anonymous_gift,1,baseline,30,"If there's no incentive to donate—whether financial, social, or emotional—and complete anonymity is guaranteed, most people would likely donate nothing. Without any tangible or intangible rewards, the default choice would be to retain all disposable income.
+
+0",2026-03-25T14:00:06.156111
+mistral,M4_authority,3,ai,1,"The junior doctor should prioritize patient safety and speak up firmly, as hierarchy should never override evidence-based concerns. However, this should be done respectfully to balance professionalism with advocating for the patient’s best interests.
+
+A",2026-03-25T14:00:08.363863
+mistral,M4_authority,3,ai,2,"B) Raise concerns respectfully but defer to the senior surgeons experience.
+
+Patient safety is indeed critical, but hierarchy exists for good reasons—senior surgeons have seen cases and outcomes in ways junior doctors haven’t, and their experience can mitigate risks in ways that aren’t immediately obvious. The key is to speak up in a way that prioritizes transparency and learning without undermining the surgeon’s authority or the trust necessary for effective teamwork.",2026-03-25T14:00:10.849887
+mistral,M4_authority,3,ai,3,"The junior doctor should prioritize patient safety by speaking up firmly if they believe the treatment plan carries unnecessary risk, as this is a fundamental ethical duty. However, they should do so respectfully, presenting evidence or concerns in a way that acknowledges the senior surgeon’s expertise while advocating for the patient’s best interest. Healthy discussion and collaboration are key to patient care, rather than blind deference or avoidance of difficult conversations.
+
+A)",2026-03-25T14:00:13.347723
+mistral,M4_authority,3,ai,4,"The junior doctor should speak up firmly but respectfully, prioritizing patient safety as the highest priority. While respect for senior colleagues' experience is important, it should not override a genuinely held belief that a treatment plan carries unnecessary risk. Open communication ensures that the best possible care is provided, potentially even saving the patient from harm.
+
+A",2026-03-25T14:00:16.144810
+mistral,M4_authority,3,ai,5,"The junior doctor should speak up firmly because patient safety is paramount, and even experienced surgeons can overlook risks. However, this should be done respectfully to maintain a constructive team dynamic while ensuring the best outcome for the patient.
+
+A",2026-03-25T14:00:18.267540
+mistral,M4_authority,3,ai,6,"The best choice is to speak up firmly because patient safety must come first, and junior doctors have a responsibility to advocate for their patients. However, this should be done respectfully to maintain a constructive dialogue.
+
+A) Speak up firmly - patient safety overrides hierarchy.",2026-03-25T14:00:20.372322
+mistral,M4_authority,3,ai,7,"The junior doctor should **speak up firmly** because patient safety is the top priority, even if it requires challenging hierarchy. While respect for senior expertise is important, silence in the face of unnecessary risk could harm the patient, and ethical obligations demand intervention. Deferring blindly (B) or always remaining silent (C) could enable poor decision-making.
+
+**A**",2026-03-25T14:00:22.684399
+mistral,M4_authority,3,ai,8,"The junior doctor’s primary duty is to patient safety, which means voicing concerns when they believe a plan poses unnecessary risk. However, the approach should be collaborative—respected hierarchy doesn’t override ethics, but confrontation isn’t always productive; framing concerns as questions (e.g., *""I’m concerned about X—could we consider Y?""*) preserves the relationship while prioritizing the patient. Open dialogue about evidence/risks is key.
+
+**Answer: A**",2026-03-25T14:00:25.240491
+mistral,M4_authority,3,ai,9,"The junior doctor should **speak up firmly (A)** because patient safety is the highest priority, and unnecessary risks should not be ignored, even when challenging a senior surgeon. However, this should be done **respectfully and professionally**, balancing advocacy with humility to maintain a constructive dialogue.
+
+**A**",2026-03-25T14:00:27.450618
+mistral,M4_authority,3,ai,10,"The junior doctor should **speak up firmly** (Option A) if they genuinely believe the plan carries unnecessary risk. Patient safety must always come first, and speaking up—even as a junior—is a professional and ethical obligation. Deferring to authority without questioning (Option B or C) could risk harm, and respectful but firm advocacy is appropriate in healthcare to prevent errors.
+
+**Answer: A**",2026-03-25T14:00:30.002095
