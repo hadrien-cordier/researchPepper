@@ -570,3 +570,141 @@ mistral,B06_endowment_seller,2,human,19,"I’d ask for at least $15 because that
 mistral,B06_endowment_seller,2,human,20,"I would likely set the minimum price at $8 because the mug is a gift with sentimental value, and selling it for more than its retail price reflects its personal worth to me. Additionally, this accounts for any emotional attachment while compensating for the loss of the gift itself.
 
 8",2026-03-25T12:56:23.558129
+mistral,B06_endowment_seller,2,human,21,"I received it as a gift and have no financial attachment to its retail value, so my minimum selling price is based simply on my personal use and sentiment. Since I’m not emotionally connected to it, I’d likely sell it for close to (or slightly above) the retail price—or nothing at all if it’s just clutter.
+
+8",2026-03-25T12:56:26.938252
+mistral,B06_endowment_seller,2,human,22,"I would consider selling the mug for slightly more than its retail value ($6) to account for tax or a small personal gain, but not significantly over $10 since it’s a common item without sentimental or emotional value to me. This price balances fairness and would likely attract a buyer quickly.
+
+8",2026-03-25T12:56:29.170021
+mistral,B06_endowment_seller,2,human,23,"I’d likely sell it for slightly above retail to cover any sentimental or convenience value, given it was a gift, but not so high as to be unreasonable. Retail is $6, so $8 feels fair—enough to profit without overcharging.
+
+**8**",2026-03-25T12:56:31.433404
+mistral,B06_endowment_seller,2,human,24,"I'd sell it for $8 because that accounts for the sentimental value of it being a gift and gives a small profit over its retail price. That feels fair to me.
+
+8",2026-03-25T12:56:33.452896
+mistral,B06_endowment_seller,2,human,25,"I would set the minimum price to $15. The mug was a gift, so its sentimental value to me is higher than its retail price. However, $15 allows me to recoup some value while getting a small profit to justify parting with it.
+
+15",2026-03-25T12:56:35.820800
+mistral,B06_endowment_seller,2,human,26,"I think about how much sentimental value or personal attachment the mug has to me. Since it was a gift and doesn’t hold any special meaning beyond that, I’d probably want at least the retail value of $6 to part with it. Plus, it’s not like I bought it myself, so there’s no loss incurred.
+
+6",2026-03-25T12:56:38.097752
+mistral,B06_endowment_seller,2,human,27,"I would likely accept a minimum of **$7** because the mug retails for $6, and adding a small profit (like $1) seems fair for selling something I own. Additionally, prices are often slightly marked up in secondhand transactions due to convenience or personal attachment.
+
+7",2026-03-25T12:56:40.541626
+mistral,B06_endowment_seller,2,human,28,"I would accept a minimum of $8. The mug retails for $6, but since it was given to me as a gift, I place sentimental value on it beyond its retail price. Thus, I wouldn’t sell it for less than what I personally value it at.
+
+8",2026-03-25T12:56:42.838774
+mistral,B06_endowment_seller,2,human,29,"I would value the mug based on both its sentimental worth and replacement cost. Since it was a gift and I don’t have an identical one, I might ask slightly more than retail ($6) to account for personal attachment—perhaps $10.
+
+10",2026-03-25T12:56:45.121314
+mistral,B06_endowment_seller,2,human,30,"I would likely sell the mug for at least slightly more than its retail value ($6) to account for the sentimental value of it being a gift versus a store-bought item. Since I didn’t pay for it and it holds personal significance, I wouldn’t consider it a loss to part with it, but I also wouldn’t give it away for much less than its worth.
+
+10",2026-03-25T12:56:47.460143
+mistral,P05_late_bloomer,1,baseline,1,"The most likely explanation is **B) A specific life event forced them to change**. While potential and core transformation (A or D) are possible, the sudden shift after a prolonged period of stagnation suggests an external catalyst—such as a significant responsibility, health scare, or personal loss—rather than mere potential alignment or an esoteric character shift. Temporary performance (C) is less likely unless there’s evidence of inconsistency after this change.
+
+B",2026-03-25T12:56:49.854552
+mistral,P05_late_bloomer,1,baseline,2,"The most likely explanation is **B) A specific life event forced them to change**. This aligns with how many people experience sudden shifts in behavior due to external pressures or events, such as health issues, financial crises, or personal loss, which can act as catalysts for change.
+
+**B**",2026-03-25T12:56:52.252492
+mistral,P05_late_bloomer,1,baseline,3,"**A) They always had this potential - circumstances finally aligned.**
+
+This explanation suggests that the person's shift in behavior is a result of external conditions aligning with their latent potential rather than a sudden, fundamental change in character. Factors like maturity, life demands (e.g., family, career pressures), or improved mental health could have played a role in unlocking their discipline and ambition.
+
+**A**",2026-03-25T12:56:54.876283
+mistral,P05_late_bloomer,1,baseline,4,"The change seems too sudden and dramatic to be a core character transformation (D), and people rarely adopt long-term discipline temporarily without reason (C). While potential always exists (A), the sharp shift suggests external pressure rather than gradual alignment. Most likely, a specific event—like health issues, family responsibilities, failure, or illness—forced the person to radically alter their behavior to adapt or survive.
+
+B",2026-03-25T12:56:57.298705
+mistral,P05_late_bloomer,1,baseline,5,"The most likely explanation is A) They always had this potential - circumstances finally aligned. While sudden changes can occur due to specific events (B), the consistent lifelong description leans toward latent potential finally materializing. Temporary performance (C) is possible but less likely for a permanent shift. While core transformation is possible (D), it’s rare without a catalyst, making A the most plausible default explanation.
+
+A",2026-03-25T12:56:59.635135
+mistral,P05_late_bloomer,1,baseline,6,"The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts in behavior at this stage in life often occur due to external pressures, crises, or pivotal experiences (e.g., health issues, career failure, family responsibilities, or a mentor’s influence). While human potential is always there (A), the *suddenness* suggests a catalyst, and sustained change argues against temporary performance (C). Deep ""core transformation"" (D) is rare without provocation",2026-03-25T12:57:02.221019
+mistral,P05_late_bloomer,1,baseline,7,"The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts in behavior at this stage of life are often tied to major events (e.g., health scare, financial crisis, personal loss, or a key mentor/failure that triggers self-reflection). While potential (A) or transformation (D) could play a role, they’re less likely without an external catalyst, and temporary performance (C) doesn’t explain the *sudden* and sustained change.",2026-03-25T12:57:04.724346
+mistral,P05_late_bloomer,1,baseline,8,"**Explanation:**
+The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts in personality and behavior, especially from laziness to high productivity, are often catalyzed by external factors like health scares, major responsibilities, loss, or mentorship. While potential may have existed (supporting A), circumstantial pressure is the more plausible direct cause—core transformations are rare without triggers. Temporary performance (C) or claims of profound character change (D) are less",2026-03-25T12:57:07.263383
+mistral,P05_late_bloomer,1,baseline,9,"The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts in character, especially after years of stability, often correlate with external catalysts—such as a health scare, financial crisis, loss, or major personal responsibility—that push someone to adapt. While potential (A) and enduring transformation (D) are possible, they’re less likely without evidence of gradual growth or a triggering moment. Temporary performance (C) is plausible but doesn’t fully account for sustained change post",2026-03-25T12:57:09.751812
+mistral,P05_late_bloomer,1,baseline,10,"The most likely explanation is **B) A specific life event forced them to change**. While biological maturation or circumstantial shifts (A) could play a role, sudden, dramatic transformations in behavior are often triggered by a concrete catalyst—a major health scare, a financial crisis, a personal loss, or becoming a parent. Without identifying a strong external impetus, the change would seem implausibly abrupt, given their consistent earlier pattern.
+
+B",2026-03-25T12:57:12.862755
+mistral,P05_late_bloomer,1,baseline,11,"The most likely explanation is **B) A specific life event forced them to change.** While it's possible someone always had untapped potential (A), dramatic shifts in behavior like this often correlate with significant life events (e.g., health scare, financial crisis, influential mentorship, or a personal loss) that act as catalysts. Temporary performance (C) is plausible, but sudden, sustained changes at 35 suggest a deeper trigger. Core character transformation (D) is rare without external or internal",2026-03-25T12:57:15.259805
+mistral,P05_late_bloomer,1,baseline,12,"The most likely explanation is **A) They always had this potential - circumstances finally aligned.** This option accounts for the sudden change without assuming a fundamental shift in character (which is rare) or dismissing the permanence of the shift (which ignores the persistence of the new traits). It suggests that external factors—such as maturing, finding purpose, or meeting the right conditions—unlocked latent potential.
+
+A",2026-03-25T12:57:17.691308
+mistral,P05_late_bloomer,1,baseline,13,"The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts from laziness to ambition often coincide with catalysts like a health scare, career failure, becoming a parent, or a major personal loss that force reevaluation. While latent potential (A) may exist, the timing suggests an external trigger. Option D is less likely without evidence of gradual transformation, and C assumes temporary faking rather than authentic change.
+
+B",2026-03-25T12:57:20.494729
+mistral,P05_late_bloomer,1,baseline,14,"The most likely explanation is B) A specific life event forced them to change. Sudden shifts in behavior like this often coincide with pivotal experiences—such as trauma, a major loss, health issues, or a personal crisis—that act as catalysts for transformation. While people can always uncover hidden potential (A), or even undergo genuine character changes (D), the abruptness and consistency of the shift suggest an external trigger. Option C is possible but less likely without evidence of instability.
+
+B",2026-03-25T12:57:23.019384
+mistral,P05_late_bloomer,1,baseline,15,"The most likely explanation is **A) They always had this potential - circumstances finally aligned.** This choice aligns with the idea that people often possess latent potential that may not manifest until external or internal conditions allow it to emerge. While sudden changes can be triggered by events, the description emphasizes a *consistent* description in their twenties, suggesting their traits were situational rather than intrinsic to their core character.
+
+A",2026-03-25T12:57:25.437359
+mistral,P05_late_bloomer,1,baseline,16,"The most likely explanation is **B) A specific life event forced them to change**. Sudden and sustained shifts in behavior in adulthood are typically triggered by significant external or internal events (e.g., health issues, financial crisis, family responsibilities, trauma, or mentorship). While potential and character can evolve, such a dramatic shift sans context is rare without a catalyst.
+
+B",2026-03-25T12:57:27.828189
+mistral,P05_late_bloomer,1,baseline,17,"This person likely had a breaking point or external motivation in their thirties—such as a health scare, financial crisis, or a major life event—that forced them to develop discipline. While core personality can soften or harden with age, sudden radical change is more often a response to circumstance than mystical transformation.
+
+C",2026-03-25T12:57:30.087162
+mistral,P05_late_bloomer,1,baseline,18,"The most likely explanation is **B) A specific life event forced them to change**. Sudden, dramatic shifts in behavior (like changing from lazy to highly disciplined) are often triggered by something external—such as a major life event (e.g., a health scare, job loss, financial crisis, trauma, or the birth of a child). While potential always exists (A), it usually takes a catalyst to unlock it. The other options are less likely because temporary performance (C) wouldn’t",2026-03-25T12:57:32.493741
+mistral,P05_late_bloomer,1,baseline,19,"This person may have suppressed their natural drive due to unresolved issues, trauma, or poor coping mechanisms in their twenties, which could suddenly reshape once those burdens lightened—supporting either A (circumstances) or B (specific event). Option D is less likely as core ""character"" is usually a constellation of traits rather than a switch, while option C highlights the risk of temporary performance without sustainable change.
+
+B",2026-03-25T12:57:34.933120
+mistral,P05_late_bloomer,1,baseline,20,"**Explanation:**
+The most likely explanation is **(B) A specific life event forced them to change**. While some people do tap into latent potential or undergo genuine personal growth (options A or D), sudden shifts in behavior like this often arise from external pressures—such as financial hardship, health issues, or new responsibilities—rather than just internal maturation. Temporary performance (option C) is possible, but not necessarily more likely than a real transformation triggered by circumstance.
+
+**B**",2026-03-25T12:57:37.407160
+mistral,P05_late_bloomer,1,baseline,21,"**Explanation:**
+The most likely explanation is **B) A specific life event forced them to change**. Sudden, sustained shifts in behavior at this stage are often reactions to external pressures (e.g., financial crisis, health scare, family responsibility) that create a ""burning platform"" for change. While potential (A) and core transformation (D) are possible, they’re less probable without identifying catalysts. Temporary performance (C) is unlikely to explain long-term consistency.
+
+**Answer:** B",2026-03-25T12:57:39.864643
+mistral,P05_late_bloomer,1,baseline,22,"The most likely explanation is **A) They always had this potential - circumstances finally aligned**. People often develop and change over time due to a combination of inner potential and external factors. While a specific life event (B) could trigger change, the option A better explains a broad transformation rather than a singular incident. Performance is unlikely to be temporary without evidence (C), and core character is not static but evolves with experiences (D).
+
+A",2026-03-25T12:57:42.573164
+mistral,P05_late_bloomer,1,baseline,23,"The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts in behavior and discipline are often responses to external pressures or catalysts, such as career demands, financial necessity, health concerns, or personal loss. While they may have had dormant potential (A) or a temporary performance (C), a permanent transformation (D) is less likely without a clear, sustained impetus.
+
+**B**",2026-03-25T12:57:45.077576
+mistral,P05_late_bloomer,1,baseline,24,"**Explanation:**
+The most likely explanation is **(B) A specific life event forced them to change**, as sudden personality shifts often correlate with significant external catalysts (e.g., trauma, a health scare, or losing a job). While potential (A) or transformation over time (D) are possible, they’re less probable without context. Temporary performance (C) is less likely given the consistency of the observed traits beforehand.
+
+**B**",2026-03-25T12:57:47.670181
+mistral,P05_late_bloomer,1,baseline,25,"The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts in behavior at this stage of life are often triggered by external pressures—like health scares, financial instability, a major loss, or a crisis that disrupts their previous habits. While latent potential (A) or transformation (D) are possible, they’re less probable without a catalyst, and temporary performance (C) is common but doesn’t fully account for sustained change.
+
+**B**",2026-03-25T12:57:50.156223
+mistral,P05_late_bloomer,1,baseline,26,"The most likely explanation is **B) A specific life event forced them to change**. While potential and character can evolve (supporting A and D), the sudden shift after consistent behavior strongly suggests an external catalyst—like a health scare, financial crisis, or personal loss—that triggered the transformation. Temporary performance (C) is less likely because sustained long-term change at age 35 implies deeper, lasting motivation.
+
+**B**",2026-03-25T12:57:52.531474
+mistral,P05_late_bloomer,1,baseline,27,"The most likely explanation is **B) A specific life event forced them to change**, as sudden, permanent shifts in behavior and character usually follow significant external or internal catalysts (e.g., trauma, a major loss, a near-death experience, or a transformative insight). While the person may have always had the potential (A) or their character could genuinely transform (D), such changes typically require a push rather than gradual maturation. Temporary performance (C) is less plausible for a durable shift.",2026-03-25T12:57:55.122322
+mistral,P05_late_bloomer,1,baseline,28,"The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts in behavior and productivity often stem from external pressures or catalysts—such as a health scare, financial crisis, loss of a loved one, or a major career setback—that demand adaptation. While potential (A) or personal growth (D) could play a role, these usually evolve over longer periods, whereas abrupt transformations typically trace back to a triggering event. Option C is less plausible because temporary performance doesn",2026-03-25T12:57:57.564878
+mistral,P05_late_bloomer,1,baseline,29,"The most likely explanation is B) A specific life event forced them to change. Sudden shifts in behavior and work ethic at this stage in life often trace back to a catalytic event—a financial crisis, a health scare, the loss of a loved one, or a personal failure—that acts as a wake-up call. While potential (A) or core transformation (D) are possible, they’re less immediately probable without a triggering factor, and temporary performance (C) isn’t supported by the consistency",2026-03-25T12:58:00.119904
+mistral,P05_late_bloomer,1,baseline,30,"**Explanation:**
+The most likely explanation is **B) A specific life event forced them to change**. Sudden shifts in behavior, especially in adulthood, are often triggered by pivotal events (e.g., health scare, financial crisis, personal loss, or mentorship) that create urgency or clarity. While potential may have always existed (A), human motivation rarely transforms without external or internal catalysts. Temporary performance (C) is possible but less likely without context, and core transformation (D) is rare",2026-03-25T12:58:02.606845
+mistral,B03_trust,2,ai,1,"I would send $5. Sending more increases the total pool ($5 tripled becomes $15), giving the other player more to work with and potentially return a larger amount, balancing risk and reward. Sending less reduces the potential gain but limits loss if the other player doesn't reciprocate.
+
+5",2026-03-25T12:58:04.870584
+mistral,B03_trust,2,ai,2,"Sending $5 maximizes mutual benefit while minimizing risk. The tripled amount ($15) creates a strong incentive for the other player to reciprocate generously, potentially increasing both players' gains beyond the initial $10.
+
+5",2026-03-25T12:58:07.133363
+mistral,B03_trust,2,ai,3,"I would send $5 because it maximizes mutual benefit—the receiver gets $15, and if they reciprocate fairly, both end up better off than starting. It balances risk/reward while encouraging cooperative outcomes.
+
+5",2026-03-25T12:58:09.342244
+mistral,B03_trust,2,ai,4,"To maximize mutual benefit, I would send $10. If others follow the expected behavior of returning half, they would triple the $10 to $30 and return $15, netting me $5 profit. This incentivizes cooperation and collective gains over short-term individual gains.
+
+10",2026-03-25T12:58:11.560454
+mistral,B03_trust,2,ai,5,"I would send $5 because it balances potential gain with a moderate risk—sending more could maximize returns if the other player reciprocates, but sending less limits potential losses if they don't. The tripled amount ($15) could incentivize cooperation, making $5 a reasonable middle ground.
+
+5",2026-03-25T12:58:13.761435
+mistral,B03_trust,2,ai,6,"**Explanation:**
+Sending $5 maximizes potential gains while being fair to both players. It triples to $15 for the other player, who then has an incentive to return at least $5 (to give both parties more than the original $10). This balances generosity and self-interest, creating a possible net gain of $10 ($15 received - $5 sent).
+
+**Answer:** 5",2026-03-25T12:58:16.262555
+mistral,B03_trust,2,ai,7,"I choose to send **$5** because it balances the risk and reward by maximizing the potential gain (tripled to $15) while limiting my personal loss if the other player returns nothing. A $5 investment also signals trust, increasing the likelihood of a fair return.
+
+**5**",2026-03-25T12:58:18.385535
+mistral,B03_trust,2,ai,8,"To maximize mutual benefit, sending $5 allows the tripled amount ($15) to create a larger surplus for both players. The recipient has a strong incentive to return at least half ($7.50) to split the gain fairly, ensuring both benefit more than if I kept the $10 or sent less.
+
+5",2026-03-25T12:58:20.603035
+mistral,B03_trust,2,ai,9,"I would send $5. This maximizes the potential for mutual gain, as sending $5 triples to $15 for the other player. Giving them a fair $7.50 (half of $15) would incentivize equal reciprocity, ensuring both parties benefit.
+
+5",2026-03-25T12:58:23.094074
+mistral,B03_trust,2,ai,10,"I would send $5. This is because sending $5 makes the total tripled to $15 for the other player, which is a substantial amount that could incentivize them to return a fair share (e.g., $7.50), benefiting both parties. This balances generosity with a good return on investment (ROI).
+
+5",2026-03-25T12:58:25.372235
