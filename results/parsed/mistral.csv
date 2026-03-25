@@ -5916,3 +5916,170 @@ mistral,B05_loss_aversion,2,rational,19,"A perfectly rational agent maximizes ex
 
 1",2026-03-25T14:10:57.305020
 mistral,B05_loss_aversion,2,rational,20,"As a rational agent, I would compare the expected value (EV) of the gamble to my current wealth to decide whether to accept it. Assuming my utility function is linear (risk-neutral), the EV is simply -0.5 * $100 + 0.5 * X = (X - 100)/2. For the gamble to be acceptable, the EV must be at least $0, which implies X must be at least $100 to break",2026-03-25T14:10:59.719803
+mistral,B05_loss_aversion,2,rational,21,"For a risk-neutral agent, the minimum value of X would be $100, as the expected value of the gamble would then be $0 (50% chance of losing $100 and 50% chance of winning $100). This balances the potential loss and gain, making the gamble fair.
+
+100",2026-03-25T14:11:05.158562
+mistral,B05_loss_aversion,2,rational,22,"As a perfectly rational agent, I would only accept this gamble if the expected value is positive or at least non-negative. The expected value (EV) of the gamble is calculated as: EV = 0.5*(-100) + 0.5*X = -50 + 0.5*X. To ensure the gamble is at least acceptable, the expected value should be ≥ 0, so -50 + 0.5*X",2026-03-25T14:11:07.676304
+mistral,B05_loss_aversion,2,rational,23,"To determine the minimum value of X that would make me accept this gamble, I need to consider the expected value of the bet. Since the coin is fair, there's a 50% chance of losing $100 and a 50% chance of winning $X. The expected value (EV) is calculated as: EV = 0.5*(-$100) + 0.5*($X). For the bet to be acceptable, the expected",2026-03-25T14:11:10.114120
+mistral,B05_loss_aversion,2,rational,24,"As a perfectly rational agent, I would accept the gamble only if the expected value (EV) is positive or zero. The EV is calculated as:
+
+EV = (Probability of Heads * Loss) + (Probability of Tails * Gain)
+EV = (0.5 * (-$100)) + (0.5 * $X)
+
+For the EV to be non-negative:
+0.5*(-100) + 0.5*X ≥",2026-03-25T14:11:12.327824
+mistral,B05_loss_aversion,2,rational,25,"Since I am a perfectly rational agent, I will accept the gamble only if the expected monetary value (EMV) is at least 0. The EMV for a fair coin flip is:
+EMV = 0.5 * (-$100) + 0.5 * $X ≥ 0
+
+Solving for X:
+0.5 * (-100) + 0.5 * X ≥ 0
+-50 + 0.5X",2026-03-25T14:11:14.815171
+mistral,B05_loss_aversion,2,rational,26,"I am a perfectly rational agent, meaning I accept gambles only if the expected value is positive. The expected value (EV) of this gamble is calculated as:
+
+EV = (0.5 * (-100)) + (0.5 * X)
+
+For me to accept the gamble, EV must be > 0:
+(0.5 * -100) + (0.5 * X) > 0
+-50 + 0.5X",2026-03-25T14:11:17.204389
+mistral,B05_loss_aversion,2,rational,27,"A perfectly rational agent should accept a gamble if the expected value is non-negative. The expected value of this gamble is:
+
+E = 0.5*(-100) + 0.5*X ≥ 0
+
+Solving for X:
+
+-50 + 0.5*X ≥ 0
+0.5*X ≥ 50
+X ≥ 100
+
+Therefore, the minimum value of X that would make me accept this gamble",2026-03-25T14:11:19.574176
+mistral,B05_loss_aversion,2,rational,28,"I would accept the gamble only if the expected monetary value (EV) is at least zero (since I am risk-neutral). Here, EV = 0.5*(-100) + 0.5*(X) ≥ 0, which simplifies to X ≥ 100.
+
+100",2026-03-25T14:11:21.649243
+mistral,B05_loss_aversion,2,rational,29,"As a perfectly rational agent, I would accept the gamble only if the expected value is non-negative. The expected value (EV) is calculated as: (Probability of Heads * Loss) + (Probability of Tails * Gain). Since the coin is fair, the probability of each outcome is 0.5. Therefore, to break even, the equation is: 0.5*(-100) + 0.5*(X) >= 0. Sol",2026-03-25T14:11:23.874195
+mistral,B05_loss_aversion,2,rational,30,"As a perfectly rational agent, I would assess the expected value of the gamble to decide whether to accept it. The expected value is calculated as:
+
+- Probability of Heads (losing $100) = 0.5 * (-$100) = -$50
+- Probability of Tails (winning $X) = 0.5 * $X
+
+The gamble is worth accepting if the expected value is at least zero, i.e.,",2026-03-25T14:11:26.254817
+mistral,B03_trust,2,baseline,1,"I would send $5 because it balances risk and reward. Sending $5 triples to $15, allowing the other player to return more than the original $5, making it a net positive sum. This tactic maximizes potential mutual benefit while keeping half the money secure.
+
+5",2026-03-25T14:11:28.419867
+mistral,B03_trust,2,baseline,2,"I would send $5 because it maximizes potential mutual benefit—tripling the amount to $15 gives the other player a strong incentive to reciprocate generously, likely returning more than the original $5 investment. Sending less (e.g., $3) might yield lower returns, while sending more (e.g., $7+) risks losing more if the other player doesn’t reciprocate.
+
+**Answer: 5**",2026-03-25T14:11:30.987884
+mistral,B03_trust,2,baseline,3,"Sending an amount in this scenario relies on trust and mutual benefit. Since the amount sent triples, a logical approach is to send a higher amount to maximize potential gains, assuming the other player will reciprocate fairly. However, the risk of not getting anything back exists, so a moderate amount balances opportunity and caution.
+
+7",2026-03-25T14:11:33.272133
+mistral,B03_trust,2,baseline,4,"I would send the full $10. The amount I send is tripled to $30 for the other player, encouraging them to reciprocate generously. If they return at least $5, I gain more than if I kept the money, fostering mutual benefit.
+
+10",2026-03-25T14:11:35.457369
+mistral,B03_trust,2,baseline,5,"I would send $5. This maximizes fairness: sending half allows the recipient a strong incentive (tripling to $15) while leaving you with $5 to maintain trust and balance risk. It’s a reasonable compromise between maximizing potential return and being cooperative.
+
+5",2026-03-25T14:11:37.683811
+mistral,B03_trust,2,baseline,6,"I would choose to send $5. Sending $5 means the other player receives $15 (since it’s tripled). This amount is likely large enough to incentivize a fair return while also giving me a reasonable chance to profit from the exchange. It balances risk and reward while avoiding sending too little (unmotivating) or too much (high risk of losing).
+
+5",2026-03-25T14:11:40.052402
+mistral,B03_trust,2,baseline,7,"I would send $5. This amount is a moderate balance between risk and potential gain, allowing me to potentially triple my investment while still having a fair chance to receive a reasonable return. It's a strategic choice that encourages cooperation rather than selfishness or excessive risk.
+
+5",2026-03-25T14:11:42.254114
+mistral,B03_trust,2,baseline,8,"I would send $5. This is an optimal strategy because sending $5 maximizes the total potential gain—it triples to $15, allowing the other player to return up to $7.50, balancing fairness and maximizing incentives for cooperation while leaving room for mutual benefit.
+
+5",2026-03-25T14:11:44.395568
+mistral,B03_trust,2,baseline,9,"I would send $5 because sending half of the money allows me to take advantage of the tripling effect while keeping a significant portion for myself. Starting with $5 leaves me with $5 after sending, which triples to $15 for the other player. This seems like a fair balance between generosity and self-interest, encouraging the other player to return a meaningful amount due to the larger pot.
+
+5",2026-03-25T14:11:52.074238
+mistral,B03_trust,2,baseline,10,"I would send $5. This is a balanced approach that maximizes potential mutual benefit. By sending half, I triple its value to $15, making it attractive for the other player to return a significant portion (e.g., splitting the gain fairly), leading to a net positive outcome for both parties.
+
+5",2026-03-25T14:11:54.370337
+mistral,B03_trust,2,baseline,11,"A small offer (e.g., $2) signals trust and incentivizes the other player to reciprocate, potentially maximizing mutual gain through the tripling effect. A larger offer (e.g., $5) could yield higher returns if reciprocated generously, but risks low returns if the other player is selfish. I’d aim for a middle ground ($3) to balance risk and reward.
+
+**3**",2026-03-25T14:11:56.686732
+mistral,B03_trust,2,baseline,12,"I would send $10. Since the amount sent is tripled, sending $10 would result in the other player receiving $30. This maximizes the potential for both players to benefit since the other player can return a significant portion, making it a more attractive proposition for them. Additionally, it creates an opportunity for mutual gain.
+
+10",2026-03-25T14:11:59.052761
+mistral,B03_trust,2,baseline,13,"I would send $5 because it's a balanced amount that reflects trust while also leaving me with something. Sending half maximizes the potential gain for both parties without risking too much.
+
+5",2026-03-25T14:12:02.091854
+mistral,B03_trust,2,baseline,14,"I would send $10. Since it is tripled, the other player would receive $30. If they understand the game theory, they would return half ($15) which gives me a net gain of $5 ($15 - $10). This strategy maximizes overall returns from the exchange.
+
+10",2026-03-25T14:12:04.321694
+mistral,B03_trust,2,baseline,15,"I would send $5. This amount strikes a balance between maximizing the potential tripled gift to the other player and minimizing my risk if they don’t return anything. It also sets a midpoint that could encourage reciprocity while leaving me with some funds in case of no return.
+
+5",2026-03-25T14:12:06.520066
+mistral,B03_trust,2,baseline,16,"Sending $5 maximizes the potential benefit for both parties. You risk $5 but the other player receives $15, which is a strong incentive for them to return at least $6.50 to ensure both of you end up better off than if you sent nothing.
+
+5",2026-03-25T14:12:08.928788
+mistral,B03_trust,2,baseline,17,"I would send $5 because it maximizes the potential benefit. By sending $5, the other player receives $15 (tripled), making it more likely they will return a higher amount to me, balancing fairness and mutual gain.
+
+5",2026-03-25T14:12:11.014620
+mistral,B03_trust,2,baseline,18,"Sending $5 maximizes mutual benefit while incentivizing trust. The return is typically more than the original sent amount due to the tripled transfer, so giving half balances risk and reward. This amount often leads to a cooperative outcome where both parties gain more than if I kept the full $10.
+
+5",2026-03-25T14:12:13.398137
+mistral,B03_trust,2,baseline,19,"Sending money invites strategic risk and trust, especially if the goal is mutual benefit. Tripling the sent amount creates a potential for higher collective gains, but only if reciprocated. Given the uncertainty of the recipient's response, I'd err on the side of moderate trust to test commitment without over-exposing my stake.
+
+**5**",2026-03-25T14:12:15.760422
+mistral,B03_trust,2,baseline,20,"I would send $5. This is a balance between maximizing the potential gain and showing trust without risking too much if the other player is untrustworthy. By sending $5, I triple the amount to $15 for the other player, leaving room for them to return a fair amount while also limiting my potential loss.
+
+5",2026-03-25T14:12:17.933384
+mistral,B03_trust,2,baseline,21,"Sending $5 balances risk and reward well, as tripling it ($15) creates a strong incentive for cooperation while leaving me with a safety net ($5 remaining). It also signals generosity to encourage reciprocity, increasing the chance of receiving more than I sent.
+
+5",2026-03-25T14:12:20.274803
+mistral,B03_trust,2,baseline,22,"I would send $5. Sending half of the $10 allows for a meaningful initial boost when tripled (to $15), while keeping the other half for myself as a buffer. This balances generosity with risk, as the recipient has an incentive to reciprocate proportionally to encourage future trust.
+
+5",2026-03-25T14:12:22.673661
+mistral,B03_trust,2,baseline,23,"I would send $10 because maximizing the initial transfer triples the potential benefit for both players. While sending less could still yield gains, the highest multiplier effect occurs when the full $10 is sent, creating the largest pool to share collaboratively.
+
+10",2026-03-25T14:12:24.854237
+mistral,B03_trust,2,baseline,24,"Sending $5 seems like a balanced choice. It incentives the other player to reciprocate and maximize their return, potentially tripling my investment if they send $5 back. This creates a mutually beneficial outcome without risking too much.
+
+5",2026-03-25T14:12:28.606830
+mistral,B03_trust,2,baseline,25,"I would send $10 because the tripled amount would give the other player $30, making it highly likely they’d return a reasonable share (e.g., $15), netting me $25. Even if they’re selfish, splitting profits fairly (e.g., returning $10) still leaves me with $20. The high stakes justifies the risk.
+
+**10**",2026-03-25T14:12:40.452121
+mistral,B03_trust,2,baseline,26,"I would send $10. Since the sent amount is tripled, sending the full $10 means the other player receives $30, increasing the potential return. Assuming the other player acts rationally or cooperatively, they would likely return a fair amount (e.g., splitting the $30 to give me $15 back), maximizing mutual gain.
+
+Answer: 10",2026-03-25T14:12:42.750510
+mistral,B03_trust,2,baseline,27,"Sending $5 maximizes potential mutual gain. With tripling, the recipient gets $15, incentivizing them to return more than the original $5 for both to benefit.
+
+5",2026-03-25T14:12:44.762966
+mistral,B03_trust,2,baseline,28,"I would send $8. The reasoning is that sending more increases the total pool after tripling, leading to a higher potential return when the other player reciprocates. However, sending less conserves personal funds, balancing risk and reward.
+
+8",2026-03-25T14:12:46.858351
+mistral,B03_trust,2,baseline,29,"Sending the other player more money maximizes the potential for collective gain because the money is tripled when they receive it. Even though I risk getting nothing back, a small initial investment could lead to a higher return if they reciprocate generously. Trust and mutual benefit make it worthwhile.
+
+**Answer: 10**",2026-03-25T14:12:49.051994
+mistral,B03_trust,2,baseline,30,"Sending $5 maximizes expected social surplus while maintaining a balanced risk—there’s a 50% chance the other player reciprocates, yielding a $10 gain on the $5 investment, or a neutral outcome if they don’t. It’s a compromise between altruism and self-interest, avoiding extreme gamble scenarios.
+
+5",2026-03-25T14:12:51.447275
+mistral,M2_fairness,3,rational,1,"The primary justification for a promotion should be evidence of enhanced capability to meet the company’s future needs. While experience and loyalty are valuable, they should not outweigh demonstrated performance unless the role specifically prioritizes institutional knowledge or continuity. A 20-year tenure without performance improvement has less business impact than a shorter tenure with stronger output.
+
+A",2026-03-25T14:12:54.954938
+mistral,M2_fairness,3,rational,2,"A perfectly rational agent prioritizes optimal outcomes for the organization. While the senior employee's experience and loyalty are valuable, the newer employee's superior performance suggests they are more likely to contribute greater value in the promoted role. Promoting based on performance aligns with maximizing productivity and efficiency.
+
+A",2026-03-25T14:12:57.115298
+mistral,M2_fairness,3,rational,3,"The newer employee should get the promotion because, in a perfectly rational and performance-driven system, objective output should be the primary determinant of advancement. Loyalty and tenure are valuable, but if the newer employee objectively outperform the senior employee, the company should prioritize that advantage. Return on investment and workplace efficiency are maximized by rewarding merit, not time served.
+
+C",2026-03-25T14:12:59.437585
+mistral,M2_fairness,3,rational,4,"A perfectly rational agent prioritizes maximizing future value for the organization. While the senior employee offers experience and loyalty, the newer employee demonstrates superior performance, which directly impacts productivity and efficiency. Performance is the most relevant metric for assessing immediate and future contributions, justifying the promotion.
+
+A",2026-03-25T14:13:01.955275
+mistral,M2_fairness,3,rational,5,"The decision should prioritize the company's best interests, which are best served by rewarding performance and potential contributions. While experience and loyalty have value, they should not outweigh demonstrated superior ability to perform in the role. Other factors, such as teamwork, adaptability, and future growth potential, should also be weighed.
+
+C",2026-03-25T14:13:14.233175
+mistral,M2_fairness,3,rational,6,"The decision should prioritize the company's long-term success, where performance, regardless of tenure, directly impacts productivity and growth. While loyalty and experience have value, they are less valuable than proven performance when it comes to advancement.
+
+**A**",2026-03-25T14:13:16.399836
+mistral,M2_fairness,3,rational,7,"The primary goal of the company should be to maximize performance and long-term success. Given that the newer employee performs slightly better, their contribution may already be more valuable to the company than the senior employee's experience. While seniority and loyalty have intangible benefits (e.g., institutional knowledge), performance is more directly tied to the role's demands.
+
+A",2026-03-25T14:13:18.728728
+mistral,M2_fairness,3,rational,8,"A perfectly rational agent prioritizes the goal of maximizing organizational performance. Since the newer employee demonstrates slightly better performance in the same role, promoting them aligns more directly with the company's likely objective of efficiency and output.
+
+A",2026-03-25T14:13:21.054643
+mistral,M2_fairness,3,rational,9,"**Explanation:**
+A promotion should be based on merit, specifically performance and potential to contribute to future success. Experience and loyalty are valuable but should not override tangible contributions, especially when performance metrics clearly favor one candidate. Ignoring performance in favor of seniority could disincentivize excellence and harm organizational growth.
+
+**Answer:**
+A",2026-03-25T14:13:23.433866
+mistral,M2_fairness,3,rational,10,"A) The newer employee - performance should determine advancement.
+A promotion should be based on the ability to perform the job effectively. If the newer employee outperforms the senior employee, then they have demonstrated that they are the better candidate for the position, regardless of years of service. Loyalty and experience are valuable, but they should not outweigh actual job performance when determining advancement.",2026-03-25T14:13:25.719936
