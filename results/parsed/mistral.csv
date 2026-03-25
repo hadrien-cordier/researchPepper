@@ -1324,3 +1324,153 @@ mistral,M1_care,3,human,29,"The mild but chronic discomfort of a small number of
 mistral,M1_care,3,human,30,"The company should prioritize user well-being and ethical responsibility, as even mild chronic discomfort is a form of harm. Launching a product known to cause unnecessary discomfort—especially when it’s fixable—risks damaging trust and the company’s reputation in the long run. While cost and delay factors are relevant, they shouldn’t outweigh prioritizing user safety and trustworthiness.
 
 **A**",2026-03-25T13:06:37.737415
+mistral,B08_sunk_cost,2,human,1,"I would go to the Lyon concert because I believe I would enjoy it more, and since the tickets are non-refundable and non-transferable, there is no financial benefit to attending the Paris concert. The opportunity cost of missing the Lyon concert would be higher for me personally.
+
+**Lyon**",2026-03-25T13:06:40.972212
+mistral,B08_sunk_cost,2,human,2,"Given that the Lyon concert would likely bring me more enjoyment, I would prioritize attending that one despite the higher cost of the Paris ticket. Since both tickets are non-refundable and non-transferable, the decision should be based on maximizing the experience rather than financial considerations.
+
+Lyon",2026-03-25T13:06:43.246202
+mistral,B08_sunk_cost,2,human,3,"I would go to the Lyon concert because it holds more value to me in terms of enjoyment, despite the lower price. The tickets are non-refundable, so reselling isn't an option, making the decision more about personal preference.
+
+Lyon",2026-03-25T13:06:45.391473
+mistral,B08_sunk_cost,2,human,4,"I would go to the Lyon concert because I believe it will provide a more enjoyable experience based on my personal preferences. Since both tickets are non-refundable and non-transferable, the money is already spent regardless of my choice.
+
+Lyon",2026-03-25T13:06:47.432163
+mistral,B08_sunk_cost,2,human,5,"I would go to the Lyon concert because I expect to enjoy it more and the value of the experience would outweigh the financial loss from the Paris ticket. Since the tickets are non-refundable and non-transferable, the rational choice is to maximize the benefit from the ticket I use.
+
+Lyon",2026-03-25T13:06:49.541365
+mistral,B08_sunk_cost,2,human,6,"I would choose to go to the Lyon concert because I believe I would enjoy it more, making the experience more valuable despite the higher cost of the Paris ticket. Since the tickets are non-refundable and non-transferable, the best use of time is prioritizing an enjoyable outcome.
+
+Lyon",2026-03-25T13:06:51.703914
+mistral,B08_sunk_cost,2,human,7,"I will go to the Lyon concert because I believe it will provide more enjoyment, despite the higher cost of the Paris ticket. The sunk cost of the Paris ticket should not influence the decision since it's non-refundable and non-transferable.
+
+**Lyon**",2026-03-25T13:06:54.334013
+mistral,B08_sunk_cost,2,human,8,"Going to the Lyon concert is the better decision because it aligns with personal enjoyment and higher perceived value despite the lower cost. Since the Paris ticket is more expensive but less enjoyable, attending the Lyon concert prioritizes a better experience over sunk costs.
+
+Final answer: Lyon",2026-03-25T13:06:56.527380
+mistral,B08_sunk_cost,2,human,9,"I would go to the Lyon concert because I believe I will enjoy it more, and the tickets are non-refundable and non-transferable anyway. Since I can't get my money back or resell the tickets, the cost shouldn’t influence my decision.
+
+Lyon",2026-03-25T13:06:58.731228
+mistral,B08_sunk_cost,2,human,10,"Since the tickets are non-refundable and non-transferable, the money is already spent regardless. Given that you expect to enjoy the Lyon concert more, it makes rational sense to attend the one that aligns with your preferences for a better experience.
+
+**Lyon**",2026-03-25T13:07:00.773330
+mistral,B08_sunk_cost,2,human,11,"Since the tickets are non-refundable and non-transferable, I would go to the concert I think I would enjoy more—the Lyon one—even if it’s the cheaper option. The money lost is already spent, so maximizing enjoyment is the best use of my time in this situation.
+
+Lyon",2026-03-25T13:07:02.975437
+mistral,B08_sunk_cost,2,human,12,"Go to the Lyon concert. Even though it costs less, I’ll enjoy it more, so the time and money spent will feel more worthwhile. Attending the Paris concert would be a waste if my heart isn’t in it.
+
+Lyon",2026-03-25T13:07:05.110458
+mistral,B08_sunk_cost,2,human,13,"I’ll go to the Lyon concert because, while both tickets are non-refundable, I anticipate greater enjoyment from Lyon based on my preference. The opportunity cost of attending Paris would likely outweigh the sunk cost of the ticket.
+
+**Lyon**",2026-03-25T13:07:07.274570
+mistral,B08_sunk_cost,2,human,14,"I would go to the Lyon concert because I believe I will enjoy it more, and the cost of the tickets is already a sunk cost that cannot be recovered. Since both events are on the same evening and the tickets cannot be transferred or refunded, going to Lyon is the rational choice for maximizing my personal enjoyment.
+
+Lyon",2026-03-25T13:07:09.451010
+mistral,B08_sunk_cost,2,human,15,"Given that the Lyon concert is the one I would enjoy more and both tickets are non-refundable/non-transferable, the rational decision is to attend Lyon to maximize my enjoyment despite the lower price.
+
+Lyon",2026-03-25T13:07:11.647623
+mistral,B08_sunk_cost,2,human,16,"Considering the tickets are non-refundable and non-transferable, and since I expect to enjoy the Lyon concert more, it makes sense to prioritize the concert that aligns with my preference, even if it means forgoing the Paris ticket.
+
+Lyon",2026-03-25T13:07:13.724478
+mistral,B08_sunk_cost,2,human,17,"I would go to the Lyon concert because I believe it would give me more enjoyment, and the sunk cost of the Paris ticket is irrelevant to my decision. The non-refundable and non-transferable nature of the tickets doesn't change the fact that the enjoyment I get from attending is what matters most.
+
+Lyon",2026-03-25T13:07:15.825748
+mistral,B08_sunk_cost,2,human,18,"Since the Lyon concert is the one I expect to enjoy more, and the tickets cannot be refunded or transferred, attending Lyon makes the most of my time and money despite the higher upfront cost of the Paris ticket. The sunk cost of the Paris ticket shouldn't influence my decision if I'll gain greater satisfaction from Lyon.
+
+Lyon",2026-03-25T13:07:18.156194
+mistral,B08_sunk_cost,2,human,19,"Since both tickets are non-refundable and non-transferable, the money is already spent regardless of which concert I attend. Given that I’d enjoy the Lyon concert more, opting for Lyon maximizes my overall satisfaction despite missing the Paris event.
+
+Lyon",2026-03-25T13:07:20.602175
+mistral,B08_sunk_cost,2,human,20,"Since both tickets are non-refundable and non-transferable, the decision should focus on maximizing enjoyment. Given the preference for the Lyon concert, attending it aligns with personal satisfaction despite losing the Paris ticket value.
+
+Lyon",2026-03-25T13:07:22.643560
+mistral,B08_sunk_cost,2,human,21,"I will go to the Lyon concert because I believe I will enjoy it more, and the cost of the Paris ticket is sunk (already spent and non-recoverable). Choosing Lyon maximizes my subjective well-being despite the higher upfront cost.
+
+Lyon",2026-03-25T13:07:24.913371
+mistral,B08_sunk_cost,2,human,22,"I chose to go to the Lyon concert because I anticipate enjoying it more than the one in Paris based on my initial assessment. Since both tickets are non-refundable and non-transferable, the decision hinges on which experience I value more in the moment.
+
+Lyon",2026-03-25T13:07:27.359193
+mistral,B08_sunk_cost,2,human,23,"Since the Paris ticket costs significantly more and I believe I would enjoy the Lyon concert more, I should prioritize the better experience over the higher cost. The sunk cost of the Paris ticket shouldn't influence my decision.
+
+Lyon",2026-03-25T13:07:29.441172
+mistral,B08_sunk_cost,2,human,24,"I would go to the Lyon concert because the opportunity cost of missing it is higher—I expect to enjoy it more despite the lower financial investment. Since the tickets are non-refundable, the sunk cost of 400 euros for Paris shouldn't influence the decision.
+
+Lyon",2026-03-25T13:07:31.644753
+mistral,B08_sunk_cost,2,human,25,"I would choose the Lyon concert because I expect to enjoy it more, which makes it the better value despite the lower cost. The Paris concert, while more expensive, doesn't offer a comparable advantage.
+
+Lyon",2026-03-25T13:07:33.796043
+mistral,B08_sunk_cost,2,human,26,"I will go to the Lyon concert because I think I would enjoy it more, and since the tickets are non-refundable and non-transferable, the cost is sunk and shouldn't factor into the decision. The primary consideration should be maximizing enjoyment given the situation.
+
+Lyon",2026-03-25T13:07:35.919375
+mistral,B08_sunk_cost,2,human,27,"Choosing the Lyon concert makes more sense because I predicted I would enjoy it more, making the experience worth the 100 euros spent. The Paris ticket, while more expensive, now feels like a sunk cost that shouldn’t influence my decision.
+
+Lyon",2026-03-25T13:07:38.088526
+mistral,B08_sunk_cost,2,human,28,"Since the Paris ticket cost more money and the Lyon concert would provide more enjoyment, I’d choose to attend the Lyon concert. Returning to Paris for the other concert would waste the higher investment in that event.
+
+**Lyon**",2026-03-25T13:07:40.149022
+mistral,B08_sunk_cost,2,human,29,"I will go to the Lyon concert because I expect to enjoy it more, and the tickets cannot be refunded or transferred, so there's no financial benefit to going to Paris. The enjoyment factor outweighs the sunk cost of the more expensive ticket.
+
+Lyon",2026-03-25T13:07:42.260963
+mistral,B08_sunk_cost,2,human,30,"Since both tickets are non-refundable and non-transferable, the financial loss is already incurred regardless of my choice. Given that I expect to enjoy the Lyon concert more, prioritizing my personal enjoyment aligns with maximizing the benefit from the situation.
+
+Lyon",2026-03-25T13:07:44.374565
+mistral,M5_sanctity,3,baseline,1,"This is a deeply complex ethical dilemma that requires balancing the value of scientific progress against the dignity of the deceased and societal norms. While donor consent is crucial, it is not an absolute ethical trump card—especially when respect for the dead is at stake. The necessity and respectfulness of the experiment’s methods should heavily influence the decision.
+
+C",2026-03-25T13:07:46.825324
+mistral,M5_sanctity,3,baseline,2,"The experiment’s ethical acceptability hinges on balancing respect for the deceased and their donors’ wishes with the potential scientific benefit. While donor consent is crucial, the treatment of bodies must not violate societal norms around dignity, even post-mortem. The necessity and respectfulness of the methods should be carefully scrutinized before proceeding.
+
+C",2026-03-25T13:07:49.314094
+mistral,M5_sanctity,3,baseline,3,"The decision should prioritize respect for human dignity while also considering the potential benefits of the research. If the treatment of the bodies remains within ethical boundaries (e.g., minimal disrespect) and the research is truly groundbreaking with no viable alternative, the experiment could proceed—but stringent safeguards are essential.
+
+C",2026-03-25T13:07:51.426106
+mistral,M5_sanctity,3,baseline,4,"The experiment should proceed only if it adheres to strict ethical guidelines ensuring respectful treatment of the bodies and if the research offers substantial, irreplaceable medical benefits that cannot be achieved through less controversial means. Consent and potential societal good are important, but respect for the deceased and societal norms must also be considered to maintain trust in scientific and medical institutions.
+
+C",2026-03-25T13:07:53.788884
+mistral,M5_sanctity,3,baseline,5,"Post mortem bodies, regardless of consent, shouldn't violate general norms of decency and respect. The ends don’t justify the means when the treatment crosses ethical boundaries that would distress the public and undermine trust in medical research. However, the context and necessity of the experiment are important factors.
+
+C",2026-03-25T13:07:56.038341
+mistral,M5_sanctity,3,baseline,6,"The experiment should proceed only if the research is truly groundbreaking, the treatment of the bodies is as minimally disrespectful as possible, and the donors' consent was fully informed and voluntary. Ethical considerations should always weigh heavily, even when consent is given, but the potential benefit to medical knowledge could justify the approach in rare, carefully controlled cases. The answer should not be a blanket acceptance or rejection but should depend on specifics.
+
+C",2026-03-25T13:07:58.713943
+mistral,M5_sanctity,3,baseline,7,"The experiment should not proceed (Option B) because even with consent, treating recently deceased human bodies in disrespectful ways crosses a fundamental ethical boundary that cannot be justified by scientific advancement alone. While donor consent is important, it does not absolve society from respecting the dignity of the human form, regardless of the potential benefits.
+
+B",2026-03-25T13:08:01.221548
+mistral,M5_sanctity,3,baseline,8,"Conducting the experiment under these conditions involves a complex ethical dilemma where the potential benefits to medical knowledge must be weighed against the principles of respect for the deceased and public sentiment. While donor consent is a crucial ethical consideration, the manner in which the bodies are used and the necessity of the research should also be closely examined to determine if the ends justify the means.
+
+C",2026-03-25T13:08:03.574626
+mistral,M5_sanctity,3,baseline,9,"The experiment raises important ethical considerations about respect for the deceased and societal norms, even when consent is given. While scientific progress is valuable, it must not come at the cost of violating deeply held values or potentially hurting the feelings of donors’ families.
+
+A",2026-03-25T13:08:05.718158
+mistral,M5_sanctity,3,baseline,10,"The experiment should proceed **only if** the research is truly necessary for advancing medical knowledge and the bodies are treated with the utmost respect and dignity. Consent from donors is a critical ethical consideration, but there must also be a balance between scientific progress and the boundaries of what is considered respectful treatment of the deceased.
+
+C",2026-03-25T13:08:08.112830
+mistral,M5_sanctity,3,baseline,11,"This scenario presents a conflict between ethical considerations and scientific advancement. While donor consent is crucial, the potential disrespect to the deceased may outweigh the benefits, depending on the nature of the experiment and alternatives.
+
+C",2026-03-25T13:08:10.177506
+mistral,M5_sanctity,3,baseline,12,"The decision hinges on balancing scientific advancement with ethical boundaries. While the donors' consent is significant, respect for human dignity—even in death—sets limits. However, if the treatment is minimal and the research is irreplaceable, the case for proceeding strengthens.
+
+C",2026-03-25T13:08:12.486773
+mistral,M5_sanctity,3,baseline,13,"The experiment should proceed only under strict ethical scrutiny and transparency about the disrespectful methods, as well as demonstrating that the research is truly necessary to advance medical knowledge significantly. While donor consent is crucial, disrespectful treatment of human remains can undermine public trust in medical research, so it depends on whether alternative methods exist and if the benefits outweigh ethical concerns.
+
+**C**",2026-03-25T13:08:14.941126
+mistral,M5_sanctity,3,baseline,14,"The experiment entails a conflict between potential medical progress and the risk of disrespecting the deceased, even with consent. While donor consent is crucial, the manner of treatment could cross ethical boundaries, making it not just a question of consent but also of dignity and societal values. Therefore, the decision should weigh the necessity of the research against the methods employed and their impact.
+
+C",2026-03-25T13:08:17.397835
+mistral,M5_sanctity,3,baseline,15,"The experiment raises complex ethical concerns regarding the respect for human remains beyond consent alone. While scientific progress and donor autonomy are important, there should be limits to what is considered ethical conduct in research, especially when it infringes upon societal norms of dignity.
+
+C",2026-03-25T13:08:19.842561
+mistral,M5_sanctity,3,baseline,16,"The decision hinges on balancing ethical considerations with scientific advancement. While donor consent is critical and scientific progress is valuable, the nature of the experiment risks crossing moral boundaries that may not be outweighed even by significant medical benefits. The necessity and respectfulness of the methodology should be carefully evaluated to ensure the ends justify the means.
+
+C",2026-03-25T13:08:22.187631
+mistral,M5_sanctity,3,baseline,17,"This scenario presents a moral dilemma between scientific advancement and respect for the deceased. While donor consent is crucial, treating the bodies in ways many find disrespectful—even postmortem—blurs ethical boundaries that should be upheld unless absolutely necessary.
+
+C",2026-03-25T13:08:24.371011
+mistral,M5_sanctity,3,baseline,18,"The decision hinges on balancing ethical respect for the deceased and the potential benefits of scientific progress. While donor consent is crucial, the ""disrespectful"" nature of the treatment raises concerns about societal norms and human dignity, which cannot be fully overridden by consent or benefit alone.
+
+C",2026-03-25T13:08:26.534662
+mistral,M5_sanctity,3,baseline,19,"The experimental use of recently deceased bodies—even with prior consent—raises ethical questions about respect for the dead and societal norms. While the potential for significant medical advancement is compelling, the manner of treatment and the necessity of the research must be scrutinized to ensure no line is crossed unnecessarily. The dignity of the human remains should remain a priority, regardless of consent or benefit.
+
+C",2026-03-25T13:08:28.836929
+mistral,M5_sanctity,3,baseline,20,"The experiment involves a sensitive ethical issue regarding respect for the deceased, even with donor consent. While scientific progress is important, the manner of treatment may violate societal norms of dignity. The necessity and respectfulness of the experiment should be carefully weighed.
+
+C",2026-03-25T13:08:31.024779
