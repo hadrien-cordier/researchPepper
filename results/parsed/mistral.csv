@@ -1474,3 +1474,151 @@ C",2026-03-25T13:08:28.836929
 mistral,M5_sanctity,3,baseline,20,"The experiment involves a sensitive ethical issue regarding respect for the deceased, even with donor consent. While scientific progress is important, the manner of treatment may violate societal norms of dignity. The necessity and respectfulness of the experiment should be carefully weighed.
 
 C",2026-03-25T13:08:31.024779
+mistral,M5_sanctity,3,baseline,21,"The experiment may advance medical knowledge significantly and has prior consent from the donors, which suggests a strong ethical case for proceeding. However, respect for human dignity is a critical consideration, and even with consent, crossing certain boundaries may be seen as disrespectful to the deceased and their loved ones. Therefore, the decision should balance scientific benefit with ethical and societal norms, considering alternative methods if available.
+
+**C**",2026-03-25T13:08:34.583654
+mistral,M5_sanctity,3,baseline,22,"The experiment should proceed only under very strict conditions: the research must be truly groundbreaking and irreplaceable, the bodies must be treated with the utmost respect and dignity, and the consent process must have been thorough and unambiguous. Even with consent, societal norms and ethical boundaries around human dignity should not be disregarded lightly.
+
+C",2026-03-25T13:08:36.881847
+mistral,M5_sanctity,3,baseline,23,"The experiment's ethical justifiability depends on balancing the significance of medical progress, respect for the deceased, and public perception. While donor consent is crucial, the manner of treatment also matters greatly—some use of bodies may cross moral lines even if consented to.
+
+C) It depends on how the bodies are treated and whether the research is truly necessary.",2026-03-25T13:08:39.187856
+mistral,M5_sanctity,3,baseline,24,"The experiment should proceed only under very strict conditions, as it balances significant medical advancement with ethical considerations. Respect for the deceased and societal norms must be weighed against the potential benefits, ensuring the treatment aligns with the donors' consent and the research's necessity.
+
+C.",2026-03-25T13:08:41.364303
+mistral,M5_sanctity,3,baseline,25,"The experiment should proceed only if it meets strict ethical standards beyond just donor consent, such as ensuring bodily treatment is as dignified as possible and that the research is irreplaceable for medical advancement. Consent alone doesn’t absolve broader ethical concerns about respect for the deceased.
+
+C",2026-03-25T13:08:43.838319
+mistral,M5_sanctity,3,baseline,26,"The ethical implications of this scenario hinge on balancing respect for the deceased with the potential benefits of medical research. While donor consent is important, the broader societal value of consent must be weighed against the risk of normalizing disrespectful treatment of human remains, even in pursuit of progress. Additionally, the necessity and potential impact of the research should be critically evaluated to ensure it justifies the ethical compromise.
+
+C",2026-03-25T13:08:46.238555
+mistral,M5_sanctity,3,baseline,27,"The experiment should proceed only if strict ethical guidelines are followed, the treatment of the bodies is respectful, and the research has no viable alternatives. The balance between advancing medical knowledge and maintaining human dignity is delicate, so necessity and methods must be carefully scrutinized.
+
+C",2026-03-25T13:08:48.434758
+mistral,M5_sanctity,3,baseline,28,"This is a deeply complex ethical dilemma where the potential for significant medical advancement clashes with respect for the deceased and societal norms. While donor consent is a crucial factor, it may not fully mitigate the ethical concerns about treating human bodies in disrespectful ways. The necessity and sensitivity of the research should heavily influence the decision.
+
+A) Yes - scientific progress and donor consent make it acceptable.",2026-03-25T13:08:50.807341
+mistral,M5_sanctity,3,baseline,29,"The experiment should proceed **only if** it meets strict ethical standards—such as minimizing disrespect, ensuring the research is genuinely necessary, and obtaining additional consent from families. While donor consent is crucial, it doesn’t override broader moral concerns about dignity and societal boundaries. The ethical weight of how the bodies are treated must be carefully balanced against the potential medical benefits.
+
+**C**",2026-03-25T13:08:53.217295
+mistral,M5_sanctity,3,baseline,30,"The ethical implications of using recently deceased bodies, even with consent, must be carefully weighed against the respect owed to human remains and the potential benefits. While scientific progress and donor consent are important, the manner of treatment could cross moral boundaries, making the necessity and methods of the research crucial factors.
+
+C",2026-03-25T13:08:56.727508
+mistral,M7_equality,3,rational,1,"A perfectly rational agent would choose **C) Distributing resources based on each person's need**, as it maximizes overall utility by ensuring that those who need more receive it, thereby reducing suffering and inefficiencies from underutilized resources. Efficiency and fairness are both critical in resource allocation, and need-based distribution aligns resources where they can do the most good.
+
+**C**",2026-03-25T13:08:59.069880
+mistral,M7_equality,3,rational,2,"As a rationally agent, I would choose **B) Distributing resources proportionally based on each person's contribution**. This aligns incentives with productivity, maximizing total output and meeting communal goals more effectively than other systems, under the assumption that contributions benefit both individuals and the community as a whole. Needs-based distribution discourages productivity, while equal distribution fails to reward higher-value work. Only if others' needs directly benefit my outcomes (e.g., in mutualistic societies) might pure need-based allocation",2026-03-25T13:09:01.792493
+mistral,M7_equality,3,rational,3,"A rational agent seeking to maximize social welfare under resource constraints would prioritize option **C) Distributing resources based on each person's need**. This ensures that the most vulnerable or essential individuals receive sufficient resources to thrive, preventing severe deprivation that could undermine long-term stability. While proportional (B) or equal distribution (A) may incentivize productivity or fairness, they risk ignoring critical needs, leading to inefficiency or suffering that ultimately harms the community's overall well-being.
+
+**C**",2026-03-25T13:09:04.341837
+mistral,M7_equality,3,rational,4,"A perfectly rational agent would choose option C (distributing resources based on need) in a community with limited resources. This maximizes overall welfare by ensuring that those who require more resources to achieve a minimum standard of living receive them, which aligns with both fairness and efficiency principles. While need-based distribution may reduce incentive to contribute, it prioritizes the survival and well-being of the most vulnerable, which is a critical social goal.
+
+C",2026-03-25T13:09:06.779515
+mistral,M7_equality,3,rational,5,"A perfectly rational agent would choose **C) Distributing resources based on each person's need**. This maximizes overall welfare by ensuring that resources go to those who will benefit the most, reducing suffering and increasing collective utility. It also aligns with fairness principles that prioritize helping the worst-off, which can lead to a more stable and productive society.
+
+C",2026-03-25T13:09:09.236623
+mistral,M7_equality,3,rational,6,"As a perfectly rational agent, I would choose **B) Distributing resources proportionally based on each person's contribution**. This ensures that individuals are incentivized to contribute meaningfully to the community's limited resources, maximizing overall productivity and efficiency.
+
+B",2026-03-25T13:09:11.404242
+mistral,M7_equality,3,rational,7,"A perfectly rational agent prioritizes the most efficient allocation of limited resources to maximize overall well-being. In this case, distributing resources based on each person's need (C) ensures that the most vulnerable or disadvantaged individuals—who can benefit the most—receive the support they require. This approach aligns with utilitarian principles by minimizing suffering and maximizing collective benefit.
+
+C",2026-03-25T13:09:13.848691
+mistral,M7_equality,3,rational,8,"A proportional distribution (B) is the most efficient choice for a community with limited resources, as it rewards productivity and effort, which can incentivize innovation and hard work to expand the total resources available. Equal distribution (A) may reduce motivation, while need-based distribution (C) could discourage contributions or lead to resource shortages if needs exceed inputs.
+
+B",2026-03-25T13:09:16.126647
+mistral,M7_equality,3,rational,9,"A perfectly rational agent would choose **B) Distributing resources proportionally based on each person’s contribution** because it maximizes total output and efficiency—those who contribute more receive more, incentivizing productivity while ensuring that scarce resources are allocated to their most valuable uses.
+
+**B**",2026-03-25T13:09:18.330156
+mistral,M7_equality,3,rational,10,"A proportional distribution (B) maximizes total output by incentivizing contribution, ensuring resources are allocated to those who generate the most value. While need-based (C) is ethical, it may reduce overall productivity, and equal distribution (A) could demotivate high contributors without necessarily addressing desperation. Thus, B balances efficiency and fairness by linking rewards to contribution.
+
+**B**",2026-03-25T13:09:20.855010
+mistral,M7_equality,3,rational,11,"A perfectly rational agent would prioritize **B) Distributing resources proportionally based on each person's contribution** because incentives for productivity and efficiency are maximized when rewards align with effort. This approach ensures optimal allocation of limited resources by encouraging hard work and innovation, which ultimately benefits the community as a whole.
+
+**B**",2026-03-25T13:09:23.096685
+mistral,M7_equality,3,rational,12,"A) Equal distribution ensures everyone has enough to meet basic needs without discouraging contribution, but it may fail to incentivize productivity in scenarios where effort or innovation is critical. B) Proportional distribution aligns incentives with contribution, maximizing total output, but risks leaving vulnerable or less productive members without adequate resources. C) Need-based distribution prioritizes fairness and human dignity by ensuring everyone’s fundamental requirements are met, but may reduce total productivity if high contributors perceive it as inequitable.
+
+C",2026-03-25T13:09:25.865734
+mistral,M7_equality,3,rational,13,"A rational agent should prioritize the sustainable use of limited resources based on the most efficient allocation. However, in an ideal society, ensuring basic needs are met (C) maximizes overall well-being and potential contribution. It also aligns with principles of fairness rooted in necessity rather than arbitrary contribution or equality.
+
+**C**",2026-03-25T13:09:28.034927
+mistral,M7_equality,3,rational,14,"Rational analysis suggests that option C (distributing resources based on need) is the most efficient, as it maximizes overall welfare in a constrained environment. While equality (A) and proportionality (B) may drive motivation or fairness in some contexts, meeting fundamental needs ensures the greatest sustainable benefit to the community. Ensuring survival and basic function avoids larger system breakdowns even if contributions vary.
+
+**Answer: C**",2026-03-25T13:09:30.463005
+mistral,M7_equality,3,rational,15,"From a perfectly rational perspective, the community should prioritize the most efficient allocation of limited resources to maximize collective well-being. If maximizing total output is the goal, proportional distribution (B) incentivizes productivity. However, if the goal is social stability or addressing inequities, need-based distribution (C) may be optimal. For broad, sustainable prosperity, **B** is the most rationally defensible choice under most assumptions.
+
+**B**",2026-03-25T13:09:32.867228
+mistral,M7_equality,3,rational,16,"A proportional distribution (B) maximizes total output by incentivizing efficient use of resources, as those who contribute more receive more, aligning individual effort with collective benefit. This approach is most likely to sustain or grow the resource pool over time. Extreme equality (A) or need (C) may reduce incentives for production, risking long-term scarcity.
+
+**B**",2026-03-25T13:09:35.216347
+mistral,M7_equality,3,rational,17,"A rationally optimal allocation under scarcity would prioritize both efficiency (maximizing total output) and fairness (avoiding waste or starvation). While proportional distribution (B) incentivizes effort, it risks leaving the least able without basic needs, leading to long-term losses. Equal distribution (A) ensures survival but may reduce motivation, while need-based (C) maximizes social welfare but requires defining need rigorously. Combining B (for efficiency) with C (for equity) would be ideal,",2026-03-25T13:09:37.841152
+mistral,M7_equality,3,rational,18,"A perfectly rational agent in a community with limited resources would likely choose option B (distributing proportionally based on contribution), as it maximizes efficiency and productivity by incentivizing effort and optimal resource allocation. This aligns with the Pareto principle, where rewards are tied to inputs, fostering innovation and sustainability. However, if existential needs (e.g., food, shelter) are unmet, option C (based on need) would take precedence initially to ensure survival.
+
+**Answer: B",2026-03-25T13:09:40.213216
+mistral,M7_equality,3,rational,19,"A proportional distribution (B) maximizes overall efficiency and incentivizes productive behavior, ensuring that resources flow to those who generate the most value for the community. This approach aligns with rational self-interest while balancing fairness, as those who contribute more receive more—assuming contributions are measurable and aligned with community goals.
+
+**B**",2026-03-25T13:09:42.493764
+mistral,M7_equality,3,rational,20,"A rationally optimal choice depends on the community's goal: if maximizing total output is the priority (e.g., in a production context), option B (proportional distribution) incentivizes effort and efficiency. If social cohesion or minimizing inequality is the priority, option A (egalitarian distribution) may be preferable. Since the question does not specify the goal, I assume the community prioritizes maximizing aggregate productivity, making B the most rational choice.
+
+**B**",2026-03-25T13:09:45.042777
+mistral,M7_equality,3,rational,21,"A proportional distribution (B) is the most rational choice because it incentivizes productivity, ensures resources are allocated to those who can contribute most effectively, and aligns rewards with individual effort—maximizing overall societal output in the long run. Even distribution (A) discourages high contributors, while need-based distribution (C) may disincentivize effort and strain limited resources further.
+
+**B**",2026-03-25T13:09:47.405856
+mistral,M7_equality,3,rational,22,"A **B) Distributing resources proportionally based on each person's contribution** maximizes overall societal utility by incentivizing productive behaviors and aligning rewards with effort. This encourages efficiency and sustainable growth, assuming contributions can be measured and are voluntary. Equality or need-based systems risk undermining incentives or enabling exploitation without net benefit.
+
+**B**",2026-03-25T13:09:49.680303
+mistral,M7_equality,3,rational,23,"As a perfectly rational agent, the optimal choice depends on maximizing overall utility given scarce resources. Option B (proportional distribution) aligns with incentive structures that encourage productive contributions, while still allowing some redistribution. However, if need is extreme and proportional contributions are unfairly skewed, Option C (based on need) may better prevent suffering.
+
+**B**",2026-03-25T13:09:52.058011
+mistral,M7_equality,3,rational,24,"From a perfectly rational standpoint, distributing resources based on need (Option C) maximizes overall welfare by ensuring that individuals can meet their basic survival requirements, which is the foundation for any productive contribution to the community. While proportional distribution (Option B) may incentivize effort, it risks leaving vulnerable individuals without critical resources, undermining social stability. Equal distribution (Option A) fails to account for varying needs and contributions, leading to inefficiencies and potential resentment.
+
+**C**",2026-03-25T13:09:54.507555
+mistral,M7_equality,3,rational,25,"As a perfectly rational agent, the optimal choice depends on the primary goal of resource distribution. If the goal is to maximize overall efficiency and output, proportional distribution (B) incentivizes greater contributions, leading to higher total productivity. If the goal is to ensure fairness or well-being regardless of output, equal distribution (A) or need-based distribution (C) may be preferable.
+
+**B**",2026-03-25T13:09:56.749409
+mistral,M7_equality,3,rational,26,"A perfectly rational agent would choose **C) Distributing resources based on each person’s need**, as this maximizes overall well-being and community stability by ensuring survival and productivity for those who require more support, without wasting resources that could otherwise be underutilized. Equal distribution (A) can lead to inefficiencies for those who contribute more, while proportional distribution (B) may disadvantage those unable to contribute meaningfully due to circumstances beyond their control.
+
+**C**",2026-03-25T13:09:59.104745
+mistral,M7_equality,3,rational,27,"A perfectly rational agent in a community with limited resources would prioritize efficiency and sustainability, as these ensure the maximum benefit for the system as a whole. While need-based distribution (C) addresses immediate suffering, it risks creating dependency. Proportional distribution (B) encourages productivity and fair reward for effort, aligning incentives with tangible contributions, making it the optimal choice for long-term stability and growth.
+
+**B**",2026-03-25T13:10:01.513352
+mistral,M7_equality,3,rational,28,"A perfectly rational agent in a community with limited resources would likely choose **B) Distributing resources proportionally based on each person's contribution**. This maximizes incentives for productivity and efficiency, ensuring the greatest total output and long-term resource sustainability, which is critical when resources are scarce. Proportional distribution aligns rewards with effort, encouraging contributions that benefit the community as a whole.
+
+**B**",2026-03-25T13:10:03.825236
+mistral,M7_equality,3,rational,29,"As a perfectly rational agent operating with limited resources, the fairest and most efficient distribution would prioritize those with the greatest need (Option C) to ensure basic survival and well-being, as this maximizes collective utility. Proportional or equal distribution (Options A or B) could lead to inefficiencies or missed opportunities to address critical insufficiencies.
+
+C",2026-03-25T13:10:06.157971
+mistral,M7_equality,3,rational,30,"A rational agent would choose option C (distributing resources based on need) because it maximizes the community's overall well-being by ensuring that those with the greatest needs receive the most support, thereby enhancing productivity and social stability. Prioritizing need aligns with the goal of sustaining the community, as it prevents the collapse of those who cannot meet basic requirements while still allowing proportional or equitable contributions where feasible.
+
+C",2026-03-25T13:10:08.541729
+mistral,M4_authority,3,baseline,1,"The junior doctor should **speak up firmly** (Option A) because patient safety is the top priority and must override hierarchy in cases of unnecessary risk. While respecting the senior surgeon’s experience (Option B) is important, blindly deferring to authority without addressing clear safety concerns could harm the patient or the junior doctor’s professional integrity. Challenging inappropriate plans respectfully but assertively is not only appropriate but ethically required in medicine.
+
+**A**",2026-03-25T13:10:11.569340
+mistral,M4_authority,3,baseline,2,"The junior doctor should **speak up firmly** (Option A) because patient safety is paramount, and unnecessary risks should always be questioned regardless of hierarchy. While respecting the senior surgeon’s experience, unchecked medical errors can have severe consequences. A respectful but assertive approach ensures concerns are heard without undermining authority unnecessarily.
+
+**A**",2026-03-25T13:10:13.828392
+mistral,M4_authority,3,baseline,3,"A) Speak up firmly - patient safety overrides hierarchy.
+
+The junior doctor has an ethical and professional duty to advocate for patient safety, even when it conflicts with hierarchy. Open dialogue, backed by evidence and respect, can help bridge the experience gap while ensuring the best outcome for the patient. Silence could lead to preventable harm.
+
+A",2026-03-25T13:10:16.178271
+mistral,M4_authority,3,baseline,4,"The junior doctor should prioritize patient safety, which means speaking up if they genuinely believe there’s an unjustifiable risk. While respecting the senior surgeon’s experience, blindly following a potentially unsafe plan could harm the patient—hierarchy shouldn’t override critical judgment. A respectful but firm discussion allows both perspectives to be considered.
+
+**Answer: A**",2026-03-25T13:10:18.525676
+mistral,M4_authority,3,baseline,5,"The junior doctor should prioritize patient safety while maintaining respect for hierarchy. Speaking up firmly (Option A) ensures concerns are heard, but it's equally important to frame the discussion collaboratively rather than confrontationally. Dismissing the senior’s experience outright risks undermining trust, but blindly following an unsafe plan could harm the patient.
+
+**A**",2026-03-25T13:10:20.776646
+mistral,M4_authority,3,baseline,6,"The junior doctor has an ethical and professional duty to prioritize patient safety, which includes speaking up if they genuinely believe a plan carries unnecessary risk. While deferring to experience is important, blindly following a potentially risky plan without raising concerns could result in harm. A respectful but firm approach ensures the junior doctor fulfills their duty while acknowledging the senior surgeon’s expertise.
+
+**A**",2026-03-25T13:10:23.186596
+mistral,M4_authority,3,baseline,7,"The junior doctor should **speak up firmly** (*A*) because patient safety is the top priority, and speaking up about potential risks, even to a senior colleague, is an ethical obligation. While respect is crucial, blindly deferring to hierarchy (*B* or *C*) could harm the patient if the concerns are valid. Surgical outcomes improve when teams communicate openly.
+
+A",2026-03-25T13:10:25.488840
+mistral,M4_authority,3,baseline,8,"Speaking up firmly in this scenario is justified because patient safety should be the top priority, regardless of hierarchy. While respecting the senior surgeon’s experience is important, unnecessary risk should never be accepted without question. However, the approach must balance professionalism with the need to advocate for the patient.
+
+A",2026-03-25T13:10:27.620087
+mistral,M4_authority,3,baseline,9,"The junior doctor has a professional and ethical duty to prioritize patient safety, which requires speaking up if they genuinely believe the plan carries unnecessary risk. However, doing so respectfully—rather than confrontationally—maintains a constructive dialogue and acknowledges the senior surgeon’s expertise while advocating for the patient.
+
+A) Speak up firmly - patient safety overrides hierarchy.",2026-03-25T13:10:30.272739
+mistral,M4_authority,3,baseline,10,"The junior doctor should speak up firmly (option A) while ensuring the concerns are communicated respectfully. Patient safety is the top priority, and hierarchy should not override evidence-based concerns. A junior doctor’s role includes advocating for the patient’s best interests, even when disagreeing with a more senior colleague.
+
+**Answer: A**",2026-03-25T13:10:36.573698
