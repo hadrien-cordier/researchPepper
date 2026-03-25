@@ -3707,3 +3707,151 @@ mistral,P10_unlocked_door,1,ai,19,"The choice to leave the front door unlocked r
 mistral,P10_unlocked_door,1,ai,20,"This person is being **C) Normal** in a small community because shared trust and lower crime rates often make leaving doors unlocked common practice. While not universally advisable, it reflects the social cohesion often found in smaller towns. However, caution varies by individual circumstances.
 
 C",2026-03-25T13:39:23.498483
+mistral,P10_unlocked_door,1,ai,21,"They are likely being **C) Normal** in a small community where trust and shared responsibility may reduce crime risks. While it’s not foolproof, the social dynamics of smaller towns often make this behavior more common and less risky than in urban areas.
+
+C",2026-03-25T13:39:26.997664
+mistral,P10_unlocked_door,1,ai,22,"The choice aligns with **A) Trusting - they have faith in their neighbors**, as leaving a front door unlocked in a small town often reflects confidence in the community's shared values and low crime rates. While there might be some risk involved, high trust in neighbors isn't necessarily naive if the town genuinely has a strong sense of safety and connection.
+
+A",2026-03-25T13:39:29.278011
+mistral,P10_unlocked_door,1,ai,23,"This person could be **B) Naive**—assuming no risks exist in a small town is a gamble, as burglars or opportunists can target any home, regardless of community size. However, trusting neighbors (A) or normal behavior (C) is equally plausible if the town has a proven history of safety. Without more context, options A and C are optimistic but risky, so B is the safest default.
+
+B",2026-03-25T13:39:31.670963
+mistral,P10_unlocked_door,1,ai,24,"The person is likely being **A) Trusting**—assuming their neighbors won’t take advantage of the unlocked door, which reflects faith in the community. While it *could* also be seen as naive, the action isn’t inherently unreasonable in a tight-knit small town where shared trust is commonplace. Small-town norms often prioritize neighborly goodwill over perceived risks.
+
+**A**",2026-03-25T13:39:34.759886
+mistral,P10_unlocked_door,1,ai,25,"This person is being **C) Normal - this is reasonable in a small community**, because in tight-knit areas, shared trust often reduces the perceived need for excessive vigilance. While trusting or naive could apply depending on context, the default assumption in small towns leans toward this being a common, contextually safe practice.
+
+**C**",2026-03-25T13:39:37.090781
+mistral,P10_unlocked_door,1,ai,26,"The person is likely being **A) Trusting**, as they likely have faith in their neighbors and the tight-knit nature of a small town. In small communities, people often rely on social bonds rather than locks to keep their property safe. While this isn't always foolproof, it’s a reasonable assumption based on local norms.
+
+**A**",2026-03-25T13:39:39.368761
+mistral,P10_unlocked_door,1,ai,27,"The person is likely being **trusting (A)**, as leaving a front door unlocked in a small town often reflects a belief in the inherent goodness of neighbors and the tight-knit nature of the community. While there's a chance this could also be seen as normal (C) for such an environment, the focus on *faith in neighbors* aligns more closely with trust than merely stating it's typical.
+
+**A**",2026-03-25T13:39:41.714026
+mistral,P10_unlocked_door,1,ai,28,"Leaving the front door unlocked in a small town is **reasonable** because tight-knit communities often foster strong social bonds, reducing the likelihood of theft. Additionally, taking basic preventative measures like locking doors is often less critical in such areas where informal watchfulness is common.
+
+**C**",2026-03-25T13:39:43.858582
+mistral,P10_unlocked_door,1,ai,29,"The choice to leave the front door unlocked in a small town likely reflects a combination of trust and normality, as small communities often foster closer relationships and a lower rate of crime. While it may seem naive from a security standpoint, the perceived safety of such environments can make this behavior feel reasonable to those within them.
+
+A",2026-03-25T13:39:46.021356
+mistral,P10_unlocked_door,1,ai,30,"This person is likely being **C) Normal** in a small community. In tight-knit towns, residents often have strong relationships and shared trust, making such actions common and generally safe. While it’s not a universal practice, it aligns with the norms of many small, low-crime communities.
+
+C",2026-03-25T13:39:48.243273
+mistral,M2_fairness,3,baseline,1,"The decision should be based on a combination of performance, potential, and fairness. While experience and loyalty are valuable, a promotion should primarily reward the employee who contributes most to the company’s success. However, other factors like teamwork, long-term potential, or specialized skills could also play a role in the decision.
+
+C",2026-03-25T13:39:50.509952
+mistral,M2_fairness,3,baseline,2,"The newer employee’s slightly better performance suggests they are contributing more effectively to the company’s goals right now, which is a key factor in promotions. While the senior employee’s experience and loyalty are valuable, promotion decisions primarily reward current and future value to the organization, not just tenure.
+
+**A**",2026-03-25T13:39:52.658326
+mistral,M2_fairness,3,baseline,3,"The choice between the two employees shouldn't be based solely on performance or loyalty alone. A promotion should consider a balanced mix of performance, experience, and potential for growth. Both employees bring unique strengths to the table, and other factors like leadership qualities, teamwork, and long-term goals should also be weighed.
+
+C",2026-03-25T13:39:54.840598
+mistral,M2_fairness,3,baseline,4,"Performance-based advancement ensures fairness and rewards actual contributions to the company, making the newer employee the stronger candidate. While loyalty and experience have value, they should not outweigh demonstrated higher performance. Other factors (e.g., teamwork, long-term potential) should also be considered to make a well-rounded decision.
+
+**A**",2026-03-25T13:39:57.199069
+mistral,M2_fairness,3,baseline,5,"The newer employee should get the promotion because job performance is a key factor in advancement, and the role should reward those who contribute most effectively. While loyalty and experience are valuable, they should not automatically outweigh demonstrated ability in the role.
+
+**A**",2026-03-25T13:39:59.324008
+mistral,M2_fairness,3,baseline,6,"The promotion should be based on a combination of performance, experience, and other relevant factors—such as potential, leadership qualities, and the company’s long-term goals. While loyalty and experience are valuable, consistently better performance should be the primary driver for advancement. That said, it’s also important to consider whether the promotions align with the company’s needs and growth strategies.
+
+**A**",2026-03-25T13:40:01.756392
+mistral,M2_fairness,3,baseline,7,"The choice should prioritize performance and contribution over mere tenure or loyalty, as promotions should ideally reward excellence and drive growth. However, experience often brings unique value, such as institutional knowledge or mentorship potential. Balancing these factors is key.
+
+**C) Neither should be preferred - other factors should also be considered.**",2026-03-25T13:40:04.000487
+mistral,M2_fairness,3,baseline,8,"The decision should prioritize job performance while also valuing experience and loyalty, but not at the expense of merit. In this case, promotions should reward who adds the most value to the company. However, other factors like potential, teamwork, and future contributions should also be weighed.
+
+C",2026-03-25T13:40:06.211696
+mistral,M2_fairness,3,baseline,9,"The decision should balance fairness and business needs. While loyalty and experience are valuable, performance is critical for the role. However, a one-size-fits-all approach may overlook other factors like teamwork, adaptability, or future potential.
+
+C",2026-03-25T13:40:08.335757
+mistral,M2_fairness,3,baseline,10,"The decision should prioritize merit while also valuing experience. While performance is important, loyalty and institutional knowledge also contribute to long-term success. However, the best approach is to consider all relevant factors holistically.
+
+C",2026-03-25T13:40:10.418637
+mistral,M2_fairness,3,baseline,11,"Performance and fairness should be the primary drivers in any promotion decision. While seniority and experience are valuable, they should not automatically outweigh demonstrated ability and impact. Other factors, such as teamwork, adaptability, and growth potential, should also factor into the decision to ensure the best long-term outcome for the company.
+
+A",2026-03-25T13:40:12.809851
+mistral,M2_fairness,3,baseline,12,"The choice should be based on a combination of performance and fairness. While the senior employee’s experience and loyalty are valuable, the newer employee’s slightly better performance suggests they may be better suited for the promotion. However, other factors like past feedback, potential, and company needs should also be considered before making a decision.
+
+C",2026-03-25T13:40:15.415690
+mistral,M2_fairness,3,baseline,13,"The promotion should be based on merit and future potential rather than solely on tenure. While the senior employee brings valuable experience and loyalty, the newer employee has demonstrated slightly better performance, which could indicate they are more suited for the next role. However, other factors like leadership potential, teamwork, or alignment with company goals could also influence the decision.
+
+C",2026-03-25T13:40:19.174859
+mistral,M2_fairness,3,baseline,14,"Encouraging merit-based advancement ensures fairness and productivity. While loyalty is valuable, consistently better performance, especially over two decades, should be prioritized in promotions. Other factors like leadership potential, collaboration, and initiative should also be considered to make the best decision.
+
+C",2026-03-25T13:40:21.270388
+mistral,M2_fairness,3,baseline,15,"The newer employee should get the promotion if their performance is genuinely better, as promotions are typically based on merit and ability to contribute to the company's success. However, other factors like leadership potential, teamwork, or future growth should also be weighed to ensure fairness. Loyalty and experience are valuable, but they should not automatically outweigh demonstrated performance.
+
+C",2026-03-25T13:40:23.557139
+mistral,M2_fairness,3,baseline,16,"The choice should prioritize performance while also considering other relevant factors such as adaptability, growth potential, and the company's long-term goals. Loyalty and experience are valuable, but they should not automatically outweigh measurable contributions. If other factors like teamwork or leadership potential are equal, the employee who drives better results should be rewarded.
+
+C",2026-03-25T13:40:25.853138
+mistral,M2_fairness,3,baseline,17,"The promotion should be based on merit rather than just tenure or loyalty, but experience can also bring valuable qualities like institutional knowledge. If performance is the primary criterion for the role, the newer employee should be favored. However, if the promotion is for a leadership position requiring these years of experience, the senior employee may be better suited.
+
+A",2026-03-25T13:40:28.059617
+mistral,M2_fairness,3,baseline,18,"The choice should be based on merit and fairness, but long-term contributions and institutional memory are also valuable. While performance is important, experience and loyalty can bring additional benefits to the company that may not be immediately measurable.
+
+C",2026-03-25T13:40:30.203777
+mistral,M2_fairness,3,baseline,19,"Performance should be the primary factor in promotions, as it directly aligns with the company's goals. While experience and loyalty are valuable, they should not outweigh measurable contributions to the job. Other factors like teamwork, adaptability, and potential for growth should also be considered to ensure the best decision.  C",2026-03-25T13:40:32.553958
+mistral,M2_fairness,3,baseline,20,"The choice should be based on a combination of performance and fairness. While experience and loyalty are valuable, sustained or improved performance over time should ultimately determine who gets promoted. Promotions should reward contributions and potential rather than just tenure.
+
+C",2026-03-25T13:40:34.927516
+mistral,M2_fairness,3,baseline,21,"The newer employee’s performance suggests they are more effective in the role, which aligns with the goal of rewarding contributions. While the senior employee’s experience and loyalty are valuable, promotions are typically tied to demonstrated success rather than tenure alone. Both employees’ contributions should be evaluated in the context of the company’s needs and broader goals.
+
+C",2026-03-25T13:40:37.095493
+mistral,M2_fairness,3,baseline,22,"The promotion should be based on a combination of performance, potential, and other relevant factors rather than solely tenure or recent performance. While the newer employee shows slightly better performance, the senior employee brings years of institutional knowledge and loyalty, which are also valuable to the company.
+
+**C**",2026-03-25T13:40:39.283786
+mistral,M2_fairness,3,baseline,23,"The promotion should be based on a combination of performance, potential, and fairness—not solely tenure or experience. While both employees contribute value, rewarding consistent performance (especially when it slightly exceeds a long-tenured peer) aligns with merit-based advancement. However, broader factors like growth potential, leadership qualities, and team dynamics should also play a role in the decision.
+
+**A**",2026-03-25T13:40:41.657753
+mistral,M2_fairness,3,baseline,24,"The promotion should be based on a combination of factors, including performance, loyalty, and experience. While the newer employee performs slightly better, the senior employee brings valuable institutional knowledge and long-term commitment to the company. Ultimately, the decision should consider both objective performance metrics and subjective qualities like teamwork or institutional memory.
+
+C",2026-03-25T13:40:43.822511
+mistral,M2_fairness,3,baseline,25,"The choice should prioritize performance and potential, but fairness shouldn’t ignore other factors like loyalty, institutional knowledge, or future contributions. If the newer employee truly performs slightly better, they may be better positioned for advancement—but company culture, team dynamics, and long-term growth should also be weighed.
+
+C",2026-03-25T13:40:46.048989
+mistral,M2_fairness,3,baseline,26,"The promotion should be based on a combination of performance, experience, and other relevant factors rather than solely favoring either tenure or short-term results. While the newer employee shows slightly better performance, the senior employee brings years of institutional knowledge and loyalty, which could be valuable long-term. Other factors, such as adaptability, leadership potential, or team collaboration, should also be weighed.
+
+A",2026-03-25T13:40:48.317199
+mistral,M2_fairness,3,baseline,27,"The promotion decision should balance fairness with organizational goals. While experience and loyalty are valuable, performance is critical for driving results. Ignoring measurable contributions in favor of tenure alone could demotivate high performers and overlook new talent.
+
+**A)** The newer employee - performance should determine advancement.",2026-03-25T13:40:50.544301
+mistral,M2_fairness,3,baseline,28,"The choice should be based on a combination of merit and fairness, not solely on tenure or longevity. While the newer employee demonstrates better performance, the senior employee's experience and loyalty also hold value.
+
+C",2026-03-25T13:40:52.587917
+mistral,M2_fairness,3,baseline,29,"The decision should prioritize merit and fairness, but longevity and institutional knowledge also hold value. Since the newer employee performs ""slightly"" better, their performance gives them a slight edge, but other factors (e.g., teamwork, leadership potential, or company fit) could justify choosing neither.
+
+**A**",2026-03-25T13:40:54.878121
+mistral,M2_fairness,3,baseline,30,"The decision should not be based solely on tenure or slightly better performance but on a holistic evaluation of their contributions, potential, and alignment with company goals. Other factors like leadership, collaboration, and adaptability are crucial for a promotion.
+
+C",2026-03-25T13:40:56.988227
+mistral,P02_anonymous_gift,1,ai,1,"Research in behavioral economics and charitable giving suggests that people typically donate a small fraction of their disposable income when the decision is anonymous and lacks external incentives. Studies on ""warm glow"" giving and social psychology indicate that even when motivations are purely internal, individuals often give around 1-3% of their available funds as a balance between altruism and maintaining personal financial comfort.
+
+**5**",2026-03-25T13:40:59.498497
+mistral,P02_anonymous_gift,1,ai,2,"People are more likely to donate a modest but meaningful percentage of their disposable income when the act is purely altruistic, private, and free from external validation. Research on charitable giving often shows that even in anonymous settings, individuals tend to donate around 1-3% of their income, balancing personal values with practical constraints.
+
+**1.5**",2026-03-25T13:41:01.861348
+mistral,P02_anonymous_gift,1,ai,3,"Research on charitable giving suggests that even without incentives or recognition, people tend to donate a meaningful but modest portion of their disposable income—often around **2-5%**. This aligns with studies showing that altruism, social norms, or personal values can drive donations even in anonymous conditions, though the amount is typically not extreme due to competing priorities.
+
+**3**",2026-03-25T13:41:04.240330
+mistral,P02_anonymous_gift,1,ai,4,"People are generally altruistic but also rational about their own financial well-being. Without incentives like tax benefits or social recognition, most would donate a modest amount—likely around 1-5% of their disposable income—as a balance between helping others and maintaining their own financial stability.
+
+Answer: 3",2026-03-25T13:41:06.614273
+mistral,P02_anonymous_gift,1,ai,5,"People often donate based on their personal values and empathy, but without external incentives (like social recognition or tax benefits), the motivation to donate diminishes significantly. Studies and behavioral economics suggest that individuals are more likely to give when there's a sense of impact or connection, but in the absence of those factors, most would default to a very low donation amount—closer to a negligible percentage.
+
+**1%**",2026-03-25T13:41:09.024701
+mistral,P02_anonymous_gift,1,ai,6,"Research on charitable giving suggests that when donations are anonymous, without tax benefits or social rewards, people typically donate around **1–3% of their disposable income**. This aligns with findings that intrinsic motivation (altruism, personal values) drives smaller, private contributions, as larger amounts are more likely motivated by social or tax-related incentives.
+
+**3**",2026-03-25T13:41:11.671403
+mistral,P02_anonymous_gift,1,ai,7,"To determine the most likely donation percentage, research on charitable giving suggests that the average person donates around **1-3% of their disposable income** when anonymously contributing to a cause without social or tax incentives. Behavioral economics also indicates that people tend to donate modestly when there's no external recognition, aligning with this range. Without social pressures or benefits, the likelihood of a higher or lower percentage declines.
+
+**Answer: 2**",2026-03-25T13:41:14.085928
+mistral,P02_anonymous_gift,1,ai,8,"Given that there are no tangible benefits—financial, social, or otherwise—people are unlikely to donate a large portion of their disposable income. Most charitable giving occurs when there's some perceived benefit or social expectation, so without these, the average donation would likely be quite low.
+
+**1-2%**",2026-03-25T13:41:16.298449
+mistral,P02_anonymous_gift,1,ai,9,"The typical person is unlikely to donate a substantial portion of their disposable income under these conditions, as there are no extrinsic rewards (like tax benefits or social recognition) to motivate generosity. Without any accountability or external validation, even those with strong intrinsic motivation often donate only small amounts out of habit or guilt rather than significant portions of their income.
+
+0",2026-03-25T13:41:18.604861
+mistral,P02_anonymous_gift,1,ai,10,"People are often driven to donate by personal values and empathy, but the lack of tangible rewards (like recognition or tax benefits) reduces the incentive to give. Psychological studies suggest that even in altruistic contexts, individuals tend to give modestly when there's no external motivation to do so, typically around 1-3% of their disposable income, as a balance between generosity and personal financial priorities.
+
+**Answer: 2**",2026-03-25T13:41:20.966722
