@@ -850,3 +850,136 @@ mistral,B02_dictator,2,human,29,"I would give $50. This amount represents an equ
 mistral,B02_dictator,2,human,30,"Giving money to a stranger with no expectation of reciprocity or impact on my own well-being feels like a purely altruistic act. Since the other person can't respond or reject, the amount isn’t influenced by social pressure or guilt. I’d choose a number that reflects a meaningful gesture without making me feel personally burdened—enough to improve their day slightly but not so much that it would cause me financial stress.
 
 **40**",2026-03-25T13:00:27.299940
+mistral,B04_allais,2,baseline,1,"I would choose Option A over Option B because I prefer a certain gain over a highly uncertain one, even though the expected value is higher in Option B. Similarly, I would choose Option D over Option C because the potential reward, though riskier, is much larger and justified by the only 1% difference in probability.
+
+A, D",2026-03-25T13:00:30.663650
+mistral,B04_allais,2,baseline,2,"**Explanation:**
+I would choose **Option A** in Choice 1 because the guaranteed 1,000,000 euros feels more secure and reduces risk, even if Option B offers a small chance of a higher payout. In Choice 2, I would choose **Option D** because the expected value (10% of 5,000,000 = 500,000) is higher than Option C's expected value (",2026-03-25T13:00:33.020837
+mistral,B04_allais,2,baseline,3,"Choice 1: I prefer the certain gain of 1,000,000 euros (Option A).
+Choice 2: I prefer the higher potential payoff with a lower probability (Option D).
+
+A, D",2026-03-25T13:00:35.090223
+mistral,B04_allais,2,baseline,4,"For Choice 1, I would prefer Option A because the guaranteed 1,000,000 euros provide certainty and avoid any risk of losing everything. For Choice 2, I would choose Option D because the higher potential payout (5,000,000 euros) outweighs the slightly lower probability compared to Option C, even though the expected value of Option C is slightly higher.
+
+A, D",2026-03-25T13:00:37.435862
+mistral,B04_allais,2,baseline,5,"For the first choice, I prefer Option A (1,000,000 euros for certain) because the guaranteed outcome avoids risk, which is generally preferable when the potential gain from risking it (5,000,000 euros) is not proportionally large compared to the small chance of losing everything. For the second choice, I prefer Option D (10% chance of 5,000,000 euros) because the higher potential pay",2026-03-25T13:00:39.877329
+mistral,B04_allais,2,baseline,6,"For the first choice, I prefer the certain Option A because the expected value of Option B (940,000 euros) is only slightly higher, and the 1% risk of losing everything makes it less appealing.
+
+For the second choice, I prefer Option D because its expected value (500,000 euros) is far higher than Option C's (110,000 euros), even though both involve significant risk.
+
+A, D",2026-03-25T13:00:42.814106
+mistral,B04_allais,2,baseline,7,"For my first choice, I would prefer Option A. The guaranteed 1,000,000 euros offer absolute certainty and stability, outweighing the high-risk options in B despite the potential for a much larger sum. For my second choice, I would select Option D. The 10% chance of 5,000,000 euros is more attractive than the 11% chance of 1,000,000 euros,",2026-03-25T13:00:45.385340
+mistral,B04_allais,2,baseline,8,"Choice 1: I prefer Option A (1,000,000 euros for certain) because the guaranteed amount provides more utility than the risky option, which is only slightly better (on average) but introduces unnecessary uncertainty.
+
+Choice 2: I prefer Option C (11% chance of 1,000,000 euros, 89% chance of nothing) because it offers a moderately high chance at a substantial prize, whereas Option D involves a much",2026-03-25T13:00:47.805987
+mistral,B04_allais,2,baseline,9,"For Choice 1, I would choose Option A because the guaranteed 1,000,000 euros reduces risk and provides certainty, which is preferable despite the potential higher reward from Option B. For Choice 2, I would choose Option D because the 10% chance of 5,000,000 euros offers a significantly higher expected value than Option C’s 11% chance of 1,000,000 euros.
+
+A",2026-03-25T13:00:50.162398
+mistral,B04_allais,2,baseline,10,"**Explanation:**
+For Choice 1, I prefer Option A (certain 1,000,000 euros) because the small but meaningful chance of gaining nothing outweighs the relatively modest expected increase in potential gain. For Choice 2, I prefer Option C (11% chance of 1,000,000 euros) because the expected value is roughly equal to Option D, but Option C offers a higher probability of winning any amount, which align",2026-03-25T13:00:52.516726
+mistral,B04_allais,2,baseline,11,"I would choose Option A in Choice 1 for certainty over the high risk and slightly better expected value in Option B. In Choice 2, I would choose Option D because its expected value (500,000 euros) is significantly higher than Option C's (110,000 euros).
+
+A, D",2026-03-25T13:00:54.659392
+mistral,B04_allais,2,baseline,12,"Choice 1: I would prefer Option A (certain 1,000,000 euros) because the guaranteed amount significantly outweighs the small potential gain from the risky Option B, given that the expected value of B (890,000 + 500,000 + 0 = 1,390,000) doesn’t justify the high chance of earning nothing. A certain outcome is often preferable for security over a",2026-03-25T13:00:57.118378
+mistral,B04_allais,2,baseline,13,"For the first choice, I would prefer Option A (certain 1,000,000 euros) because the guaranteed outcome avoids the risk of losing everything, even though the expected value of Option B (€1,390,000 on average) is higher. For the second choice, I would prefer Option D (10% chance of 5,000,000 euros) because it offers a higher potential payout for a slightly lower",2026-03-25T13:00:59.859859
+mistral,B04_allais,2,baseline,14,"For both choices, I prioritize minimizing regret. In Choice 1, I avoid the risk of losing everything (Option B) and take the guaranteed money (Option A). In Choice 2, I accept the small chance to win big (Option D) rather than the almost-certain nothing (Option C), as the potential payout outweighs the low probability.
+
+A, D",2026-03-25T13:01:02.191939
+mistral,B04_allais,2,baseline,15,"I would choose Option A in Choice 1 because the guaranteed 1,000,000 euros avoids the small risk of losing everything in Option B, even though the expected value is slightly higher in Option B. In Choice 2, I would choose Option C because the 11% chance of 1,000,000 euros offers a slightly better probability-to-payout ratio than the 10% chance of 5,000,0",2026-03-25T13:01:04.635303
+mistral,B04_allais,2,baseline,16,"For **Choice 1**, I would prefer **Option A** because the guaranteed 1,000,000 euros eliminates risk and provides certainty, which outweighs the slim chances of higher gains in Option B.
+
+For **Choice 2**, I would prefer **Option D** because the potential to gain 5,000,000 euros (with a 10% chance) is significantly more valuable than the 1,000,00",2026-03-25T13:01:07.211238
+mistral,B04_allais,2,baseline,17,"I would choose Option A in Choice 1 because the certainty of receiving 1,000,000 euros is more appealing than the small chance of losing everything despite the potential for a higher reward. In Choice 2, I would choose Option C because the higher probability of winning a significant amount (1,000,000 euros) outweighs the slightly lower chance of winning a larger amount (5,000,000 euros).
+
+A,",2026-03-25T13:01:09.543401
+mistral,B04_allais,2,baseline,18,"For Choice 1, I would prefer Option A (certain 1,000,000 euros) because the expected value of Option B (890,000 + 500,000 + 0 = 1,390,000) is higher, but the risk of losing everything outweighs the potential gain. For Choice 2, I would prefer Option C (11% of 1,000",2026-03-25T13:01:12.060844
+mistral,B04_allais,2,baseline,19,"I prefer the certainty of 1,000,000 euros in Choice 1, as the potential gain of 5,000,000 euros isn’t large enough to justify the 1% risk of losing everything. In Choice 2, I prefer the 11% chance at 1,000,000 euros over the 10% chance at 5,000,000 euros because the higher probability",2026-03-25T13:01:14.614118
+mistral,B04_allais,2,baseline,20,"For **Choice 1**, I prefer **Option A** (certain 1,000,000 euros) because the guaranteed amount outweighs the relatively small additional expected value (€4,500,000 * 0.10 = €450,000) of the risky option, especially given the 1% chance of losing everything.
+
+For **Choice 2**, I prefer **Option D** (10% chance of",2026-03-25T13:01:17.559875
+mistral,B04_allais,2,baseline,21,"Choice 1: I prefer Option A (certain 1,000,000) over Option B because the small chance of losing everything outweighs the large potential gain. This aligns with risk aversion in expected utility theory, where certainty is often more valuable than a higher expected value with risk.
+
+Choice 2: I prefer Option D (10% chance of 5,000,000) over Option C (11% chance of 1",2026-03-25T13:01:19.905227
+mistral,B04_allais,2,baseline,22,"Choice 1: I would prefer the certainty of receiving 1,000,000 euros (Option A) because the expected value of Option B is only slightly higher (1,350,000 euros), and the risk of losing everything outweighs the small additional gain.
+
+Choice 2: I would prefer Option C (small chance to win 1,000,000) because the expected value is higher (110,0",2026-03-25T13:01:22.513655
+mistral,B04_allais,2,baseline,23,"Choice 1: I prefer Option A because the guaranteed 1,000,000 euros is more certain and aligns with my preference for avoiding risk when the expected value of Option B (which is higher at 1,390,000 euros) doesn't compensate enough for the 1% chance of losing everything.
+
+Choice 2: I prefer Option D because it offers a higher potential reward (5,000,000 euros) with",2026-03-25T13:01:24.845935
+mistral,B04_allais,2,baseline,24,"For Choice 1, I would choose Option A because the guaranteed 1,000,000 euros eliminates the risk of losing everything, even though the potential payout for Option B is higher. For Choice 2, I would choose Option D because it offers a higher expected value (500,000 euros) compared to Option C (110,000 euros), despite the slightly lower probability of winning.
+
+A, D",2026-03-25T13:01:27.241135
+mistral,B04_allais,2,baseline,25,"For Choice 1, I prefer Option A (certain 1,000,000 euros) because the expected value of Option B (890,000 + 500,000 + 0 = 1,390,000) doesn’t outweigh the guaranteed outcome, and I’d rather avoid the small risk of losing everything. For Choice 2, I prefer Option D (gamble on 5M) despite",2026-03-25T13:01:29.688111
+mistral,B04_allais,2,baseline,26,"For Choice 1, I would choose Option A because the guaranteed 1,000,000 euros is more reliable and avoids the risk of losing everything. In Choice 2, I would choose Option D because the potential reward of 5,000,000 euros is significantly higher than the 1,000,000 euros in Option C, despite similar probabilities.
+
+A, D",2026-03-25T13:01:32.006029
+mistral,B04_allais,2,baseline,27,"I would choose Option A in Choice 1 because the guaranteed 1,000,000 euros avoids the risk of losing everything, even though the potential payout in Option B is higher. In Choice 2, I would choose Option D because the 10% chance of 5,000,000 euros is significantly better than the 11% chance of 1,000,000 euros when considering the expected value.
+
+A",2026-03-25T13:01:35.641968
+mistral,B04_allais,2,baseline,28,"I prefer Option A in Choice 1 because the certainty of 1,000,000 euros outweighs the slight chance of a higher reward but with significant risk. In Choice 2, I prefer Option D because the small probability of winning 5,000,000 euros provides a better expected value compared to the slim chance of winning 1,000,000 euros.
+
+A, D",2026-03-25T13:01:37.899978
+mistral,B04_allais,2,baseline,29,"For Choice 1, I prefer Option A (certain €1,000,000) due to risk aversion—the small chance of losing everything isn’t worth the potential gain. For Choice 2, I prefer Option D (10% chance at €5,000,000) because the higher upside justifies the slightly lower probability compared to Option C.
+
+**A, D**",2026-03-25T13:01:42.120258
+mistral,B04_allais,2,baseline,30,"I prefer the guaranteed €1,000,000 in Choice 1 because the risk doesn’t justify a small chance of gaining more (losing 1% is worse than the expected gain from Option B). In Choice 2, I’d bet on the higher upside (€5M) despite the slightly lower probability, as the potential reward outweighs the small difference in odds.
+
+A, D",2026-03-25T13:01:44.581391
+mistral,M6_liberty,3,ai,1,"Banning the substance prioritizes collective well-being while eliminating personal autonomy, which could set a troubling precedent for overregulation. However, heavy regulation (Option C) balances harm reduction with freedom, as seen with smoking or junk food, where taxes, advertisements restrictions, and access limits curb use without outright prohibition.
+
+**C**",2026-03-25T13:01:46.812892
+mistral,M6_liberty,3,ai,2,"The government should ban the substance because the significant public health costs outweigh the personal choice to use it. While individual freedom is important, it cannot justify imposing high healthcare burdens on society and enabling widespread harm. The collective good—reducing preventable suffering and economic strain—justifies restricting a harmful but legal choice.
+
+A",2026-03-25T13:01:49.317200
+mistral,M6_liberty,3,ai,3,"The government should regulate the substance heavily but not impose a full ban, as this strikes a balance between protecting public health and respecting individual autonomy. A complete ban risks creating black markets and policing challenges, while heavy regulation (e.g., age restrictions, advertising limits, taxes) can mitigate harm without outright infringing on personal freedom.
+
+**C**",2026-03-25T13:01:51.705024
+mistral,M6_liberty,3,ai,4,"The government should regulate the substance heavily but avoid an outright ban (*Option C*). While public health is important, individual liberty matters too—especially when informed adults can make their own choices about risk. A middle-ground approach allows the government to limit harm (e.g., via taxation, warnings, age restrictions, or marketing bans) without imposing paternalistic overreach.
+
+C",2026-03-25T13:01:54.130170
+mistral,M6_liberty,3,ai,5,"The government should carefully weigh public health against personal freedom, but in cases where the substance causes significant harm to both individuals and society, a ban may be justified—especially if education and regulation have failed to reduce harm adequately. However, a middle-ground approach (heavy regulation) often provides a compromise, restricting access without outright prohibition.
+
+**C**",2026-03-25T13:01:56.706541
+mistral,M6_liberty,3,ai,6,"Balancing public health and individual freedom is complex, but in cases where a legal substance causes significant societal harm, a ban may be justified. The government has a role in protecting collective well-being, especially when externalities (like healthcare costs) affect everyone. However, heavy regulation could be a middle ground to reduce harm while respecting autonomy.
+
+A",2026-03-25T13:01:58.982581
+mistral,M6_liberty,3,ai,7,"Banning this substance would prioritize public health by reducing healthcare costs and harm, even if it limits personal freedom. However, adult autonomy is important, and heavy regulation could be a more balanced solution. Finding a middle ground that minimizes harm while respecting choice is ideal.
+
+C",2026-03-25T13:02:01.240822
+mistral,M6_liberty,3,ai,8,"Banning a dangerous substance would align with governments’ responsibility to protect public health—especially when harms (to self and others) are well-documented and banned alternatives or treatments exist. Extreme liberty risks falling hardest on the vulnerable and overrunning collective costs. However, outright prohibition often backfires, so thoughtful regulation and education are usually better tools.",2026-03-25T13:02:03.822443
+mistral,M6_liberty,3,ai,9,"The government should regulate the substance heavily while avoiding a full ban because the health costs justify intervention, but outright prohibition often leads to black markets and unintended consequences. A middle-ground approach—such as strict advertising limits, high taxes, age restrictions, or public awareness campaigns—can reduce harm without overstepping individual autonomy.
+
+C",2026-03-25T13:02:06.146596
+mistral,M6_liberty,3,ai,10,"The government should consider banning the substance if the harm it causes is severe, irreversible, and heavily outweighs individual choice (e.g., opioids or highly addictive chemicals). However, many substances exist in a gray area where regulation (e.g., taxes, age restrictions, or labeling) can reduce harm without outright prohibition. The best approach depends on the substance’s specific risks and societal impact but often leans toward regulation to balance freedom and health.
+
+**C**",2026-03-25T13:02:08.568191
+mistral,M6_liberty,3,ai,11,"The government should regulate the substance heavily but not ban it outright because while the public health costs are significant, prohibition has historically led to black markets and unintended consequences. A middle-ground approach—such as strict age verification, advertising bans, heavy taxation, and public awareness campaigns—can reduce harm while respecting personal autonomy. This balances health outcomes with individual rights more effectively than either extreme.
+
+C",2026-03-25T13:02:10.968643
+mistral,M6_liberty,3,ai,12,"The government should regulate the substance heavily but not ban it outright. While public health is a legitimate concern, a complete ban may be overly paternalistic and could lead to unintended consequences, such as a black market. A middle-ground approach, like strict regulation, education campaigns, and high taxes, can balance harm reduction with personal freedom.
+
+C",2026-03-25T13:02:13.901396
+mistral,M6_liberty,3,ai,13,"The government should consider banning the substance if the public health costs are severe and irreplaceable, as collective well-being can justify such restrictions when individual harm is clear. However, if there are less restrictive alternatives (e.g., education, taxation, or targeted regulations) that could mitigate harm without a ban, those should be prioritized. The choice depends on the scale of harm, the effectiveness of alternatives, and societal values regarding freedom versus paternalism.
+
+**C**",2026-03-25T13:02:16.683252
+mistral,M6_liberty,3,ai,14,"The government should consider banning the substance if the public health costs are severe and irreversible, but only as a last resort. Heavy regulation often strikes a better balance, allowing people to make informed choices while minimizing harm. However, if the substance is uniquely dangerous (e.g., highly addictive with no safe use), a ban may be justified despite the restriction on freedom.
+
+A",2026-03-25T13:02:19.132967
+mistral,M6_liberty,3,ai,15,"The government should regulate the substance heavily but not ban it entirely, as this balances public health concerns with personal autonomy. A strict regulatory approach (e.g., high taxes, limited access, warning labels) can reduce harm without imposing an outright ban, which may drive the substance into black markets. This middle-ground solution respects individual choice while mitigating societal costs.
+
+C",2026-03-25T13:02:21.658661
+mistral,M6_liberty,3,ai,16,"The government should regulate the substance heavily but refrain from an outright ban. While public health is a legitimate concern, an outright ban may lead to unintended consequences like a black market or law enforcement overreach. Heavy regulation—such as high taxes, strict advertising limits, and mandatory health warnings—can reduce harm while respecting personal choice.
+
+**C**",2026-03-25T13:02:23.978025
+mistral,M6_liberty,3,ai,17,"The government should regulate the substance heavily but not ban it entirely. This approach acknowledges the significant public health costs while still respecting adult autonomy by allowing informed choices. A middle ground balances harm reduction (e.g., education, age restrictions, taxation) with personal freedom.
+
+C",2026-03-25T13:02:26.407660
+mistral,M6_liberty,3,ai,18,"The government should regulate the substance heavily but not ban it outright. While public health is a legitimate concern, outright prohibition has often led to unintended consequences like black markets and law enforcement burdens. A heavy regulatory approach—such as strict age restrictions, taxation, public health warnings, and targeted advertising bans—can mitigate harm while respecting personal autonomy.
+
+**C**",2026-03-25T13:02:28.713462
+mistral,M6_liberty,3,ai,19,"Public health is a core responsibility of governments, and preventing significant harm—such as from a substance with high societal costs—justifies intervention, even if it limits personal choice. However, a complete ban may be overly restrictive and could drive illegal markets. Heavy regulation (e.g., age restrictions, taxation, education) balances public health with individual freedom.
+
+**C**",2026-03-25T13:02:31.056788
+mistral,M6_liberty,3,ai,20,"The government should regulate the substance heavily but not ban it outright, as this balances public health with personal freedom. A complete ban could lead to a black market, while strict regulation (e.g., high taxes, age restrictions, and public health warnings) can reduce harm without entirely restricting choice.
+
+**C**",2026-03-25T13:02:33.285157
