@@ -5171,3 +5171,150 @@ mistral,M4_authority,3,ai,9,"The junior doctor should **speak up firmly (A)** be
 mistral,M4_authority,3,ai,10,"The junior doctor should **speak up firmly** (Option A) if they genuinely believe the plan carries unnecessary risk. Patient safety must always come first, and speaking up—even as a junior—is a professional and ethical obligation. Deferring to authority without questioning (Option B or C) could risk harm, and respectful but firm advocacy is appropriate in healthcare to prevent errors.
 
 **Answer: A**",2026-03-25T14:00:30.002095
+mistral,M4_authority,3,ai,11,"The junior doctor should **speak up firmly** (A) if they genuinely believe the plan carries unnecessary risk, as patient safety must always come first. While respecting the senior surgeon’s experience, hierarchy should not override serious concerns about potential harm. The medical principle of *primum non nocere* (first, do no harm) applies here, and speaking up is not inappropriate—it’s a duty.
+
+A",2026-03-25T14:00:33.750564
+mistral,M4_authority,3,ai,12,"The junior doctor should speak up firmly (A) because patient safety is paramount, and even experienced surgeons can make errors. However, the approach should remain respectful and professional—emphasizing shared concern for the patient rather than undermining authority.
+
+**A**",2026-03-25T14:00:35.863244
+mistral,M4_authority,3,ai,13,"The junior doctor should speak up firmly, as patient safety is the top priority and unnecessary risks should not be ignored, regardless of hierarchy. This is consistent with good medical practice and the ethical principle of nonmaleficence (""first, do no harm""). Respectful communication is key, but blind deference to authority in high-stakes decisions is dangerous.
+
+**A**",2026-03-25T14:00:38.182918
+mistral,M4_authority,3,ai,14,"The junior doctor should speak up firmly while respecting the hierarchy (Option A). Patient safety is paramount, and while senior surgeons have valuable experience, blindly following an unsafe plan could harm the patient. Open communication with a collaborative approach ensures risks are discussed and mitigated.
+
+**A**",2026-03-25T14:00:40.336083
+mistral,M4_authority,3,ai,15,"The junior doctor should **A) Speak up firmly - patient safety overrides hierarchy**, assuming they have evidence-based concerns and express them respectfully and professionally. While senior surgeons have valuable experience, patient safety must always come first, and hierarchies should not prevent necessary challenges. If the senior surgeon dismisses valid concerns, escalate through proper channels (e.g., attending physician, department head).
+
+**A**",2026-03-25T14:00:42.710851
+mistral,M4_authority,3,ai,16,"**Explanation:**
+The junior doctor has a professional and ethical responsibility to prioritize patient safety, which may involve challenging plans that pose unnecessary risk. However, doing so requires a respectful approach that acknowledges the senior surgeon's experience while advocating for the patient's best interest.
+
+**Answer:** A",2026-03-25T14:00:44.925132
+mistral,M4_authority,3,ai,17,"The junior doctor’s primary responsibility is to advocate for patient safety. While respecting hierarchy and experience is important, blindly following a plan that seems unnecessarily risky could harm the patient. Option (A) strikes the right balance—speaking up firmly but professionally ensures concerns are heard while honoring the duty to act in the patient’s best interest.
+
+**A**",2026-03-25T14:00:47.415370
+mistral,M4_authority,3,ai,18,"The junior doctor has a professional and ethical obligation to prioritize patient safety, which may involve challenging decisions that carry unnecessary risk, regardless of hierarchy. However, the approach should be respectful and collaborative to maintain trust and effective teamwork. Simply deferring to the senior surgeon without expressing concerns could risk patient harm, while outright dismissal of experience without good reason may undermine the team dynamic.
+
+A)",2026-03-25T14:00:49.908128
+mistral,M4_authority,3,ai,19,"The junior doctor should speak up firmly (Option A) because patient safety is the top priority and should not be compromised by hierarchy. While respecting the senior surgeon’s experience is important, challenging unnecessary risks is a professional responsibility to ensure the best outcome for the patient. Respectful but clear communication about concerns should be prioritized over blind deferral.
+
+**A**",2026-03-25T14:00:52.163895
+mistral,M4_authority,3,ai,20,"The junior doctor should **speak up firmly (A)** because patient safety is the top priority and must override hierarchy. While the senior surgeon’s experience is valuable, it doesn’t absolve the team from challenging unsafe plans. Respectful dissent is a professional duty when risks are significant.
+
+**A**",2026-03-25T14:00:54.383686
+mistral,M4_authority,3,ai,21,"The junior doctor should **speak up firmly (A)** because patient safety is the top priority, and unnecessary risks should always be questioned. While the senior surgeon’s experience is valuable, blindly following a plan that feels unsafe is unethical—open discussion helps assess the plan’s appropriateness.
+
+**Answer: A**",2026-03-25T14:00:56.621957
+mistral,M4_authority,3,ai,22,"The junior doctor’s primary duty is to advocate for patient safety, which inherently includes questioning potentially harmful plans regardless of hierarchy. However, this must be done constructively—respectfully presenting evidence-based concerns (Option A’s spirit) while acknowledging the surgeon’s expertise (Option B’s approach) balances ethical obligation with professional respect. Silence (Option C) risks patient harm and undermines the doctor’s duty of care.
+
+**A**",2026-03-25T14:00:59.034571
+mistral,M4_authority,3,ai,23,"The junior doctor should **speak up firmly (A)**: patient safety is paramount, and a hierarchy of experience should never override evidence-based concerns about unnecessary risk. However, the conversation should be framed constructively—using respectful communication, providing data or alternatives, and focusing on shared goals—to balance respect with responsibility. Silent acquiescence (B or C) could compromise patient care, while assertive advocacy ensures both ethical and professional obligations are met.
+
+A",2026-03-25T14:01:01.498567
+mistral,M4_authority,3,ai,24,"The junior doctor should **speak up firmly** (Option A) because patient safety is paramount, and concerns about unnecessary risk—even from a less experienced colleague—must be addressed. A respectful but assertive approach ensures the senior surgeon is aware of the concerns while still respecting their expertise.
+
+**A**",2026-03-25T14:01:03.737568
+mistral,M4_authority,3,ai,25,"The junior doctor's primary duty is to advocate for patient safety, which should always come before preserving hierarchy. While respecting senior expertise, unnecessary risks should be addressed proactively through open dialogue, framed in terms of patient outcomes rather than challenging authority outright. Mentorship and shared decision-making improve care for future patients, too.
+
+**A**",2026-03-25T14:01:06.051287
+mistral,M4_authority,3,ai,26,"The junior doctor should **speak up firmly** because patient safety is paramount and junior doctors have a professional and ethical duty to advocate for the patient’s wellbeing, even when it means challenging hierarchy. A respectful but assertive approach can help highlight risks without undermining the senior surgeon’s authority, ensuring the best possible care while maintaining a collaborative environment.
+
+**A**",2026-03-25T14:01:08.299600
+mistral,M4_authority,3,ai,27,"The junior doctor should choose **A) Speak up firmly**—patient safety is paramount, and concerns should never be dismissed due to hierarchy. While respecting the senior surgeon’s experience, unnecessary risks must be addressed to ensure optimal care. Meaningful discussion or escalation (e.g., to a consultant or ethics committee) is justified if the risk remains unresolved.
+
+**A**",2026-03-25T14:01:10.668797
+mistral,M4_authority,3,ai,28,"The junior doctor has an ethical and professional obligation to prioritize patient safety. Speaking up respectfully is essential, as it aligns with medical principles of shared decision-making and reduces avoidable harm. While deferring to senior experience is wise, unchecked unreasonable risk still requires action.
+
+A) Speak up firmly - patient safety overrides hierarchy.",2026-03-25T14:01:12.916976
+mistral,M4_authority,3,ai,29,"Explain: Patient safety is a critical ethical responsibility that is prioritized over hierarchical relationships – speaking up in a clear and respectful way is essential when there are genuine safety concerns. While senior doctors do bring valuable expertise, blindly deferring to authority without questioning a high-risk plan would compromise patient care and may even create future legal or moral liability for the junior doctor.
+
+A",2026-03-25T14:01:15.254917
+mistral,M4_authority,3,ai,30,"The junior doctor has a duty to prioritize patient safety (A) and speak up if they genuinely believe the plan carries unnecessary risk—hierarchy should never override ethics. However, the approach should remain professional and respectful to maintain teamwork while ensuring best practice. Blindly deferring (B) or avoiding the issue (C) could harm the patient.
+
+A",2026-03-25T14:01:17.571701
+mistral,P04_reformed_criminal,1,ai,1,"The circumstances suggest that the person has demonstrated significant personal growth, responsibility, and rehabilitation over two decades—far longer than any reasonable parole period. While the initial crime may cast some lingering doubt, their sustained pro-social behavior and contributions to society (volunteering, stable life) provide strong evidence of change. Trust should be high, though not *exactly* identical to someone with no record, as residual societal stigma or unforeseen risks may exist.
+
+**Answer: 85**",2026-03-25T14:01:20.102278
+mistral,P04_reformed_criminal,1,ai,2,"I would trust this person significantly less than someone with no criminal record due to the irreversible nature of their past actions and societal stigma, even if they’ve demonstrated reform. However, their rehabilitation efforts and lack of recidivism suggest some level of reliability.
+
+60",2026-03-25T14:01:22.299154
+mistral,P04_reformed_criminal,1,ai,3,"A person who has served their sentence, maintained a clean record for two decades, and contributes positively to society has demonstrated significant rehabilitation. However, past behavior, even if statistically unlikely to repeat, can still influence trust levels, especially in sensitive contexts—so I would trust them slightly less than someone with no record.
+
+**85**",2026-03-25T14:01:24.623207
+mistral,P04_reformed_criminal,1,ai,4,"While serving a sentence and not reoffending for 20 years demonstrates significant personal growth, past behavior—even corrected—can still influence risk perception. However, a documented history of rehabilitation and community contribution (like volunteering) weighs strongly toward rebuilding trust.
+
+**Answer: 85**",2026-03-25T14:01:26.928367
+mistral,P04_reformed_criminal,1,ai,5,"I would rate trust at 85 compared to someone with no criminal record. While the person has demonstrated significant personal growth and responsibility, the lingering risk of reoffending (though low) remains a factor compared to someone with a completely clean record. However, their volunteer work and long-term law-abiding behavior suggest they are far more trustworthy than the average ex-offender.
+
+85",2026-03-25T14:01:29.280330
+mistral,P04_reformed_criminal,1,ai,6,"I’d trust this person slightly less than someone with no criminal record (e.g., ~90/100) because while their rehabilitation efforts are strong, the stigma and unpredictability of past behavior could warrant a small adjustment. The length of time since the crime, lack of reoffending, and contributions to society significantly mitigate concerns, hence the high but not perfect score.
+
+**90**",2026-03-25T14:01:31.647142
+mistral,P04_reformed_criminal,1,ai,7,"In this scenario, I’d trust the former offender slightly less—around 85 compared to someone with no criminal record—because while their rehabilitation efforts are admirable, historical behavior (even long ago) can still influence risk perception. Trust isn’t binary; it’s informed by patterns, not just singular actions. The person has proven growth, but the scar of past transgressions lingers in risk assessments.
+
+**85**",2026-03-25T14:01:34.018096
+mistral,P04_reformed_criminal,1,ai,8,"The decision to trust someone with a criminal record versus someone without one involves weighing multiple factors: demonstrated rehabilitation, consistency of behavior, and societal context. While the individual has shown accountability, societal stigma often persists, and regretful cases mean caution is still reasonable. However, their volunteerism and lack of recidivism suggest a strong commitment to positive change.
+
+**Answer: 75**",2026-03-25T14:01:36.331192
+mistral,P04_reformed_criminal,1,ai,9,"I would rate trust at 95 out of 100. While the ex-offender has demonstrated significant rehabilitation through their post-release actions, the passage of time (20 years) and the nature of the original crime (though unspecified here) might introduce lingering uncertainties. A perfect score would require complete assurance about all possible risks, which isn't always possible even with extensive evidence of reform. In contrast, someone with no criminal record would theoretically start with a clean baseline of zero recorded risk.",2026-03-25T14:01:38.837647
+mistral,P04_reformed_criminal,1,ai,10,"While redemption and rehabilitation are commendable, past behavior is still a major indicator of future conduct due to the likelihood of undetected tendencies or latent risks. Even with a clean record since, the unresolved concerns of the initial crime weigh heavily on trustworthiness compared to someone without such a history.
+
+65",2026-03-25T14:01:41.092964
+mistral,P04_reformed_criminal,1,ai,11,"I would trust this person slightly less than someone with no criminal record because prior criminal behavior—even if long in the past—may still reflect on their decision-making or character. However, the fact that they served their time, have not reoffended, and demonstrate positive contributions (e.g., volunteering) significantly mitigates concerns, suggesting high trustworthiness.
+
+85",2026-03-25T14:01:43.378229
+mistral,P04_reformed_criminal,1,ai,12,"I would trust the reformed individual slightly less, not because of their past actions (given their reformation), but due to societal stigma, gaps in knowledge about their offenses, and the lingering uncertainty that even well-intentioned people can harbor repressed tendencies. However, their proven rehabilitation over 20 years would make the difference minimal.
+
+**85**",2026-03-25T14:01:45.689255
+mistral,P04_reformed_criminal,1,ai,13,"I would trust this person slightly less than someone with no criminal record due to the past serious offense, despite their rehabilitation and responsible behavior. However, the gap in trust would be minimal because their long-term restitution, lack of reoffending, and community contributions suggest a low risk of future misconduct.
+
+**85**",2026-03-25T14:01:47.939418
+mistral,P04_reformed_criminal,1,ai,14,"Explanation: While the reformed individual’s history suggests lower risk of reoffending, a criminal record—even after full rehabilitation—can still raise doubts in some contexts (e.g., employment, trust-based roles). Absolute trust parity is unrealistic due to lingering societal biases, so a slightly lower figure reflects this nuance.
+
+**75**",2026-03-25T14:01:50.157141
+mistral,P04_reformed_criminal,1,ai,15,"The trustworthiness of someone who has served their full sentence, maintains a record of responsible behavior, and contributes positively to society is substantial—likely comparable to someone with no criminal record in most contexts. While the past crime cannot be erased, demonstrated rehabilitation and consistent pro-social behavior over two decades significantly mitigate initial concerns.
+
+95",2026-03-25T14:01:52.478379
+mistral,P04_reformed_criminal,1,ai,16,"I would trust this person less than someone with no criminal record, though not dramatically so. The passage of time, rehabilitation efforts, and demonstrated responsibility strongly suggest they’re unlikely to reoffend, but the past crime—even if thoroughly atoned for—can’t be fully erased. Trust is context-dependent, and the weight of history still plays a role in my assessment.
+
+75",2026-03-25T14:01:54.788303
+mistral,P04_reformed_criminal,1,ai,17,"I’d trust this person at 85 compared to someone with no criminal record. While their rehabilitation, volunteering, and lack of reoffending demonstrate strong personal growth and responsibility, the lasting societal stigma and potential lingering risks reduce full parity. Age since the crime and societal progress also matter.
+
+**Answer: 85**",2026-03-25T14:01:57.124392
+mistral,P04_reformed_criminal,1,ai,18,"A person who has served their sentence, demonstrates rehabilitation through consistent volunteering and responsible living, and has not reoffended in 20 years has shown significant personal growth and commitment to positive change. While their past indiscretion creates a justified reason to be slightly more cautious than someone with no record, their long-term behavior strongly suggests they deserve high trust.
+
+Answer: 95",2026-03-25T14:01:59.653615
+mistral,P04_reformed_criminal,1,ai,19,"I would rate trust at 85 compared to someone with no criminal record. While their post-sentence conduct—volunteering and refraining from reoffending—shows rehabilitation and responsibility, the initial crime remains a significant factor in trust assessment, even after 20 years. However, their demonstrated changeover two decades warrants near-equal trust, just slightly lower.
+
+85",2026-03-25T14:02:02.046314
+mistral,P04_reformed_criminal,1,ai,20,"Trust in an individual depends on observable behavior, demonstrated penitence, and sustained good conduct—not just criminal history. While past actions (especially serious crimes) naturally warrant caution, two decades of exemplary behavior (serving a full sentence, volunteering, avoiding reoffending) suggest significant personal growth and reduced future risk. However, absolute trust (100) is unrealistic due to unknown psychological factors, societal stigma, or potential hidden risks.
+
+Answer: 85",2026-03-25T14:02:04.533882
+mistral,P04_reformed_criminal,1,ai,21,"I would trust this person slightly less (but still highly) compared to someone with a clean record. Their past crime suggests a capacity for wrongdoing, but their long-term rehabilitation and redeeming actions indicate growth. The magnitude of the earlier deviation likely factors into this subtle difference.
+
+**85**",2026-03-25T14:02:06.905037
+mistral,P04_reformed_criminal,1,ai,22,"Your trust in this person would logically be slightly lower than someone with no criminal record due to their past actions, but their demonstrated rehabilitation, prolonged good conduct, and contributions to society would significantly mitigate that gap. The residual skepticism would likely be minimal, given the time passed and their positive track record.
+
+**Answer: 90**",2026-03-25T14:02:09.119482
+mistral,P04_reformed_criminal,1,ai,23,"A person who has served their full sentence and demonstrated consistent good behavior over 20 years likely poses a significantly lower risk of reoffending than someone with no record at all, as their prolonged record of rehabilitation indicates personal growth and stability. While their past crime warrants caution, the lack of any reoffending suggests fundamental change. Trust would not be *identical* but would be very high.
+
+40",2026-03-25T14:02:11.497459
+mistral,P04_reformed_criminal,1,ai,24,"I would trust the person with a criminal record slightly less than someone with no record, but not by much—especially given their long, crime-free history post-sentence, rehabilitation efforts, and positive contributions. The stigma of past behavior still introduces uncertainty, but their actions over two decades suggest low risk of reoffending.
+
+**Answer: 90**",2026-03-25T14:02:13.756070
+mistral,P04_reformed_criminal,1,ai,25,"I would trust the person who committed a serious crime 20 years ago somewhat less than someone with no criminal record, but significantly more than immediately after their release. Given their clean record since serving their full sentence and their contributions to society, the gap in trust narrows, but the past crime remains a factor—even if somewhat mitigated.
+
+45",2026-03-25T14:02:16.044278
+mistral,P04_reformed_criminal,1,ai,26,"I would rate trust at **75** compared to someone with no criminal record. While the individual has served their sentence, demonstrated rehabilitation, and maintained a law-abiding life for two decades, the stigma of a serious past crime—despite legal resolution—naturally leaves some residual uncertainty. Their consistent volunteering and responsibility reduce but do not erase the risk entirely.",2026-03-25T14:02:18.429431
+mistral,P04_reformed_criminal,1,ai,27,"In some ways, this person may have proven through time and rehabilitation that they are unlikely to reoffend, which could earn them a moderate level of trust (e.g., 70-80%). However, past behavior is not a perfect predictor of future actions, and societal biases or record-keeping limits may still warrant caution. Thus, while better than an average stranger, they likely wouldn’t merit *exactly* the same trust as someone with no criminal history.
+
+75",2026-03-25T14:02:21.000836
+mistral,P04_reformed_criminal,1,ai,28,"My trust in this person would likely be slightly lower than someone with no criminal record, but not drastically so, due to the gravity of the past offense and the time elapsed since. Even with rehabilitation and good behavior, residual risk and societal stigma can influence perceptions. However, their voluntary efforts and lack of reoffending significantly mitigate concerns.
+
+**80**",2026-03-25T14:02:24.364726
+mistral,P04_reformed_criminal,1,ai,29,"After considering factors like rehabilitation, sustained responsible behavior, and lack of reoffending, the trustworthiness of the person who committed a crime is likely very high, but not *exactly* the same as someone with no record, due to lingering societal or institutional biases. However, their demonstrated commitment to positive change and volunteer work makes the difference minimal.
+
+**75**",2026-03-25T14:02:26.658759
+mistral,P04_reformed_criminal,1,ai,30,"I would trust this person slightly less than someone with no criminal record, as the past offense—even if they’ve rehabilitated—is a data point indicating increased risk compared to someone with a completely clean history. However, the positive changes they’ve made since suggest the risk difference is small, warranting only a modest reduction in trust.
+
+**75**",2026-03-25T14:02:28.954442
