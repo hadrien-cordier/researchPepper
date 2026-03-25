@@ -708,3 +708,145 @@ mistral,B03_trust,2,ai,9,"I would send $5. This maximizes the potential for mutu
 mistral,B03_trust,2,ai,10,"I would send $5. This is because sending $5 makes the total tripled to $15 for the other player, which is a substantial amount that could incentivize them to return a fair share (e.g., $7.50), benefiting both parties. This balances generosity with a good return on investment (ROI).
 
 5",2026-03-25T12:58:25.372235
+mistral,B03_trust,2,ai,11,"I would send $5 because it maximizes the potential benefit for both players. By sending half of my total, I triple the amount to $15 for the recipient, which gives them a strong incentive to reciprocate and send back a fair share, ensuring we both profit more than if I sent less or nothing. This strategy balances generosity and self-interest, fostering cooperation.
+
+5",2026-03-25T12:58:28.709510
+mistral,B03_trust,2,ai,12,"I would send $5 because it’s a balanced choice between maximizing potential gains and being risk-averse. Sending $5 triples to $15, which gives the other player enough incentive to return a fair split (e.g., $7.50), likely yielding a profitable outcome for both.
+
+5",2026-03-25T12:58:30.946012
+mistral,B03_trust,2,ai,13,"I would send $5 because it balances potential gain and maintains fairness. Tripling $5 gives the other player $15 to work with, creating a strong incentive for them to reciprocate, which benefits both parties in the long run.
+
+5",2026-03-25T12:58:33.104408
+mistral,B03_trust,2,ai,14,"I would send $5 because it balances risk and reward—tripling the amount could incentivize the other player to return more than the original $5, maximizing mutual gain. Starting with a modest but non-trivial amount gives a fair chance for cooperation without overly exposing myself to loss.
+
+5",2026-03-25T12:58:38.247792
+mistral,B03_trust,2,ai,15,"I would send $5 to maximize mutual benefit and trust. Sending $5 generates $15 for the other player, which they’re more likely to reciprocate generously, increasing overall gains for both parties compared to sending less or nothing.
+
+**5**",2026-03-25T12:58:41.833436
+mistral,B03_trust,2,ai,16,"To maximize potential gains, I would send $10 because the tripled amount would create the largest possible pot ($30) for the other player to work with. If they reciprocate fairly, I end up with more than I started ($20 total), making it a high-reward gamble.
+
+10",2026-03-25T12:58:44.018520
+mistral,B03_trust,2,ai,17,"To maximize potential gains, I would send the full $10. Tripled, the recipient would receive $30, and if they reciprocate fairly by returning half ($15), my net profit would be $5 ($10 sent - $15 returned). While there's a risk of getting nothing back, the 3:1 multiplier incentivizes a higher initial investment to encourage cooperation and higher returns. This aligns with economic game theory principles where mutual trust yields the best outcomes",2026-03-25T12:58:46.584887
+mistral,B03_trust,2,ai,18,"Sending money in this scenario creates an opportunity for mutual benefit due to the tripling effect. If I send $5, the other player receives $15 (tripled). If they return half (for example, $7.50), we both end up better off than if no exchange occurred.
+
+4",2026-03-25T12:58:50.726432
+mistral,B03_trust,2,ai,19,"Sending $5 balances risk and reward—it's enough to potentially triple to $15, incentivizing the other player to return a fair share while limiting potential loss if they don’t reciprocate. A smaller amount (e.g., $1) risks low impact, while larger amounts (e.g., $10) could leave nothing if the other player returns little or nothing.
+
+5",2026-03-25T12:58:53.618078
+mistral,B03_trust,2,ai,20,"I would send $5. This is a balanced choice, maximizing potential gains while minimizing risk. The tripled amount could incentivize the other player to return a higher sum, creating a profitable exchange.
+
+5",2026-03-25T12:58:55.718410
+mistral,B03_trust,2,ai,21,"I would send $5. This is because the tripled amount ($15) provides a strong incentive for the other player to return more than the original $5 I sent, potentially leading to a positive outcome for both parties. Additionally, sending half maximizes the potential gain while minimizing my risk.
+
+5",2026-03-25T12:58:57.921714
+mistral,B03_trust,2,ai,22,"To maximize collective gains, I would send $10. Since sending $10 triples to $30, we can both benefit if the receiver returns at least $5, leaving each with $15—more than the original $10 each started with. Trusting cooperation ensures fairness.
+
+10",2026-03-25T12:59:00.108995
+mistral,B03_trust,2,ai,23,"I would send $5. This maximizes the potential benefit while leaving me with some funds in case the exchange doesn't go as planned. It also incentivizes the other player to return at least $5 to ensure both of us benefit.
+
+5",2026-03-25T12:59:02.259151
+mistral,B03_trust,2,ai,24,"To maximize the total amount of money, I would send $10. By sending the entire $10, it gets tripled to $30 for the other player. Even if they only return a fraction of it, the total shared ($10 + $30) far exceeds any partial send where the tripled amount would be smaller.
+
+10",2026-03-25T12:59:04.458175
+mistral,B03_trust,2,ai,25,"I would send $5. This amount balances risk and reward—sending less might not incentivize the other player to return enough to make it worthwhile, while sending more could leave me with too little if they don’t reciprocate. Tripling the $5 could lead to a beneficial exchange of $15, where returning even half ($7.50) would net me a profit.
+
+5",2026-03-25T12:59:07.061229
+mistral,B03_trust,2,ai,26,"I would send $5. This amount balances risk and potential reward, as tripling $5 gives the other player $15 to work with, increasing the likelihood of a meaningful return. Sending half also leaves me with some funds if the exchange doesn't yield a return.
+
+5",2026-03-25T12:59:09.816972
+mistral,B03_trust,2,ai,27,"To maximize the potential returns, I would send $5. Sending $5 means the other player receives $15 (since it's tripled), which is a significant incentive for them to reciprocate and send back a substantial amount, leading to mutual profit. Sending less or more might result in smaller gains or risk not incentivizing the other player enough.",2026-03-25T12:59:12.090724
+mistral,B03_trust,2,ai,28,"From a purely rational, self-interested perspective, I should send $0—keeping the full $10 for myself guarantees the highest possible personal payoff with no downside risk. Sending any amount exposes me to the whims of the other player’s response, which could leave me with less than $10 regardless of their choice.
+
+0",2026-03-25T12:59:14.382609
+mistral,B03_trust,2,ai,29,"I would send $5. The tripling effect means the other player receives $15, creating a strong incentive for them to reciprocate. Even a modest return ($7.50) would double my initial investment, making this a rational choice.
+
+5",2026-03-25T12:59:16.530154
+mistral,B03_trust,2,ai,30,"Sending the full $10 maximizes potential collective gain, as it triples to $30 for the other player. Even if they only return half ($15), our total ($15 + $5 = $20) beats keeping it all ($10). Trusting reciprocity often yields better outcomes.
+
+9",2026-03-25T12:59:18.747038
+mistral,B02_dictator,2,human,1,"I would give $50. This is a fair and equitable split that acknowledges the generosity of the exercise without being overly self-sacrificing. It also reflects a balance between personal gain and helping others, which feels reasonable in an abstract scenario without real-world consequences.
+
+50",2026-03-25T12:59:20.933080
+mistral,B02_dictator,2,human,2,"I believe in the principle of fairness and maximizing mutual benefit. Since the recipient cannot reject or respond, I would aim to help them as much as possible while still leaving myself with a reasonable amount. Therefore, I would give them a significant portion but keep enough to feel satisfied.
+
+40",2026-03-25T12:59:23.496831
+mistral,B02_dictator,2,human,3,"I would give $50. This choice reflects a balance between generosity and self-interest—enough to help the other person meaningfully without completely depleting my own resources. It’s a fair middle ground that aligns with the golden rule of treating others as I’d like to be treated.
+
+50",2026-03-25T12:59:25.723578
+mistral,B02_dictator,2,human,4,"I would give $0. While altruism can be noble, the lack of reciprocity or feedback in this scenario makes it feel hollow—I’d rather keep the full $100 for myself. The absence of consequences or validation for giving feels like an empty philanthropy.
+
+0",2026-03-25T12:59:28.024321
+mistral,B02_dictator,2,human,5,"I believe in fairness and cooperation, so I’d give $50. This way, both of us end up with equal amounts, which feels balanced and mutually beneficial. It’s a simple gesture that reinforces shared gain without overcommitting or being overly selfish.
+
+50",2026-03-25T12:59:30.207282
+mistral,B02_dictator,2,human,6,"I would give $25. While I'd prefer to keep the full $100 for myself, this seems like a fair and generous offer that acknowledges another person's presence without making an extreme sacrifice. It balances self-interest with a meaningful gesture.
+
+25",2026-03-25T12:59:32.328271
+mistral,B02_dictator,2,human,7,"I’d give $50. I want to split the money as fairly as possible between myself and the other person, assuming they have equal moral value. It’s a simple, equitable gesture without overthinking it.",2026-03-25T12:59:34.655354
+mistral,B02_dictator,2,human,8,"I would give $50. This ensures you have enough to benefit meaningfully while still retaining half for myself, reflecting a balance of generosity and self-interest that aligns with many human motivations in such scenarios. It also allows the other person to feel valued without feeling overly indebted.
+
+50",2026-03-25T12:59:36.996118
+mistral,B02_dictator,2,human,9,"My choice to give would depend on balancing fairness and generosity. While I could keep all $100 for myself, giving some reflects a desire to share resources. However, since the recipient can’t respond, I wouldn’t want to over-give at my own expense.
+
+70",2026-03-25T12:59:39.189219
+mistral,B02_dictator,2,human,10,"I’d give $50. This feels like a fair midpoint that acknowledges both generosity and self-interest without overcommitting—enough to help meaningfully but not so much that it burdens me. It’s a simple way to balance kindness with practicality.
+
+50",2026-03-25T12:59:41.379175
+mistral,B02_dictator,2,human,11,"My choice would be to give $50. This represents a fair and equitable split of the $100, acknowledging that while I have control over the distribution, the other person benefits without any reciprocity. It reflects a balance between generosity and self-interest.
+
+50",2026-03-25T12:59:43.651871
+mistral,B02_dictator,2,human,12,"My reasoning would depend on a mix of strategic and ethical considerations. Giving too little (e.g., $0) might feel overly selfish and neglect moral responsibility, while giving too much (e.g., $100) might prioritize altruism over self-interest. A balanced choice like $50 splits the benefit fairly between myself and the other person, honoring both generosity and self-preservation.
+
+**50**",2026-03-25T12:59:46.062087
+mistral,B02_dictator,2,human,13,"My decision stems from a mix of fairness and self-interest—I’d aim to balance generosity with retaining enough to feel satisfied myself. Giving around $30 feels like a good middle ground, acknowledging the other person’s benefit while not being overly sacrificial.
+
+30",2026-03-25T12:59:48.449092
+mistral,B02_dictator,2,human,14,"I would give $0 in this scenario. Since the recipient cannot respond or reject the money, my choice does not affect their perception or my own social dynamics—it’s purely transactional. Giving nothing maximizes my own utility without any meaningful consequence to either party.
+
+0",2026-03-25T12:59:51.086150
+mistral,B02_dictator,2,human,15,"My choice is influenced by a mix of self-interest and altruism. While I believe giving nothing is selfish, giving 50 is fair and balanced, while giving 100 is overly generous and potentially wasteful for me. I choose to give 50 to maintain a middle ground—enough to help without unduly harming my own funds.
+
+50",2026-03-25T12:59:53.461420
+mistral,B02_dictator,2,human,16,"I would give $50 because it feels fair and balanced—neither too generous nor selfish. It’s enough to make a meaningful impact on the other person while keeping a worthwhile portion for myself. This choice reflects an equal split as a default position.
+
+50",2026-03-25T12:59:55.677902
+mistral,B02_dictator,2,human,17,"I’d give $100. Since the other person has no choice or agency in this scenario, keeping nothing for myself doesn’t seem to hurt me in any meaningful way while ensuring they receive the maximum benefit. If I were keeping it for myself, I might hesitate, but in this forced act of generosity, giving everything feels the most straightforward.
+
+100",2026-03-25T12:59:57.998575
+mistral,B02_dictator,2,human,18,"I’d give $50 because it feels like a fair and balanced split—not too selfish, but not overly generous either. At the same time, it still leaves me with a meaningful amount while acknowledging the other person’s worth.
+
+50",2026-03-25T13:00:00.104683
+mistral,B02_dictator,2,human,19,"I would likely give around $50 because it seems like a fair and equitable split—both parties benefit equally. This choice balances generosity with self-interest while acknowledging the lack of feedback or reciprocity from the recipient.
+
+**50**",2026-03-25T13:00:02.305036
+mistral,B02_dictator,2,human,20,"My choice is influenced by a mix of altruism, self-interest, and social norms. Giving nothing might feel selfish, but giving everything could leave me with nothing for future opportunities or needs. A moderate gift balances generosity with practicality, reflecting a common societal expectation of fairness without extreme sacrifice.
+
+**50**",2026-03-25T13:00:04.848470
+mistral,B02_dictator,2,human,21,"I would give $50. This is a fair and balanced split, offering a significant amount to both parties without being overly generous or selfish. It reflects a compromise that benefits someone else while still leaving me with a substantial portion.
+
+50",2026-03-25T13:00:07.019648
+mistral,B02_dictator,2,human,22,"I would choose to give $0. The experiment’s setup (no response/rejection) removes social pressure or reciprocity incentives, making altruism optional rather than meaningful. Since giving nothing costs me nothing and maximizes my retained utility, it’s a rational default choice.
+
+**0**",2026-03-25T13:00:09.343112
+mistral,B02_dictator,2,human,23,"I’d give $50. In this scenario, fairness feels most natural—splitting the money evenly avoids overvaluing or undervaluing the other person’s role. It also aligns with reciprocity norms, even though they can’t respond, as if we were in a cooperative exchange.
+
+50",2026-03-25T13:00:11.576030
+mistral,B02_dictator,2,human,24,"My choice is influenced by a mix of fairness and self-interest. While giving away nothing maximizes my personal gain, I recognize that the other person’s wellbeing matters, so I aim for a balanced amount. However, since they can’t respond or reject, a little generosity feels right without significant sacrifice.
+
+**50**",2026-03-25T13:00:13.874243
+mistral,B02_dictator,2,human,25,"I choose to give $50 because it feels like a fair and balanced approach—enough to make a meaningful impact on the other person without depleting my own funds completely. It’s a simple act of generosity without excessive sacrifice.
+
+50",2026-03-25T13:00:16.069984
+mistral,B02_dictator,2,human,26,"My decision is based on considering fairness and mutual benefit. Although the recipient can't respond, I opt for a balanced approach that isn't purely altruistic or selfish. By choosing $50, I'm allocating an equal share to both parties, acknowledging the importance of fairness even in a one-sided interaction.
+
+50",2026-03-25T13:00:18.357461
+mistral,B02_dictator,2,human,27,"Choice: I believe in the principle of fair and equitable distribution, so I would give an amount that reflects mutual benefit and goodwill. 50 dollars feels like a balanced offer that doesn’t overly favor myself or the other person.
+
+Answer: 50",2026-03-25T13:00:20.597937
+mistral,B02_dictator,2,human,28,"I would give around $30-$40. This amount balances personal benefit and generosity—enough to make a meaningful difference to the recipient without being overly sacrificial. It also aligns with common social norms around fairness and reciprocity.
+
+30",2026-03-25T13:00:22.746190
+mistral,B02_dictator,2,human,29,"I would give $50. This amount represents an equal split, reflecting a fair and balanced approach to sharing the money. It’s a significant gesture that doesn’t feel overly generous but still improves the other person’s situation.",2026-03-25T13:00:24.898012
+mistral,B02_dictator,2,human,30,"Giving money to a stranger with no expectation of reciprocity or impact on my own well-being feels like a purely altruistic act. Since the other person can't respond or reject, the amount isn’t influenced by social pressure or guilt. I’d choose a number that reflects a meaningful gesture without making me feel personally burdened—enough to improve their day slightly but not so much that it would cause me financial stress.
+
+**40**",2026-03-25T13:00:27.299940
