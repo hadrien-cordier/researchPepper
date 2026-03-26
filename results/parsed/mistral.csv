@@ -10610,3 +10610,151 @@ mistral,B02_dictator,2,baseline,9,"I would choose to give $50 because it represe
 
 50",2026-03-26T07:51:40.785267
 mistral,B02_dictator,2,baseline,10,"I would give $50. This amount represents a fair and balanced distribution, as it ensures both parties benefit equally from the total sum. Giving half respects the other person’s contribution while maintaining a reasonable allocation for myself.",2026-03-26T07:51:43.413022
+mistral,B02_dictator,2,baseline,11,"I choose to give $50 because it balances fairness and personal gain—leaving both parties with an equal share while still retaining a meaningful amount for myself. This reflects a simple principle of equity without overcommitting to generosity.
+
+50",2026-03-26T07:51:47.226680
+mistral,B02_dictator,2,baseline,12,"I chose to give $50 because it represents a fair and balanced split of the total amount. This ensures both parties receive an equal share without leaving either at a significant disadvantage. It also maintains mutual benefit while still allowing the giver to retain a substantial portion.
+
+50",2026-03-26T07:51:49.419138
+mistral,B02_dictator,2,baseline,13,"I would give $50. This choice balances fairness and generosity while adhering to the one-sided nature of the scenario. The person receiving the money doesn't have the agency to respond or reject, so this amount feels like an equitable middle ground without overcommitting or being too stingy.
+
+50",2026-03-26T07:51:52.008753
+mistral,B02_dictator,2,baseline,14,"I would give $50. This choice represents a fair and balanced split of the $100, acknowledging that both parties are contributing equally to the outcome—me by initiating the gift and the other person by receiving it without choice. It’s a way to split the benefit evenly while maintaining simplicity and neutrality.
+
+50",2026-03-26T07:51:54.313750
+mistral,B02_dictator,2,baseline,15,"I would choose to give $50. This represents a fair and balanced split of the $100, acknowledging that while I benefit from having control over the distribution, the other person deserves a meaningful amount without any strings attached. It reflects generosity without sacrificing my own interests entirely.
+
+50",2026-03-26T07:51:56.648141
+mistral,B02_dictator,2,baseline,16,"I would give $0. While empathy might suggest sharing even a small amount, the lack of reciprocity removes any incentive to donate—the recipient can't respond, and there's no moral or social benefit to myself in this scenario. It’s a purely altruistic decision, but one with no observable impact, making $0 the rational choice.
+
+0",2026-03-26T07:51:59.015609
+mistral,B02_dictator,2,baseline,17,"I would give $0 in this scenario. Since the other person cannot reject or respond, generosity doesn't create any mutual benefit or reciprocity—so there's no compelling reason to give away any of my $100. The outcome is the same regardless of what I choose.
+
+0",2026-03-26T07:52:01.301993
+mistral,B02_dictator,2,baseline,18,"I would give $50. I believe this is fair because it splits the money equally, acknowledging that both parties receive an equal benefit. However, I’d also justify it as a goodwill gesture—since the other person can’t respond, I’d want to ensure they feel valued without overthinking the dynamic.
+
+50",2026-03-26T07:52:03.598205
+mistral,B02_dictator,2,baseline,19,"I’d give $50 because it’s a fair and balanced split, showing generosity while still keeping half for myself. Alternatively, giving $0 might seem selfish, but it aligns with purely self-interested behavior, though $50 strikes a reasonable middle ground.
+
+50",2026-03-26T07:52:05.815716
+mistral,B02_dictator,2,baseline,20,"I would give $100. Since the other person cannot reject or respond, the only impact of my choice is on their welfare, and there’s no personal benefit to keeping any amount. Maximizing their gain aligns with a purely altruistic outcome without sacrificing anything in return. Therefore, giving the full amount is the most efficient choice.
+
+100",2026-03-26T07:52:08.294964
+mistral,B02_dictator,2,baseline,21,"My choice is to give $0. The decision aligns with rational self-interest in this scenario, as keeping the full $100 maximizes my personal gain without any ethical or strategic consequences—the recipient has no power to reciprocate or retaliate. Without the ability to influence future interactions, there’s no tangible benefit to sharing the money.
+
+0",2026-03-26T07:52:10.595195
+mistral,B02_dictator,2,baseline,22,"I would give $50. This choice suggests fairness and a balanced approach to sharing the money. Thus, I believe it’s an amount that respects both equality and generosity without being too extreme.",2026-03-26T07:52:12.759264
+mistral,B02_dictator,2,baseline,23,"I would give $50, assuming the goal is to maximize the total benefit (my remaining $50 plus the other person's $50). This approach balances fairness and generosity, creating the largest combined outcome without favoring one person over the other. It’s a simple, neutral choice that doesn’t overthink the scenario’s constraints.
+
+50",2026-03-26T07:52:15.206977
+mistral,B02_dictator,2,baseline,24,"I would give $50. This choice balances fairness and generosity while acknowledging the one-sided nature of the interaction. Since the recipient has no ability to respond or reciprocate, $50 feels like a reasonable and equitable split of the $100.
+
+50",2026-03-26T07:52:17.579011
+mistral,B02_dictator,2,baseline,25,"I would give $50. This choice balances generosity and personal benefit, as it reflects a fair and equal split of the $100. It’s a conscious decision to share half while still keeping a significant amount for myself.
+
+50",2026-03-26T07:52:19.787246
+mistral,B02_dictator,2,baseline,26,"If I give a larger amount (e.g., $50 or more), the recipient gains significantly, creating more net gain for humanity. Since they cannot reject or respond, there’s no risk of rejection or misuse of funds. This aligns with maximizing overall utility.
+
+**50**",2026-03-26T07:52:22.180176
+mistral,B02_dictator,2,baseline,27,"I would give $10. This ensures I keep most of the money while still acknowledging the receiver's presence in a symbolic way. It reflects a balance between generosity and self-interest, as there's no expectation of reciprocation.
+
+10",2026-03-26T07:52:24.556842
+mistral,B02_dictator,2,baseline,28,"I would give $100. Since the recipient cannot reject or respond, the only way to ensure they receive the maximum benefit is to give them the full amount. Any lesser amount would be arbitrary and fail to optimize their gain, regardless of intent.
+
+100",2026-03-26T07:52:26.799063
+mistral,B02_dictator,2,baseline,29,"I choose to give $0 because the recipient cannot respond or reject the offer, so there's no benefit to giving anything. Additionally, $100 benefits me more than it benefits someone who has no say in the matter.
+
+0",2026-03-26T07:52:29.127960
+mistral,B02_dictator,2,baseline,30,"I would give $50. This amount is large enough to be meaningful to the recipient while still keeping half for myself. It balances fairness and self-interest reasonably well.
+
+50",2026-03-26T07:52:31.381269
+mistral,P12_deathbed_question,1,baseline,1,"The choice that brings the most peace is **B) They were deeply loved by family and friends** because love is the most enduring and fulfilling aspect of life—it transcends achievements, personal principles, or worldly experiences. True peace often comes from connection and belonging, as regrets fade in the presence of deep, reciprocal relationships.
+
+**B**",2026-03-26T07:52:33.810406
+mistral,P12_deathbed_question,1,baseline,2,"The choice that brings the most peace is likely **C) They lived according to their principles**, because authenticity and integrity provide a quiet, enduring sense of rightness. While achievements, love, or experiences are external and often fleeting, aligning one’s life with deeply held values is an internal compass that rarely leads to regret. It’s a legacy of self rather than others, and that freedom from contradiction is a profound source of contentment.
+
+**C**",2026-03-26T07:52:36.601606
+mistral,P12_deathbed_question,1,baseline,3,"The person who lived according to their principles likely brings the most peace because integrity and authenticity align with a life well-lived, fostering deep self-respect and fulfillment in reflection. While achievements, love, and experiences matter, a life guided by conviction endures internally beyond external validation.
+
+C",2026-03-26T07:52:38.896521
+mistral,P12_deathbed_question,1,baseline,4,"The most peace likely comes from **C) They lived according to their principles**. When looking back, a life aligned with one’s core values provides a sense of integrity and authenticity, free from regret about compromising personal truths for external success or validation. This aligns deeply with philosophical ideas like Stoicism and existentialism, where inner harmony outweighs external achievement or pleasure.
+
+**C**",2026-03-26T07:52:42.502968
+mistral,P12_deathbed_question,1,baseline,5,"The most peace likely comes from **C) They lived according to their principles**, because integrity and authenticity bring deep fulfillment, especially in reflection. While achievements, love, and experiences are meaningful, a life aligned with personal values ensures no regret over compromises or inauthenticity.
+
+C",2026-03-26T07:52:44.852950
+mistral,P12_deathbed_question,1,baseline,6,"The choice that likely brings the most peace is B) they were deeply loved by family and friends. Love and meaningful relationships tend to outweigh achievements or experiences when reflecting on life, as human connection is a core source of fulfillment and joy.
+
+B",2026-03-26T07:52:47.119525
+mistral,P12_deathbed_question,1,baseline,7,"The most peace likely comes from having lived according to one's principles (C). Authenticity and moral consistency foster deep inner satisfaction, as one can look back without regret about compromises or hypocrisy. While the other options bring fulfillment, they may not provide the same sense of integrity and alignment with one's true self.
+
+C",2026-03-26T07:52:49.738328
+mistral,P12_deathbed_question,1,baseline,8,"The person who lived according to their principles (C) will likely find the most peace because integrity with oneself is a quiet, enduring source of satisfaction—unshaken by external validation, loss, or regret. Achievements (A) and experiences (D) are fleeting, and love (B) depends on others’ actions, but principles endure in solitude and memory.
+
+**Answer: C**",2026-03-26T07:52:52.160224
+mistral,P12_deathbed_question,1,baseline,9,"The choice that likely brings the most peace is **C) They lived according to their principles**. True peace at life’s end often comes from knowing you stayed authentic to your values, rather than external achievements, fleeting validation, or endless accumulation. It’s the one thing hard for regret to touch.
+
+C",2026-03-26T07:52:54.644825
+mistral,P12_deathbed_question,1,baseline,10,"The option that brings the most peace is likely **C) They lived according to their principles**. A life aligned with one’s core values—regardless of external achievements or experiences—creates a sense of integrity and self-respect. This consistency with oneself often outweighs fleeting successes or pleasures, providing deep, enduring fulfillment.
+
+**C**",2026-03-26T07:52:57.019463
+mistral,P12_deathbed_question,1,baseline,11,"Achieving great things in work (A) or experiencing the world (D) often leaves behind a legacy or memories, but these can feel hollow if relationships or personal integrity are lacking. Being deeply loved (B) and living by one’s principles (C) provide a quiet, enduring sense of fulfillment that transcends time, as love and integrity are the foundations of a meaningful life rather than its achievements.
+
+**B**",2026-03-26T07:52:59.552501
+mistral,P12_deathbed_question,1,baseline,12,"Achieving deep love (B) brings the most peace because human connections are the foundation of joy and meaning, and being surrounded by those who cherished you leaves a lasting legacy of warmth. Love outlasts achievements or possessions, and a life built on genuine bonds ensures no regret for missed affection. It’s the one thing that endures even after we’re gone.
+
+**B**",2026-03-26T07:53:02.086387
+mistral,P12_deathbed_question,1,baseline,13,"Choosing *B) They were deeply loved by family and friends* brings the most peace because love is a universal human need that transcends achievements or experiences. Having a life filled with meaningful relationships provides emotional fulfillment and security, which often outweighs material or personal accomplishments in the final reflection.
+
+B",2026-03-26T07:53:04.474100
+mistral,P12_deathbed_question,1,baseline,14,"The most profound peace at the end of life often comes from living by one’s principles (C), because integrity brings inner harmony regardless of external achievements or transient pleasures. While achievements (A) and love (B) are deeply fulfilling, they can be fleeting or outside one’s control; experiencing the world (D) offers joy but may lack lasting meaning. Principles anchor the soul when everything else fades.
+
+C",2026-03-26T07:53:07.035365
+mistral,P12_deathbed_question,1,baseline,15,"The option that likely brings the most peace is **C) They lived according to their principles**, because integrity and authenticity often lead to the deepest sense of fulfillment and contentment, regardless of external achievements or experiences. While great work, love, or adventure can bring joy, they may still leave unresolved questions about whether one stayed true to themselves. In contrast, a life aligned with one's values tends to erase regret and foster lasting inner harmony.
+
+C",2026-03-26T07:53:09.450373
+mistral,P12_deathbed_question,1,baseline,16,"Choosing to live according to one’s principles (C) brings the most peace because integrity allows a person to look back without regret, knowing they stayed true to themselves despite external outcomes. This alignment between values and actions fosters deep self-respect and contentment, regardless of fleeting achievements or material gains.
+
+C",2026-03-26T07:53:11.734232
+mistral,P12_deathbed_question,1,baseline,17,"The choice that likely brings the most peace is **C) They lived according to their principles**. True fulfillment at the end of life comes not from external achievements, fleeting love, or material experiences, but from inner integrity and the quiet satisfaction of knowing you stayed true to what mattered most to you. This aligns with the Stoic ideal of *eudaimonia*—flourishing through virtue—and leaves little room for regret.
+
+**C**",2026-03-26T07:53:14.336387
+mistral,P12_deathbed_question,1,baseline,18,"Living according to one’s principles (C) brings the most peace because it fosters self-respect and internal harmony, regardless of external validation or outcomes. While achievements, love, and experiences matter, a life aligned with core values leaves the least regret, as it reflects authenticity rather than societal or circumstantial approval.
+
+**C**",2026-03-26T07:53:16.727257
+mistral,P12_deathbed_question,1,baseline,19,"The option that likely brings the most peace is **C) They lived according to their principles**, because a life aligned with personal values provides inner harmony and fulfillment, regardless of external achievements or fleeting experiences. It’s a quieter but more enduring form of success that doesn’t rely on others’ opinions or circumstances.
+
+**C**",2026-03-26T07:53:19.017463
+mistral,P12_deathbed_question,1,baseline,20,"The choice that brings the most peace is likely C) They lived according to their principles, because aligning actions with deeply held values fosters a sense of integrity and authenticity. Unlike transient achievements or external validation, principles provide a consistent compass for life, reducing regret and cultivating contentment.
+
+C",2026-03-26T07:53:21.238810
+mistral,P12_deathbed_question,1,baseline,21,"The choice that likely brings the most peace is **C) They lived according to their principles**, because aligning one’s life with core values—rather than external achievements, fleeting love, or endless experiences—creates a sense of integrity and authenticity. It allows the person to reflect on a life of purpose and self-respect, which often outweighs other forms of fulfillment in the long run.
+
+**C**",2026-03-26T07:53:23.713511
+mistral,P12_deathbed_question,1,baseline,22,"Choosing (C) — living according to one's principles — likely brings the most peace because it ensures internal consistency between values and actions, minimizing regrets rooted in hypocrisy or self-betrayal. When a life is guided by integrity, the weight of external achievements, fleeting love, or unfulfilled curiosity no longer dictates lasting satisfaction. The clarity of a principled life offers a quiet confidence that resonates deeply in reflection.
+
+**C**",2026-03-26T07:53:27.902269
+mistral,P12_deathbed_question,1,baseline,23,"The person who lived according to their principles will likely find the most peace because integrity and authenticity reduce regret. While achievement, love, and experience are valuable, nothing fosters inner harmony like knowing you stayed true to what you believed in, even when it was difficult. The other paths can bring fulfillment, but they may also carry doubt or unmet expectations.
+
+C",2026-03-26T07:53:30.319082
+mistral,P12_deathbed_question,1,baseline,24,"Choosing option (B) ensures the deepest emotional fulfillment because love is the foundation of meaningful relationships, which often outlast personal achievements or experiences. Even if principles or adventures brought joy, their absence would leave hollow victories, whereas love endures in memories and connections.
+
+**B**",2026-03-26T07:53:32.635887
+mistral,P12_deathbed_question,1,baseline,25,"The path that brings the most peace is likely living according to one’s principles (C), because integrity offers an internal consistency that doesn’t depend on external validation or fleeting achievements and memories. Having lived with authenticity often means there’s little regret, and the knowledge that one stayed true to themselves can provide profound comfort.
+
+C",2026-03-26T07:53:35.098042
+mistral,P12_deathbed_question,1,baseline,26,"Choosing to live according to one's principles (C) brings the most peace in the end because integrity aligns actions with one's deepest values, creating a sense of harmony and authenticity. Unlike external achievements or experiences, principles provide an unshakable internal compass, ensuring that one's life reflects what they truly believed in, which outweighs fleeting accolades or novelty.
+
+**C**",2026-03-26T07:53:37.630849
+mistral,P12_deathbed_question,1,baseline,27,"The choice that brings the most peace is likely C) They lived according to their principles. When looking back, regret often stems from straying from one’s core values, while living authentically—even if imperfectly—provides deep satisfaction. Achievements, love, and experiences are meaningful but transient; integrity leaves a lasting, intrinsic sense of fulfillment.
+
+C",2026-03-26T07:53:40.077560
+mistral,P12_deathbed_question,1,baseline,28,"Achieving great success in work often leaves people isolated in their later years, while chasing experiences can leave a void without deep connections. Being deeply loved, however, provides emotional comfort and a sense of belonging that endures beyond life. Living by principles offers integrity but may lack the warmth of human bonds. Love and relationships tend to bring the deepest, most enduring peace.
+
+B",2026-03-26T07:53:42.719659
+mistral,P12_deathbed_question,1,baseline,29,"The choice that likely brings the most peace is **C) They lived according to their principles**. When reflecting on life, having lived authentically—guided by one’s values rather than external validation, achievements, or pleasures—fosters deep satisfaction. Regret often stems from compromising core values, so integrity tends to outweigh other accomplishments in long-term peace.
+
+**C**",2026-03-26T07:53:45.203859
+mistral,P12_deathbed_question,1,baseline,30,"A life well-lived is ultimately measured by the depth of meaningful connections, not external achievements or material experiences. While all options have value, being deeply loved by family and family and friends provides lasting emotional fulfillment and a sense of belonging—qualities that outlast fleeting accomplishments or individual pursuits.
+
+B",2026-03-26T07:53:47.707124
