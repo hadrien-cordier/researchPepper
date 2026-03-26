@@ -10435,3 +10435,178 @@ mistral,B01_ultimatum,2,human,19,"I would propose to offer the other player $50,
 mistral,B01_ultimatum,2,human,20,"In the ultimatum game, the rational strategy—if the other player is purely self-interested—would be to offer the smallest possible amount (e.g., $1) and pocket the rest, since the other player would accept any positive offer to avoid getting nothing. However, humans often value fairness and reject offers they deem too unequal, so offering a moderate amount (e.g., $30–$40) balances maximizing my gain while reducing the risk of rejection. This reflects real-world behavior where people prioritize equity over pure self-interest.
 
 **40**",2026-03-26T07:49:31.369700
+mistral,B01_ultimatum,2,human,21,"I would offer the other player $1, since most real-world experiments (like the Ultimatum Game) show that people reject unfair offers, even if it means getting nothing. A tiny but positive offer is likely to be accepted, as it’s better than nothing, while a $0 offer risks rejection. This balances self-interest with a realistic expectation of cooperation.
+
+1",2026-03-26T07:49:35.015208
+mistral,B01_ultimatum,2,human,22,"I would offer the other player $1. In the ultimatum game, fairness is often subjective, but the rational choice is to minimize risk while ensuring the offer is not so low that it gets rejected. A tiny offer ($1) still provides the other player with something, reducing the incentive to reject, while maximizing my own gain.
+
+**Answer: 1**",2026-03-26T07:49:37.648450
+mistral,B01_ultimatum,2,human,23,"My strategy would depend on my understanding of human nature in such scenarios. Since people generally value fairness and often reject low offers out of spite, I'd likely offer around 40 dollars to balance my gain with their incentive to accept rather than reject.
+
+40",2026-03-26T07:49:39.878484
+mistral,B01_ultimatum,2,human,24,"I would offer the other player $1, as this is the smallest non-zero amount that still provides them with an incentive to accept (since rejecting gives them nothing). This approach maximizes my personal gain while ensuring the deal goes through, as humans often accept even very unequal splits due to loss aversion or fairness considerations.
+
+**1**",2026-03-26T07:49:42.283976
+mistral,B01_ultimatum,2,human,25,"I would offer the other player $1 (keeping $99 for myself). This is based on the rational self-interest perspective, where the proposer offers the smallest possible amount to incentivize acceptance (since even $1 is better than $0). Research in game theory, like the Ultimatum Game, suggests that people often accept small offers due to the cost of rejecting.
+
+99",2026-03-26T07:49:44.792791
+mistral,B01_ultimatum,2,human,26,"I would offer $1 to the other player. While it may seem unfair, research on the ultimatum game shows that people often reject offers perceived as too low, even if it means getting nothing. By offering a minimal but non-zero amount, I increase the likelihood of acceptance while keeping most of the money for myself. This is a strategic balance between fairness and self-interest.
+
+1",2026-03-26T07:49:47.226671
+mistral,B01_ultimatum,2,human,27,"I would offer the other player $30. Research on the Ultimatum Game suggests that offers below 20-30% of the total are often rejected because they seem unfair, even though the alternative is nothing. Offering $30 balances fairness with self-interest, maximizing my share while avoiding rejection.
+
+30",2026-03-26T07:49:49.675658
+mistral,B01_ultimatum,2,human,28,"I would offer the other player $1 because it's better to get something than nothing if they reject a low offer. It also reflects the minimum amount that might incentivize them to accept the deal.
+
+1",2026-03-26T07:49:52.037331
+mistral,B01_ultimatum,2,human,29,"I would offer the other player $30. This split seems fair and likely to be accepted since they receive a substantial portion, reducing the risk of rejection while still giving me a majority of the money. Most people would rationally accept a guaranteed $30 over nothing.",2026-03-26T07:49:54.300177
+mistral,B01_ultimatum,2,human,30,"Explanation:
+I would offer the other player $1—just slightly more than nothing—to maximize my own gain while still making the offer minimally acceptable. Since rejecting the offer means both get nothing, they have a slight incentive to accept even a tiny amount to avoid getting nothing at all. However, I keep the remaining $99 for myself.
+
+Answer:
+1",2026-03-26T07:49:56.630178
+mistral,B04_allais,2,ai,1,"Choice 1: I choose Option A (1,000,000 euros for certain) because the sure gain outweighs the small chance of losing everything, even though the expected value of Option B is much higher.
+
+Choice 2: I choose Option D (10% chance of 5,000,000 euros, 90% chance of nothing) because the potential for a significantly higher payoff justifies the slightly lower probability compared to Option C.
+
+A, D",2026-03-26T07:49:59.104964
+mistral,B04_allais,2,ai,2,"For Choice 1, I’d prefer **Option A** because the certain 1,000,000 euros eliminate risk, offering stable utility despite the lower expected value (EV = 1,275,000) compared to Option B.
+
+For Choice 2, I’d prefer **Option D** because the potential 5,000,000 euros (EV = 500,000) outweigh the slightly lower chance compared to Option C (EV = 110,000), accepting the higher risk for a large payout.
+
+**A, D**",2026-03-26T07:50:02.111842
+mistral,B04_allais,2,ai,3,"Choice 1: I prefer Option A because the guaranteed amount of 1,000,000 euros removes uncertainty and guarantees the highest *expected* value is achieved (since 89% * 1,000,000 + 10% * 5,000,000 + 1% * 0 = 1,390,000, but the 1% risk of getting nothing outweighs the expected gain for a risk-neutral evaluation).
+
+Choice 2: I prefer Option D because the 10% chance of securing 5,000,000 euros offers a better risk-reward ratio than the 11% chance of only 1,000,000 euros (even though the expected values are similar: 1,000,000 * 0.11 = 110,000 for C vs. 5,000,000 * 0.10 = 500,000 for D).
+
+Answer: A, D",2026-03-26T07:50:05.383554
+mistral,B04_allais,2,ai,4,"For Choice 1, I prefer Option A (certain 1,000,000 euros) because the expected value of Option B (0.89*1,000,000 + 0.10*5,000,000 + 0.01*0 = 1,390,000 euros) is higher, but the risk of losing everything I initially wanted to gamble away isn't worth it. For Choice 2, I prefer Option D (10% chance of 5,000,000 euros) because the expected value (0.10*5,000,000 = 500,000 euros) is significantly higher than Option C's (0.11*1,000,000 = 110,000 euros), and the slightly lower probability is offset by the much larger potential payoff.
+
+A, D",2026-03-26T07:50:08.451855
+mistral,B04_allais,2,ai,5,"For the first choice, I would prefer Option A (certain 1,000,000 euros) because the risk-averse outcome outweighs the small chance of a higher payout. In the second choice, I would prefer Option D (10% chance of 5,000,000 euros) because the expected value (500,000 euros) is higher than Option C's (110,000 euros), even though both are risky.
+
+A, D",2026-03-26T07:50:10.911188
+mistral,B04_allais,2,ai,6,"Choice 1: While Option B offers a higher expected value (€1,395,000 vs. Option A's €1,000,000), the potential loss of the entire amount (1%) introduces unnecessary risk for a marginal gain. I prefer the certainty of Option A.
+Choice 2: Both options have similar risk profiles (low probabilities of high payoffs), but Option D offers a higher potential payout (€5,000,000 vs. €1,000,000) for only a 1% lower chance of winning. I choose Option D.",2026-03-26T07:50:13.584838
+mistral,B04_allais,2,ai,7,"For Choice 1, I prefer Option A because the certain 1,000,000 euros avoids the risk of nothing, aligning with the rationality of risk aversion even if the expected value of Option B (≈1.49M) is higher. For Choice 2, I prefer Option D because the infinitesimal 1% increase in chance of 1M (from 11% to 10%) is outweighed by the vast potential upside of 5M, despite the slight probability trade-off.
+
+A, D",2026-03-26T07:50:16.168918
+mistral,B04_allais,2,ai,8,"For Choice 1, I prefer Option A because the certainty of receiving 1,000,000 euros is preferable to the small chance of gaining more but with a risk of getting nothing. For Choice 2, I prefer Option D because it offers a higher potential reward with only a slight decrease in probability compared to Option C.
+
+**A, D**",2026-03-26T07:50:18.458150
+mistral,B04_allais,2,ai,9,"Choice 1: I prefer receiving a guaranteed payment, so I choose Option A (1,000,000 euros for certain) because it eliminates risk.
+
+Choice 2: Because the risk is already embedded in the problem, I choose Option D (10% chance of 5,000,000 euros) as it aligns with my preference for higher upside despite the slightly lower probability compared to Option C.
+
+A, D",2026-03-26T07:50:20.747278
+mistral,B04_allais,2,ai,10,"**Explanation:**
+For Choice 1, I prefer the certain **Option A** because the risk premium (10% chance of no gain) isn't justified by the relatively small potential upside (5x the amount). For Choice 2, I prefer **Option D** because it offers a higher expected value (0.10 × 5,000,000 = 500,000 vs. 0.11 × 1,000,000 = 110,000) despite still being risky.
+
+**Answer:** A, D",2026-03-26T07:50:25.943581
+mistral,B04_allais,2,ai,11,"Choice 1: I prefer Option A (certain 1,000,000 euros) because it eliminates risk, aligning with risk-averse behavior typical in high-value choices. The expected value of Option B (890,000 + 500,000 + 0 = 1,390,000 euros) is higher, but the volatility and significant downside risk make it less appealing.
+
+Choice 2: I prefer Option D (10% chance of 5,000,000 euros) because the potential payoff is far greater relative to the marginally lower probability compared to Option C. The expected value of Option D (500,000 euros) is much higher than Option C (110,000 euros), making it the more compelling choice.
+
+A, D",2026-03-26T07:50:28.967012
+mistral,B04_allais,2,ai,12,"For **Choice 1**, I prefer **Option A** because the certain reward outweighs the slight gamble of a 1% loss, given the negligible expected gain from the higher prize. For **Choice 2**, I prefer **Option D** because the 10% chance of 5,000,000 euros offers a higher expected payoff (500,000 euros) compared to the meager 11% of 1,000,000 euros (110,000 euros) in Option C.
+
+**A, D**",2026-03-26T07:50:31.699645
+mistral,B04_allais,2,ai,13,"I prefer Option A in Choice 1 because the guaranteed 1,000,000 euros is less risky than the volatile Option B, even though it has a small chance of a bigger payoff. In Choice 2, I prefer Option D because the higher upside of 5,000,000 euros outweighs the slightly lower probability compared to Option C.
+
+A, D",2026-03-26T07:50:35.004230
+mistral,B04_allais,2,ai,14,"For Choice 1, I prefer the certainty of Option A (1,000,000 euros for certain) because the small additional upside of Option B (5,000,000 euros) does not justify the 11% risk of gaining nothing. For Choice 2, I prefer Option D (10% chance of 5,000,000 euros) because it offsets the sure loss of Option C and offers a higher expected value even at the cost of a slightly lower probability.
+
+A, D.",2026-03-26T07:50:37.774852
+mistral,B04_allais,2,ai,15,"1. Explanation:
+For Choice 1, I prefer Option A (the certain €1,000,000) because the expected value of Option B (€1,000,000) is the same, but Option A eliminates the risk of getting nothing, which is psychologically preferable.
+For Choice 2, I prefer Option D (the 10% chance of €5,000,000) because the expected value (€500,000) far exceeds that of Option C (€110,000), and the small reduction in probability (from 11% to 10%) is a reasonable trade-off for the much higher potential reward.
+
+A, D",2026-03-26T07:50:40.960937
+mistral,B04_allais,2,ai,16,"Choice 1: I prefer Option B because the potential for a higher payoff (5,000,000 euros) with a relatively small reduction in the chance of getting 1,000,000 euros (just 11% less) justifies the risk.
+
+Choice 2: I prefer Option D because the higher potential outcome (5,000,000 euros) outweighs the slight difference in probability compared to Option C (10% vs 11% chance of winning).
+
+B, D",2026-03-26T07:50:43.443652
+mistral,B04_allais,2,ai,17,"Choice 1: Option A (certain 1,000,000 euros) over Option B (risky gamble with higher variance). The expected value of Option B is slightly higher (1,350,000 euros), but the 1% chance of nothing introduces significant risk, which I prefer to avoid.
+
+Choice 2: Option D (higher expected value with no downside risk in the winning scenario) over Option C (lower expected value with the same 11% chance of success). The trade-off favors the higher potential payout for the same risk.
+
+A, D",2026-03-26T07:50:46.063688
+mistral,B04_allais,2,ai,18,"For **Choice 1**, I prefer **Option A (1,000,000 euros for certain)** because the guaranteed amount is more reliable, and the potential gain in Option B comes with a 1% risk of losing everything, which isn't worth the marginal extra potential reward.
+
+For **Choice 2**, I prefer **Option D (10% chance of 5,000,000 euros)**. While it's riskier, the expected value (500,000 euros) is much higher than Option C's 110,000 euros, and the probability of success is still non-trivial.
+
+**A, D**",2026-03-26T07:50:48.782920
+mistral,B04_allais,2,ai,19,"**Explanation:**
+For Choice 1, I prefer the certainty of Option A (1,000,000 euros) because the additional upside in Option B (5,000,000 euros) isn't proportionally weighted to compensate for the 1% risk of losing everything. For Choice 2, I prefer Option D (10% chance of 5,000,000 euros) because the expected value (500,000 euros) is significantly higher than Option C's expected value (110,000 euros), despite the riskiness.
+
+**Answers:** A, D",2026-03-26T07:50:51.336866
+mistral,B04_allais,2,ai,20,"Choice 1: I prefer the certainty of €1,000,000 (Option A) because the potential upside of the lottery (Option B) does not outweigh the risk of losing the entire amount.
+Choice 2: I prefer the higher expected value of 10% of €5,000,000 (Option D), even though it is slightly riskier than Option C.
+
+A, D",2026-03-26T07:50:53.814135
+mistral,B04_allais,2,ai,21,"**Explanation:**
+I prefer the certainty of Option A in Choice 1, as the guaranteed 1,000,000 euros outweighs the slight potential gain (or loss) compared to Option B. In Choice 2, I prefer Option D because the 5,000,000 euros reward offers a higher expected value (500,000 euros) than the 1,000,000 euros in Option C (110,000 euros), despite slightly lower probability.
+
+**Answers:** A, D",2026-03-26T07:50:56.326997
+mistral,B04_allais,2,ai,22,"**Explanation:**
+For Choice 1, I prefer Option A (certain 1,000,000 euros) because the guaranteed outcome avoids the risk of losing everything (1% chance) and the expected value gain from Option B (0.89 * 1M + 0.10 * 5M + 0.01 * 0 = 1.39M) isn’t sufficient to justify the risk.
+For Choice 2, I prefer Option D (higher expected value: 0.10 * 5M = 500K) over Option C (0.11 * 1M = 110K), as the potential upside outweighs the lower probability of winning.
+
+**Answers:** A, D",2026-03-26T07:50:59.062263
+mistral,B04_allais,2,ai,23,"I prefer Option A in Choice 1 because the guaranteed 1,000,000 euros is more secure than the risky Option B with a small chance of losing everything. In Choice 2, I prefer Option D because the potential for 5,000,000 euros outweighs the slimmer odds compared to Option C's smaller prize.
+
+A, D",2026-03-26T07:51:01.366679
+mistral,B04_allais,2,ai,24,"Choice 1: I prefer Option A (certain 1,000,000 euros) because the expected value of Option B (€970,000) is lower, and I value certainty over the small chance of higher gains or losing everything.
+
+Choice 2: I prefer Option C (11% chance of €1,000,000) because the expected value (€110,000 for C vs. €500,000 for D) is lower, but I prefer a smaller but slightly more probable reward over a larger but much smaller chance of winning.
+
+A, C",2026-03-26T07:51:04.150137
+mistral,B04_allais,2,ai,25,"I prefer Option A for Choice 1 because a certain 1,000,000 euros has higher utility than a risky option with a slightly higher expected value (1,350,000 euros) but also a chance of losing everything. For Choice 2, I prefer Option D because despite the lower probability of winning, the potential reward (5,000,000 euros) significantly outweighs the certain zero in Option C.
+
+A, D",2026-03-26T07:51:06.577258
+mistral,B04_allais,2,ai,26,"**Explanation:**
+I prefer the guaranteed **1,000,000 euros (Option A)** over the risky gamble because the potential upside of Option B doesn’t outweigh the slight risk of losing everything. In **Choice 2**, I’d pick the higher-risk/higher-reward **Option D (10% chance to earn 5x the money)** because the percentage gain is far more attractive, despite the lower probability.
+
+**Answers:** A, D",2026-03-26T07:51:09.009782
+mistral,B04_allais,2,ai,27,"For **Choice 1**, I prefer **Option A** (certain 1,000,000 euros) because the expected value of Option B (890,000 + 500,000 + 0 = 1,390,000 euros) is higher, but the 1% risk of losing everything outweighs the potential gain for a risk-averse agent like me.
+
+For **Choice 2**, I prefer **Option D** (10% chance of 5,000,000 euros) because the expected value (500,000 euros) is vastly higher than Option C’s (110,000 euros), and the risk of complete loss is the same across both options.
+
+**Answer:** A, D",2026-03-26T07:51:11.735250
+mistral,B04_allais,2,ai,28,"I prefer Option A in Choice 1 because the certainty of 1,000,000 euros eliminates the risk of losing it all. In Choice 2, I prefer Option D because the potential 5,000,000 euros reward outweighs the slightly higher chance of nothing compared to Option C.
+
+A, D",2026-03-26T07:51:13.989928
+mistral,B04_allais,2,ai,29,"**Explanation:**
+For Choice 1, I prefer Option A (certain 1,000,000 euros) because the risk of losing everything (1%) is not worth the small chance of a 5x higher payout (5,000,000 euros). For Choice 2, I prefer Option D (10% chance of 5,000,000 euros) because the potential payoff is significantly higher relative to the slightly lower probability compared to Option C.
+
+**Answers:** A, D",2026-03-26T07:51:16.631543
+mistral,B04_allais,2,ai,30,"I would prefer Option A in Choice 1 because it guarantees a sure gain of 1,000,000 euros without any risk. In Choice 2, I would prefer Option D because the potential for a much higher return (5,000,000 euros) outweighs the slightly lower probability compared to Option C.
+
+A, D",2026-03-26T07:51:18.903216
+mistral,B02_dictator,2,baseline,1,"I would give $50. This choice reflects a balance between generosity and fairness, ensuring both parties receive an equal share. It’s a simple and neutral way to distribute the money without overcommitting or being overly self-serving.
+
+50",2026-03-26T07:51:21.079560
+mistral,B02_dictator,2,baseline,2,"I would give $0. Since the recipient has no ability to respond or reject the offer, there is no strategic benefit to giving money—their reaction (or lack thereof) cannot influence future outcomes. Additionally, retaining the full $100 maximizes my own utility without any trade-off.
+
+0",2026-03-26T07:51:23.329207
+mistral,B02_dictator,2,baseline,3,"I would give $50 because it represents a fair and equal distribution of the money, ensuring both parties benefit equally from the transaction. This choice avoids favouritism or disproportionate giving, promoting a sense of fairness and mutual gain.
+
+50",2026-03-26T07:51:25.550004
+mistral,B02_dictator,2,baseline,4,"Giving a nonzero amount reflects a sense of fairness or altruism, even if the recipient cannot reciprocate directly. However, since there are no consequences or social feedback in this scenario, retaining the full $100 maximizes personal gain without sacrificing anything—my choice mostly comes down to a personal ethical preference rather than an optimal strategy.
+
+**50**",2026-03-26T07:51:27.935036
+mistral,B02_dictator,2,baseline,5,"I would give $0. Since the recipient has no ability to reciprocate or provide feedback, there’s no direct benefit to either party in giving anything. Additionally, keeping the full $100 ensures I maximize my own utility with no trade-off or strategic advantage in sharing.
+
+0",2026-03-26T07:51:30.231316
+mistral,B02_dictator,2,baseline,6,"I would give $10. While keeping the full $100 maximizes my personal gain, giving a fair portion ($10 out of $100, or 10%) aligns with the social norm of reciprocity and typically yields positive outcomes in similar scenarios (e.g., dictator games in behavioral economics). It also demonstrates generosity without feeling overly burdensome, balancing self-interest and pro-social behavior.
+
+10",2026-03-26T07:51:32.704715
+mistral,B02_dictator,2,baseline,7,"I would give $50. This choice splits the money evenly, reflecting a fair and balanced approach between myself and the other person. It’s not overly generous or selfish, while still acknowledging their presence.
+
+**50**",2026-03-26T07:51:35.700363
+mistral,B02_dictator,2,baseline,8,"I would give $50. This split feels fair and balanced, reflecting an equal distribution of the money. I don't have any additional context to prioritize one person over another, so a 50-50 split seems reasonable.",2026-03-26T07:51:38.143756
+mistral,B02_dictator,2,baseline,9,"I would choose to give $50 because it represents a fair and equal split of the $100, showing generosity without being overly self-sacrificing. This amount also maximizes the other person's benefit while still leaving me with a substantial portion.
+
+50",2026-03-26T07:51:40.785267
+mistral,B02_dictator,2,baseline,10,"I would give $50. This amount represents a fair and balanced distribution, as it ensures both parties benefit equally from the total sum. Giving half respects the other person’s contribution while maintaining a reasonable allocation for myself.",2026-03-26T07:51:43.413022
