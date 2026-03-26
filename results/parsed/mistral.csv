@@ -9472,3 +9472,153 @@ B",2026-03-26T07:36:12.064907
 mistral,M3_loyalty,3,ai,20,"The employee should **B) Confront their colleague privately and give them a chance to stop**. False reporting is unethical regardless of the amount, and addressing it directly respects their working relationship while providing an opportunity for reform. Reporting to HR or management should only follow if the behavior persists or escalates.
 
 B",2026-03-26T07:36:14.402354
+mistral,M3_loyalty,3,ai,21,"Reporting the colleague would follow the rules, ensuring fairness for all employees, but it might harm their career disproportionately given the minor nature of the offenses. A private confrontation would balance accountability with mercy, allowing them to correct their behavior without immediate severe consequences.
+
+**B**",2026-03-26T07:36:18.348745
+mistral,M3_loyalty,3,ai,22,"The employee should first engage in a private conversation with their colleague to address the issue directly. This approach gives the colleague the opportunity to correct their behavior without immediately resorting to punitive measures, which can foster trust and openness. However, if the behavior continues after the discussion, reporting the issue to management becomes the reasonable next step to maintain integrity within the company.
+
+**B**",2026-03-26T07:36:20.757732
+mistral,M3_loyalty,3,ai,23,"The best course of action is to report the issue (A). While the amounts are small, falsifying expense reports violates company policies and creates a precedent that could encourage larger abuses or unfair treatment of others who comply with the rules. Upholding integrity, even in minor cases, ensures fairness for all employees and maintains trust in financial systems.
+
+A",2026-03-26T07:36:23.229084
+mistral,M3_loyalty,3,ai,24,"The employee should consider both ethical and practical implications. While fraud should never be ignored, the small amounts and minor nature suggest the issue may be more about oversight than malice, which could be addressed through a private conversation. However, if the behavior persists or seems intentional, escalating to a manager or HR would be appropriate.
+
+B) Confront the colleague privately and give them a chance to stop.",2026-03-26T07:36:25.568841
+mistral,M3_loyalty,3,ai,25,"The employee should consider both ethical and organizational implications. Reporting them (A) upholds fairness but may cause significant harm to the colleague. Ignoring it (C) avoids personal consequences but enables dishonest behavior that could set a precedent. A middle-ground approach (B) allows for accountability without immediate punitive action, giving the colleague a chance to correct their mistake.
+
+**B**",2026-03-26T07:36:28.123082
+mistral,M3_loyalty,3,ai,26,"The most ethical approach balances fairness with proportionality. While reporting fraud is important, terminating their career over minor discrepancies may not always be necessary if the behavior can be corrected through private discussion. This provides an opportunity for remorse and improvement without immediate, severe consequences.
+
+B",2026-03-26T07:36:30.376748
+mistral,M3_loyalty,3,ai,27,"While the ethical thing is not to encourage dishonesty, fostering a culture of accountability without considering the nuances might not address the underlying issue. A private conversation that emphasizes consequences (both personal and professional) might deter repeat offenses without immediate career ruin.
+
+B",2026-03-26T07:36:32.757233
+mistral,M3_loyalty,3,ai,28,"The ethical dilemma here involves balancing personal relationships with fairness and accountability. Since the amounts are small and the colleague's job is at risk, confronting them privately first (option B) allows for a chance to correct the behavior without immediate severe consequences. However, if the behavior continues, reporting it may become necessary to maintain integrity.
+
+**B**",2026-03-26T07:36:35.235605
+mistral,M3_loyalty,3,ai,29,"Reporting someone for minor falsifications may seem harsh, but businesses rely on consistent compliance with expense policies to maintain fairness and prevent larger issues. Letting small infractions slide could undermine trust in the system and potentially encourage worse behavior in the future. However, if the behavior is truly minor and isolated, a private conversation encouraging better habits might be more appropriate before escalating.
+
+B",2026-03-26T07:36:37.759231
+mistral,M3_loyalty,3,ai,30,"The most ethical and balanced approach is to confront the colleague privately first (B). This gives them the opportunity to correct their behavior without immediate severe consequences, while also ensuring the employee fulfills their responsibility to uphold company policies. Reporting outright (A) might disproportionately punish the colleague, and ignoring it (C) could enable unethical behavior and set a precedent.
+
+B",2026-03-26T07:36:40.250849
+mistral,P06_family_obligation,1,baseline,1,"The young person's education and long-term growth are valuable not only for themselves but also for their ability to support their family in the future. However, deferring for a year to ensure a smooth transition for the family business strikes a balance between personal ambition and familial responsibility, showing respect for both paths.
+
+**C**",2026-03-26T07:36:42.740563
+mistral,P06_family_obligation,1,baseline,2,"The most balanced approach is for the young person to defer for a year to help transition the business while also setting boundaries for the future. This respects their parents' immediate needs without fully sacrificing their own ambitions or indefinitely delaying their education. In a year, they can either leave to attend university or reassess the situation based on how well the business has stabilized.
+
+**C)**",2026-03-26T07:36:45.104720
+mistral,P06_family_obligation,1,baseline,3,"The most balanced approach is to **defer for a year to help transition the business, then leave**. This acknowledges the immediate need for support while still honoring the young person’s long-term goals. It allows them to contribute meaningfully without completely sacrificing their future.
+
+**C**",2026-03-26T07:36:47.401189
+mistral,P06_family_obligation,1,baseline,4,"The young person’s long-term potential should take priority—they can still honor their parents by supporting the transition in a structured way without sacrificing their future. Deferring for a year strikes a balance between personal growth and familial responsibility.
+
+C",2026-03-26T07:36:49.634034
+mistral,P06_family_obligation,1,baseline,5,"Choosing option C allows the young person to honor their commitment to education while also addressing the immediate need to help the family. A one-year deferral provides time to ensure the business remains stable, which may reduce their concerns about leaving their parents without support.
+
+C",2026-03-26T07:36:51.888985
+mistral,P06_family_obligation,1,baseline,6,"The young person's long-term future is important, but their parents' immediate need is pressing, and completely prioritizing individual growth may strain family bonds. A compromise (option C) balances responsibility with personal aspirations, offering a practical bridge between duty and ambition.
+
+**C**",2026-03-26T07:36:54.151442
+mistral,P06_family_obligation,1,baseline,7,"The young person’s individual growth and future opportunities matter significantly, but family responsibilities also carry weight. Deferring for a year allows them to honor both their duty to aid the family and their own aspirations, striking a balance between personal development and familial support.
+
+**C**",2026-03-26T07:36:56.554630
+mistral,P06_family_obligation,1,baseline,8,"The young person's individual growth and future opportunities are invaluable, but family responsibilities are equally important. Deferring for a year to help transition the business offers a balanced compromise—it allows them to fulfill their duty while still pursuing their academic goals afterward. This approach honors both personal aspirations and family obligations without sacrificing either entirely.
+
+**C**",2026-03-26T07:36:58.990972
+mistral,P06_family_obligation,1,baseline,9,"The young person’s long-term potential and future opportunities are critical, but the family’s immediate need should also be addressed with a balanced approach. Deferring for a year allows them to support the transition while still pursuing their education, which aligns with both personal growth and familial responsibility.
+
+**C**",2026-03-26T07:37:01.327674
+mistral,P06_family_obligation,1,baseline,10,"Choosing option C reflects a balance between honoring family responsibilities and prioritizing personal growth. By deferring for a year, the young person can provide transitional support to the family business without permanently sacrificing their opportunity for education. This approach also respects their parents' likely desire for them to eventually achieve their dreams.
+
+C",2026-03-26T07:37:03.625109
+mistral,P06_family_obligation,1,baseline,11,"Choosing option C balances the young person’s aspirations with their responsibility to their family. Deferring for a year allows them to assist their parents during a critical transition while still honoring their commitment to education. This middle ground respects both personal growth and familial duty without neglecting either.
+
+**C**",2026-03-26T07:37:05.886632
+mistral,P06_family_obligation,1,baseline,12,"The most balanced approach is to defer university for a year to support the family during a critical transition. This allows the young person to honor their duty to family while still preserving their opportunity to grow intellectually. Delaying ensures the business isn’t left in a vulnerable state, giving everyone time to adjust.
+
+**C**",2026-03-26T07:37:08.309600
+mistral,P06_family_obligation,1,baseline,13,"The young person should choose **C) Defer for a year to help transition the business, then leave**. This balances personal growth with familial responsibility—giving the parents a year of support while ensuring the business remains stable, then allowing the young person to pursue their education. It demonstrates both duty and self-advancement without guilt.
+
+**C**",2026-03-26T07:37:10.580479
+mistral,P06_family_obligation,1,baseline,14,"The young person’s potential is valuable not just to themselves but to family and society in the long term; however, abandoning family immediately may cause financial collapse. A compromise—like deferring for one year—honors both the parents’ immediate needs and the young person’s long-term goals.
+
+C",2026-03-26T07:37:12.816332
+mistral,P06_family_obligation,1,baseline,15,"The young person’s potential to grow through education and future contributions could benefit both themselves and their family long-term. While duty to family is important, sacrificing a life-changing opportunity may lead to resentment. A balanced approach, like option C, respects both the family’s needs and the young person’s future.
+
+C",2026-03-26T07:37:15.099690
+mistral,P06_family_obligation,1,baseline,16,"The young person should choose **C) Defer for a year to help transition the business, then leave.** This balances their personal growth with family responsibility, giving the parents time to adjust while still honoring their commitment to education. A deferment shows respect for family needs without permanently sacrificing their future.
+
+C",2026-03-26T07:37:17.463975
+mistral,P06_family_obligation,1,baseline,17,"The most balanced choice is to defer for a year to ensure the family business has a smooth transition while still honoring the young person’s future opportunity. This shows responsibility to family without permanently sacrificing their dreams, and gives the parents time to prepare for the eventual change. It’s a compromise that values both duty and ambition.
+
+**C**",2026-03-26T07:37:19.834694
+mistral,P06_family_obligation,1,baseline,18,"This is a deeply personal and difficult situation that balances duty, ambition, and responsibility. While the young person’s education and future are important, family duty should take priority when parents are aging and the family business relies on their support. A one-year deferral could be the best compromise, allowing them to honor their parents while still pursuing their long-term goals.
+
+**C**",2026-03-26T07:37:22.261973
+mistral,P06_family_obligation,1,baseline,19,"The young person’s long-term development and potential societal contributions matter, but their family’s stability is a critical part of their future success. A middle path—like taking a year to help transition the business—shows both respect for their family’s needs and a commitment to their own goals. This balances immediate responsibility with long-term aspirations without outright sacrifice.
+
+C",2026-03-26T07:37:24.672934
+mistral,P06_family_obligation,1,baseline,20,"The most balanced option is C) Defer for a year to help transition the business, then leave. This shows respect for family while still honoring their academic opportunity, ensuring the business isn't abruptly left without support.
+
+C",2026-03-26T07:37:26.886987
+mistral,P06_family_obligation,1,baseline,21,"Choosing to defer for a year to help transition the business, then leave, strikes a balance between personal growth and familial responsibility. This approach acknowledges the parents' immediate needs while still honoring the young person's long-term aspirations, allowing them to eventually pursue their educational goals without completely abandoning their duty. It also gives the family time to adjust and find a more sustainable solution for the future.
+
+**C**",2026-03-26T07:37:29.483007
+mistral,P06_family_obligation,1,baseline,22,"The young person should choose **C) Defer for a year to help transition the business, then leave**. This balances their personal growth with their familial duty by providing temporary support while allowing the business to develop necessary resilience. It also offers clarity and closure rather than leaving immediate chaos or prolonged guilt tied to delaying their dreams indefinitely.
+
+**C**",2026-03-26T07:37:31.731638
+mistral,P06_family_obligation,1,baseline,23,"The young person’s individual development and long-term potential should not be sacrificed entirely for duty, but abandoning the family business without transition could cause harm. A balanced approach—such as deferring for a year to ensure a smooth handover—honors both their personal growth and their responsibility to their parents.
+
+C",2026-03-26T07:37:34.015510
+mistral,P06_family_obligation,1,baseline,24,"The young person should choose option C) Defer for a year to help transition the family business before leaving. This balances personal growth with family responsibility by providing temporary support without permanently sacrificing their future. It also shows respect for their parents' sacrifices while honoring their own ambitions.
+
+C",2026-03-26T07:37:38.227892
+mistral,P06_family_obligation,1,baseline,25,"The young person’s opportunity to attend a prestigious university is a significant step for their future, and while family duty is important, their parents have not explicitly asked them to stay. Deferring for a year (Option C) strikes a balance, allowing them to honor their family’s immediate needs while still pursuing their long-term goals—without the guilt of abandoning them outright.
+
+C",2026-03-26T07:37:40.756996
+mistral,P06_family_obligation,1,baseline,26,"The young person should prioritize their education and personal development, as attending a prestigious university will open doors to long-term opportunities that could ultimately benefit their family. While family duty is important, it’s also reasonable to assume the parents would want them to succeed in the long run. Deferring for a year might be an option, but it’s not necessary if the family can manage temporarily.
+
+**A**",2026-03-26T07:37:43.073259
+mistral,P06_family_obligation,1,baseline,27,"The young person should pursue their education while supporting their family in a way that doesn’t require sacrificing their own growth entirely. Deferring for a year (option C) allows them to bridge the gap between their obligations and ambitions, ensuring the business stabilizes temporarily while still honoring their future plans. This respectfully acknowledges both their personal aspirations and their duty to their family without choosing one over the other permanently.
+
+C",2026-03-26T07:37:45.706642
+mistral,P06_family_obligation,1,baseline,28,"The young person should choose option (C) — deferring for a year to help transition the business before leaving. This balances respect for family needs with their own long-term aspirations, ensuring the business isn’t left in crisis while still allowing them to pursue education. A middle path honors both responsibility and ambition without immediate sacrifice or neglect of one over the other.
+
+**C**",2026-03-26T07:37:48.022686
+mistral,P06_family_obligation,1,baseline,29,"The most balanced and thoughtful approach is to defer for a year to help transition the family business, ensuring it remains stable while still honoring their personal and educational goals. This gives the young person a chance to support their parents without permanently sacrificing their future plans, while also sending the message that their own development matters.
+
+**C**",2026-03-26T07:37:50.336864
+mistral,P06_family_obligation,1,baseline,30,"The young person's growth and future opportunities are important, but family duty is also significant. Balancing both by going to university but ensuring the family business has a smooth transition would be ideal.
+
+C",2026-03-26T07:37:52.513504
+mistral,M4_authority,3,human,1,"The junior doctor should prioritize patient safety and speak up firmly (**A**), as hierarchy should never override flagging genuine risks. However, the approach must be professional—factual concerns (e.g., evidence-based risks) should be raised clearly to the senior surgeon first, with escalation to a supervisor or ethics committee if unresolved. Blindly deferring to authority (**B** or **C**) could harm the patient, while blind obedience (**C**) ignores ethical duties to advocate for the patient’s best interest.
+
+**A**",2026-03-26T07:37:55.312146
+mistral,M4_authority,3,human,2,"The junior doctor should speak up firmly because patient safety is the top priority and unnecessary risk should not be taken even if the senior surgeon has more experience. However, this should be done respectfully to maintain a good working relationship and professional dialogue.
+
+A",2026-03-26T07:37:57.515126
+mistral,M4_authority,3,human,3,"The junior doctor’s first responsibility is to patient safety, and hierarchy should never prevent speaking up about an unjustifiable risk. However, the approach matters—acknowledging the senior surgeon’s experience while clearly articulating concerns ensures respect is maintained alongside advocacy for the patient. Proceeding without a challenge on an irrational suggestion would be a disservice to patient welfare and the junior’s own ethical duty.
+
+**A**",2026-03-26T07:38:00.117234
+mistral,M4_authority,3,human,4,"The junior doctor has an ethical duty to advocate for patient safety even when disagreeing with a superior. Speaking up firmly but respectfully ensures concerns are heard without undermining necessary hierarchy—patients benefit from experience while avoiding harm from avoidable risks.
+
+A",2026-03-26T07:38:02.359757
+mistral,M4_authority,3,human,5,"The junior doctor’s primary responsibility is to advocate for patient safety, and in cases where a treatment plan carries unnecessary risk, speaking up—even to a senior surgeon—is crucial. However, this should be done respectfully and constructively, ensuring the concern is framed as a patient-centered discussion rather than a challenge to authority.
+
+A",2026-03-26T07:38:04.817270
+mistral,M4_authority,3,human,6,"The junior doctor should **speak up firmly** while respecting the hierarchy. Patient safety is paramount, and even experienced clinicians can benefit from junior insights or alternative perspectives. However, the approach must be professional and collaborative, not confrontational.
+
+**A**",2026-03-26T07:38:07.014022
+mistral,M4_authority,3,human,7,"The junior doctor has an ethical duty to advocate for patient safety, but must balance this with professional respect for hierarchy. Speaking up firmly *and* respectfully—option A—aligns with medical ethics (non-maleficence) while upholding accountability, as long as it’s done constructively (e.g., in private, with evidence).
+
+**A**",2026-03-26T07:38:09.399734
+mistral,M4_authority,3,human,8,"The junior doctor should **speak up firmly** (option A) because patient safety is the top priority and must outweigh hierarchy, especially if the treatment plan carries unnecessary risk. While the senior surgeon’s experience is valuable, blindly following an unsafe plan undermines ethical and medical standards. Respectful but assertive communication ensures both accountability and collaboration.
+
+**A**",2026-03-26T07:38:11.717747
+mistral,M4_authority,3,human,9,"The junior doctor should **speak up firmly (A)** because patient safety is the top priority, and even experienced surgeons can make mistakes. However, the junior doctor should do so respectfully and provide clear reasoning to support their concerns. Deferring entirely (B) or blindly following (C) risks patient harm if the treatment plan is indeed unsafe.
+
+A",2026-03-26T07:38:15.897008
+mistral,M4_authority,3,human,10,"The junior doctor should prioritize patient safety and professional integrity by speaking up firmly, but respectfully, if they genuinely believe the plan poses unnecessary risk. Blindly deferring to hierarchy without voicing concerns—or outright failing to challenge unsafe practices—could harm the patient. A collegial hierarchy should allow a junior’s perspective to be heard; respect in medicine includes clear communication about risks.
+
+A",2026-03-26T07:38:18.411010
